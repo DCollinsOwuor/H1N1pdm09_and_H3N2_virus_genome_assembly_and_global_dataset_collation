@@ -20,7 +20,7 @@ The Kenya WGS dataset are available from the Global Initiative on Sharing All In
 
 1.	1_H1N1pdm09_and_H3N2_virus_Kenya_genomes
 
-Lists of 383 influenza H1N1pdm09 virus (2009-2018) and 58 H3N2 virus (2015-2016) WGS data showing: sample names, GISAID accession numbers, collection locations, virus clades, number of sequencing reads, number of influenza reads, PCR Ct values and collection dates.
+A list of of 383 influenza H1N1pdm09 virus (2009-2018) and 58 H3N2 virus (2015-2016) WGS data from Kenya showing: sample names, GISAID accession numbers, collection locations, virus clades, number of sequencing reads, number of influenza reads, PCR Ct values and collection dates.
 
 	  (i)	H1N1pdm09_Kenya_2009-2018_genome_details.txt
 	  (ii)	H3N2_Kilifi_Kenya_2015-2016_genome_details.txt
