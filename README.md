@@ -113,7 +113,7 @@ Reference-based assembly of 10 Kenyan paired end read data to evaluate utility o
         	1_Africa
         	2_Asia
         	3_Europe
-       		4_North_America
+		4_North_America
         	5_South_America
         	6_Oceania
 
