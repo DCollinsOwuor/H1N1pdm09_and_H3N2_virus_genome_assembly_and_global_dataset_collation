@@ -29,7 +29,7 @@ A list of of 383 influenza H1N1pdm09 virus (2009-2018) and 58 H3N2 virus (2015-2
 
 Reference-based assembly of 10 Kenyan paired end read data to evaluate utility of the BWA assembler for genome assembly. The **assembly.sh** script was used to: count number of raw reads, trim raw reads, map trimmed reads to reference, sort, merge, and index the reads and perform a final alignment.
 
-	a. Assembly output files - small file sizes only:
+	a. Assembly output files - small output files only:
 
 		1_Total_raw_reads - Total number of raw reads;
 		2_Total_raw_paired_reads - Total number of raw paired reads;
