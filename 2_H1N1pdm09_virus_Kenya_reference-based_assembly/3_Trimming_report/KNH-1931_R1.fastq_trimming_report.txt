@@ -1,0 +1,139 @@
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: KNH-1931_R1.fastq
+Trimming mode: paired-end
+Trim Galore version: 0.6.4_dev
+Cutadapt version: 1.18
+Number of cores used for trimming: 1
+Quality Phred score cutoff: 30
+Quality encoding type selected: ASCII+33
+Using Nextera adapter for trimming (count: 447). Second best hit was Illumina (count: 1)
+Adapter sequence: 'CTGTCTCTTATA' (Nextera Transposase sequence; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 75 bp
+
+
+This is cutadapt 1.18 with Python 3.7.4
+Command line parameters: -j 1 -e 0.1 -q 30 -O 1 -a CTGTCTCTTATA KNH-1931_R1.fastq
+Processing reads on 1 core in single-end mode ...
+Finished in 3.11 s (13 us/read; 4.74 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 245,635
+Reads with adapters:                   100,893 (41.1%)
+Reads written (passing filters):       245,635 (100.0%)
+
+Total basepairs processed:    49,025,646 bp
+Quality-trimmed:               4,577,385 bp (9.3%)
+Total written (filtered):     44,306,137 bp (90.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTGTCTCTTATA; Type: regular 3'; Length: 12; Trimmed: 100893 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-12 bp: 1
+
+Bases preceding removed adapters:
+  A: 29.8%
+  C: 25.0%
+  G: 20.6%
+  T: 24.5%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	82846	61408.8	0	82846
+2	11566	15352.2	0	11566
+3	4794	3838.0	0	4794
+4	803	959.5	0	803
+5	301	239.9	0	301
+6	135	60.0	0	135
+7	126	15.0	0	126
+8	23	3.7	0	23
+9	18	0.9	0	5 13
+10	30	0.2	1	2 28
+11	8	0.1	1	4 4
+12	5	0.0	1	5
+13	9	0.0	1	5 4
+14	3	0.0	1	1 2
+16	2	0.0	1	0 2
+17	3	0.0	1	2 1
+18	2	0.0	1	1 1
+19	1	0.0	1	0 1
+20	3	0.0	1	0 3
+21	6	0.0	1	3 3
+22	4	0.0	1	3 1
+23	2	0.0	1	1 1
+24	2	0.0	1	2
+25	4	0.0	1	3 1
+26	2	0.0	1	1 1
+27	2	0.0	1	0 2
+28	3	0.0	1	1 2
+29	2	0.0	1	1 1
+31	1	0.0	1	1
+33	1	0.0	1	1
+34	1	0.0	1	1
+35	2	0.0	1	0 2
+36	2	0.0	1	0 2
+37	2	0.0	1	0 2
+38	1	0.0	1	1
+39	2	0.0	1	1 1
+40	3	0.0	1	0 3
+41	4	0.0	1	1 3
+42	10	0.0	1	5 5
+43	6	0.0	1	1 5
+44	2	0.0	1	0 2
+50	1	0.0	1	0 1
+53	2	0.0	1	0 2
+54	2	0.0	1	2
+56	3	0.0	1	1 2
+57	3	0.0	1	2 1
+58	2	0.0	1	1 1
+59	1	0.0	1	1
+60	1	0.0	1	1
+61	2	0.0	1	2
+62	3	0.0	1	1 2
+63	2	0.0	1	2
+64	2	0.0	1	1 1
+65	2	0.0	1	1 1
+66	3	0.0	1	2 1
+67	2	0.0	1	0 2
+68	3	0.0	1	2 1
+69	4	0.0	1	3 1
+70	4	0.0	1	1 3
+71	2	0.0	1	0 2
+72	6	0.0	1	4 2
+73	2	0.0	1	1 1
+74	5	0.0	1	4 1
+75	40	0.0	1	30 10
+76	15	0.0	1	12 3
+77	14	0.0	1	7 7
+78	4	0.0	1	1 3
+81	1	0.0	1	0 1
+83	2	0.0	1	1 1
+84	1	0.0	1	0 1
+89	1	0.0	1	0 1
+91	1	0.0	1	1
+98	1	0.0	1	0 1
+100	2	0.0	1	0 2
+101	1	0.0	1	0 1
+117	2	0.0	1	0 2
+144	1	0.0	1	0 1
+158	1	0.0	1	0 1
+166	1	0.0	1	0 1
+170	1	0.0	1	0 1
+187	1	0.0	1	0 1
+202	1	0.0	1	0 1
+204	1	0.0	1	0 1
+216	1	0.0	1	0 1
+235	1	0.0	1	0 1
+
+
+RUN STATISTICS FOR INPUT FILE: KNH-1931_R1.fastq
+=============================================
+245635 sequences processed in total
+

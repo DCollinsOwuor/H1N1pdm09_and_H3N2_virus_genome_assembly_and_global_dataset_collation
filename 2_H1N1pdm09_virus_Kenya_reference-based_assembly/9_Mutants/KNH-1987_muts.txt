@@ -1,0 +1,3185 @@
+Pos	Ref	A_MP	A_NP	A_NS	A_PA	A_PB1	A_PB2	A_HA_H1	A_NA_N1	A_MP	A_NP	A_NS	A_PA	A_PB1	A_PB2	A_HA_H1
+1	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+3	-	 	A	 	 	 	G	 	 	 	A	 	 	 	G	 
+4	-	 	T	 	 	 	G	 	 	 	T	 	 	 	G	 
+5	-	 	G	 	 	 	A	 	 	 	G	 	 	 	A	 
+6	-	 	G	 	 	 	G	 	 	 	G	 	 	 	G	 
+7	-	 	C	 	 	 	A	 	 	 	C	 	 	 	A	 
+8	-	 	G	 	 	 	G	 	 	 	G	 	 	 	G	 
+9	-	 	T	 	 	 	A	 	 	 	T	 	 	 	A	 
+10	-	 	C	 	 	 	A	 	 	 	C	 	 	 	A	 
+11	-	 	T	 	 	 	T	 	 	 	T	 	 	 	T	 
+12	-	 	C	 	 	 	A	 	 	 	C	 	 	 	A	 
+13	-	 	A	 	 	 	A	 	 	 	A	 	 	 	A	 
+14	-	 	A	A	 	 	A	 	 	 	A	A	 	 	A	 
+15	-	 	G	T	 	 	A	 	 	 	G	T	 	 	A	 
+16	-	 	G	G	 	 	G	 	 	 	G	G	 	 	G	 
+17	-	 	C	G	 	 	A	 	 	 	C	G	 	 	A	 
+18	-	 	A	A	 	 	A	 	 	 	A	A	 	 	A	 
+19	-	 	C	C	A	A	C	 	 	 	C	T	A	A	C	 
+20	-	 	C	T	T	T	T	 	 	 	C	T	T	T	T	 
+21	-	 	A	C	G	G	G	 	 	 	A	C	G	G	A	 
+22	-	 	A	C	G	G	A	 	 	 	A	C	G	G	A	 
+23	-	 	A	A	A	A	G	 	 	 	A	A	A	A	G	 
+24	-	 	C	A	A	T	A	 	 	 	C	A	A	T	A	 
+25	-	 	G	C	G	G	G	 	 	 	G	C	G	G	G	 
+26	-	 	A	A	A	 	A	 	 	 	A	A	A	 	A	 
+27	-	 	T	C	C	 	T	 	 	 	T	C	C	 	T	 
+28	-	 	C	C	T	T	C	 	 	 	C	T	T	T	C	 
+29	-	 	A	A	T	C	T	 	 	 	T	G	T	C	T	 
+30	-	 	T	T	T	A	A	 	 	 	T	T	T	A	A	 
+31	-	 	A	G	G	A	A	 	 	 	A	G	G	A	A	 
+32	-	 	T	T	T	T	T	 	 	 	T	T	T	T	T	 
+33	-	 	G	C	G	C	G	 	 	 	G	C	G	C	G	 
+34	-	 	 	A	C	C	T	 	 	 	 	A	C	C	T	 
+35	-	 	 	A	G	G	C	 	 	 	 	A	G	G	C	 
+36	-	 	 	G	A	A	G	 	 	 	 	G	A	A	G	 
+37	-	 	 	C	C	C	C	 	 	 	 	C	C	C	C	 
+38	-	 	 	T	A	T	A	 	 	 	 	T	A	T	A	 
+39	-	 	 	T	A	C	G	 	 	 	 	T	A	T	G	 
+40	-	 	 	T	T	T	T	 	 	 	 	T	T	T	T	 
+41	-	 	 	C	G	A	C	 	 	 	 	C	G	A	C	 
+42	-	 	 	 	C	C	C	 	 	 	 	 	C	C	T	 
+43	-	 	 	 	T	T	C	 	 	 	 	 	T	T	C	 
+44	-	 	 	 	T	T	G	 	 	 	 	 	T	T	G	 
+45	-	 	 	 	C	T	C	 	 	 	 	 	C	T	C	 
+46	-	 	 	 	A	T	A	 	 	 	 	 	A	T	A	 
+47	-	 	 	 	A	C	C	 	 	 	 	 	A	C	C	 
+48	-	 	 	 	T	C	T	 	 	 	 	 	T	T	T	 
+49	-	 	 	 	C	T	C	 	 	 	 	 	C	T	C	 
+50	-	 	 	 	C	A	G	 	 	 	 	 	C	A	G	 
+51	-	 	 	 	A	A	C	 	 	 	 	 	A	A	C	 
+52	-	 	 	 	A	A	G	 	 	 	 	 	A	A	G	 
+53	-	 	 	 	T	G	A	 	 	 	 	 	T	A	A	 
+54	-	 	 	 	G	A	G	 	 	 	 	 	G	G	G	 
+55	-	 	 	 	A	T	A	 	 	 	 	 	A	T	A	 
+56	-	 	A	 	T	T	T	 	 	 	A	 	T	T	T	 
+57	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+58	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+59	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+60	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+61	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+62	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+63	-	 	A	 	G	 	A	 	 	 	A	 	G	 	A	 
+64	-	 	C	 	C	C	C	 	 	 	C	 	C	C	C	 
+65	-	 	A	 	T	C	T	 	 	 	A	 	T	C	T	 
+66	-	 	A	 	T	A	C	 	 	 	G	 	T	A	C	 
+67	-	 	A	 	G	G	A	 	 	 	A	 	G	G	A	 
+68	-	 	T	 	C	C	C	 	 	 	T	 	C	C	C	 
+69	-	 	G	 	G	G	T	 	 	 	G	 	G	G	A	 
+70	-	 	G	 	G	C	A	 	 	 	G	 	G	C	A	 
+71	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+72	-	 	G	 	A	A	G	 	 	 	A	 	A	A	A	 
+73	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+74	-	 	C	 	A	A	C	 	 	 	C	 	A	A	C	 
+75	-	 	T	 	G	T	C	 	 	 	T	 	G	T	C	 
+76	-	 	G	 	G	G	A	 	 	 	G	 	G	G	A	 
+77	-	 	G	 	C	C	C	 	 	 	G	 	C	C	C	 
+78	-	 	T	 	A	C	T	 	 	 	T	 	A	C	T	 
+79	A	 	G	-	 	 	G	 	 	 	G	-	 	 	G	 
+80	T	 	G	-	 	 	 	 	 	 	G	-	 	 	 	 
+81	G	 	 	-	 	A	 	 	 	 	 	-	 	A	 	 
+82	A	 	G	-	 	 	G	 	 	 	G	-	 	 	G	 
+83	A	G	 	-	 	G	 	 	 	G	 	-	 	G	 	 
+84	T	 	-	-	A	-	-	G	 	 	-	-	A	-	-	G
+85	C	-	-	-	G	-	-	G	 	-	-	-	G	-	-	G
+86	C	-	-	-	A	-	-	 	 	-	-	-	A	-	-	 
+87	A	-	-	-	 	-	-	-	 	-	-	-	 	-	-	 
+88	A	-	-	-	T	-	-	-	 	-	-	-	T	-	-	-
+89	A	-	-	-	 	-	-	-	 	-	-	-	 	-	-	-
+90	T	-	-	-	 	-	-	-	C	-	-	-	 	-	-	-
+91	C	-	-	-	G	-	-	-	 	-	-	-	G	-	-	-
+92	A	-	-	-	G	-	-	-	 	-	-	-	G	-	-	-
+93	A	-	-	-	G	-	-	-	 	-	-	-	G	-	-	-
+94	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+95	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+96	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+97	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+98	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+99	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+100	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+101	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+102	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+103	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+104	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+105	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+106	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+107	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+108	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+109	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+110	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+111	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+112	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+113	-	 	G	 	C	 	C	 	 	 	A	 	C	 	C	 
+114	-	 	C	 	T	 	C	 	 	 	C	 	A	 	C	 
+115	-	 	G	 	A	 	A	 	 	 	G	 	A	 	A	 
+116	-	 	C	 	A	 	T	 	 	 	C	 	A	 	T	 
+117	-	 	C	 	C	 	A	 	 	 	C	 	C	 	A	 
+118	-	 	A	 	A	 	T	 	 	 	A	 	A	 	T	 
+119	-	 	G	 	A	 	G	 	 	 	G	 	A	 	G	 
+120	-	 	G	 	G	 	G	 	 	 	A	 	A	 	G	 
+121	-	 	A	 	T	 	C	 	 	 	A	 	T	 	C	 
+122	-	 	T	 	T	 	C	 	 	 	T	 	T	 	C	 
+123	-	 	G	 	T	 	A	 	 	 	G	 	T	 	A	 
+124	-	 	C	 	G	 	T	 	 	 	C	 	G	 	T	 
+125	-	 	C	 	C	 	A	 	 	 	C	 	C	 	A	 
+126	-	 	A	 	T	C	A	 	 	 	A	 	T	C	A	 
+127	-	 	C	 	G	A	T	 	 	 	C	 	G	A	T	 
+128	-	 	A	 	C	C	C	 	 	 	T	 	C	C	C	 
+129	-	 	G	 	A	C	A	 	 	 	G	 	A	C	A	 
+130	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+131	-	 	A	 	T	C	A	 	 	 	A	 	T	C	G	 
+132	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+133	-	 	T	 	T	T	A	 	 	 	T	 	T	T	A	 
+134	-	 	C	 	G	T	G	 	 	 	C	 	G	T	G	 
+135	-	 	A	 	C	C	T	 	 	 	A	 	C	C	T	 
+136	-	 	G	 	A	C	A	 	 	 	G	 	A	C	A	 
+137	-	 	A	 	C	C	C	 	 	 	A	 	C	C	C	 
+138	-	 	G	 	A	T	A	 	 	 	G	 	A	T	A	 
+139	-	 	C	 	C	T	C	 	 	 	C	 	C	T	C	 
+140	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+141	-	 	T	 	T	T	T	 	 	 	T	 	C	T	T	 
+142	-	 	C	 	T	A	C	 	 	 	C	 	T	A	C	 
+143	-	 	T	 	T	C	A	 	 	 	T	 	T	C	A	 
+144	-	 	G	 	G	T	G	 	 	 	G	 	G	T	G	 
+145	-	 	T	 	G	G	G	 	 	 	T	 	G	G	G	 
+146	-	 	C	 	A	G	A	 	 	 	T	 	A	G	A	 
+147	-	 	G	 	A	A	A	 	 	 	G	 	A	A	A	 
+148	-	 	G	 	G	G	G	 	 	 	G	 	G	G	G	 
+149	-	 	A	 	T	A	G	 	 	 	A	 	T	A	A	 
+150	-	 	 	 	T	T	C	 	 	 	 	 	C	T	C	 
+151	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+152	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+153	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+154	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+155	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+156	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+157	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+158	-	 	 	 	T	 	A	 	 	 	 	 	T	 	A	 
+159	-	 	 	 	G	 	A	 	 	 	 	 	G	 	A	 
+160	-	 	 	 	T	 	G	 	 	 	 	 	T	 	G	 
+161	-	 	 	 	A	 	A	 	 	 	 	 	A	 	A	 
+162	-	 	 	 	T	 	G	 	 	 	 	 	T	 	G	 
+163	-	 	 	 	T	 	A	 	 	 	 	 	T	 	A	 
+164	-	 	 	 	C	 	A	 	 	 	 	 	C	 	A	 
+165	-	 	 	 	G	 	G	 	 	 	 	 	G	 	G	 
+166	-	 	 	 	G	 	A	 	 	 	 	 	G	 	A	 
+167	-	 	 	 	A	 	A	 	 	 	 	 	A	 	A	 
+168	-	C	 	 	T	C	C	 	 	C	 	 	T	C	C	 
+169	-	T	 	 	T	C	C	 	 	T	 	 	T	C	C	 
+170	-	T	 	 	T	T	C	 	 	T	 	 	T	T	C	 
+171	-	C	 	 	C	C	C	 	 	C	 	 	C	C	C	 
+172	-	T	 	 	C	C	G	 	 	T	 	 	C	C	G	 
+173	-	A	 	 	A	A	C	 	 	A	 	 	A	A	C	 
+174	-	A	 	 	T	T	A	 	 	A	 	 	T	T	A	 
+175	-	C	 	 	T	A	C	 	 	C	 	 	T	A	C	 
+176	-	C	 	 	T	C	T	 	 	C	 	 	T	C	T	 
+177	-	G	 	 	C	A	C	 	 	G	 	 	C	A	C	 
+178	-	A	 	 	A	G	A	 	 	A	 	 	A	G	A	 
+179	-	G	 	 	T	C	G	 	 	G	 	 	T	C	G	 
+180	-	G	 	 	C	C	A	 	 	G	 	 	C	C	A	 
+181	-	T	 	 	G	A	A	 	 	T	 	 	G	A	A	 
+182	-	C	 	 	A	T	T	 	 	C	 	 	A	T	T	 
+183	A	G	 	 	C	G	G	-	 	G	 	 	T	G	G	-
+184	A	 	G	G	G	G	 	-	 	 	G	G	G	G	 	-
+185	G	A	A	 	A	A	A	-	 	A	A	 	A	A	A	-
+186	A	 	 	T	 	 	G	-	 	 	 	T	 	 	 	 
+187	T	C	 	A	C	C	 	-	 	C	 	A	C	C	 	 
+188	A	G	G	G	G	 	G	 	 	G	G	G	G	 	G	 
+189	A	T	 	 	G	G	G	 	 	T	G	 	G	G	G	 
+190	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+191	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+192	-	 	 	 	T	 	 	 	 	 	 	 	C	 	 	 
+193	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+194	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+195	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+196	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+197	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+198	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+199	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+200	T	-	-	-	 	-	-	 	 	-	-	-	 	-	-	 
+201	A	-	-	-	 	-	-	 	 	-	-	-	 	-	-	 
+202	A	-	T	C	 	-	 	C	 	-	T	C	 	-	 	C
+203	C	-	T	T	T	-	T	T	 	-	T	T	T	-	T	T
+204	C	-	G	G	T	-	G	A	 	-	G	G	T	-	G	A
+205	A	-	G	T	G	-	 	G	 	-	G	C	G	-	 	G
+206	T	-	 	 	 	-	 	 	 	-	 	 	 	-	 	 
+207	T	-	G	 	A	-	G	A	 	-	G	 	A	-	G	A
+208	G	-	 	C	 	-	 	 	 	-	 	T	 	-	 	 
+209	G	-	A	T	A	-	C	T	 	-	A	C	A	-	C	T
+210	A	-	 	T	 	-	 	T	T	-	 	T	 	-	 	T
+211	T	-	 	 	 	-	A	C	 	-	 	 	 	-	A	C
+212	C	-	 	T	 	-	T	T	 	-	T	T	 	-	T	T
+213	A	-	G	G	T	-	G	G	G	-	G	G	T	-	G	G
+214	A	-	G	G	G	-	 	C	G	-	G	G	G	-	 	C
+215	T	-	G	C	G	-	G	 	 	-	G	C	G	-	A	 
+216	C	-	A	A	T	-	A	A	 	-	A	A	T	-	A	A
+217	T	-	G	 	G	G	 	 	 	-	G	 	G	G	 	 
+218	G	-	A	A	A	A	A	A	 	-	A	 	A	A	A	A
+219	T	-	 	 	C	A	C	 	 	-	 	 	 	A	 	 
+220	A	-	T	C	C	C	C	 	 	-	T	C	C	C	C	 
+221	T	-	C	C	C	A	C	C	 	-	C	C	C	A	C	C
+222	G	-	T	 	 	 	A	A	 	-	T	 	A	 	A	A
+223	-	 	A	C	A	G	A	T	 	 	A	C	A	G	A	T
+224	-	 	 	A	A	A	T	T	 	 	 	A	A	A	T	T
+225	-	 	 	A	T	T	T	T	 	 	 	A	T	T	T	T
+226	A	-	-	G	G	 	 	G	 	-	-	 	G	 	 	G
+227	C	-	-	 	 	 	 	 	 	-	-	 	 	 	 	 
+228	A	-	-	G	 	 	 	 	 	-	-	G	 	 	 	 
+229	A	-	-	 	C	C	-	 	 	-	-	 	C	C	-	 
+230	T	-	-	 	 	C	-	C	 	-	-	 	 	C	-	C
+231	-	 	 	T	A	A	 	 	 	 	 	T	A	A	 	 
+232	-	 	 	T	T	T	 	 	 	 	 	T	T	T	 	 
+233	-	 	 	G	T	G	G	 	 	 	 	G	T	G	G	 
+234	-	 	C	C	G	G	C	 	 	 	C	C	G	G	C	 
+235	-	 	A	A	A	A	A	 	 	 	A	A	A	A	A	 
+236	-	 	T	G	A	C	G	 	 	 	T	G	A	C	G	 
+237	-	 	C	A	G	A	A	 	 	 	A	A	G	A	A	 
+238	-	 	C	C	C	C	C	 	 	 	C	C	C	C	C	 
+239	-	 	A	A	A	 	A	 	 	 	A	C	A	 	A	 
+240	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+241	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+242	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+243	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+244	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+245	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+246	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+247	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+248	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+249	-	 	 	 	G	 	 	 	 	 	 	 	A	 	 	 
+250	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+251	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+252	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+253	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+254	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+255	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+256	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+257	-	 	A	A	A	A	A	 	 	 	G	A	A	A	A	 
+258	-	 	A	 	A	G	G	 	 	 	A	 	A	G	G	 
+259	-	 	T	 	G	T	A	 	 	 	T	 	G	T	A	 
+260	-	 	G	 	G	A	G	 	 	 	G	 	G	C	G	 
+261	-	 	T	 	A	A	A	 	 	 	T	 	A	A	A	 
+262	-	 	G	 	A	A	A	 	 	 	G	 	A	A	A	 
+263	-	 	C	 	G	C	T	 	 	 	C	 	G	C	T	 
+264	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+265	-	 	C	 	G	G	A	 	 	 	C	 	G	G	A	 
+266	-	 	T	 	A	A	T	 	 	 	T	 	A	A	T	 
+267	-	 	G	 	C	A	G	 	 	 	G	 	C	A	G	 
+268	-	 	A	 	C	C	G	 	 	 	A	 	C	C	G	 
+269	-	 	A	 	G	A	A	 	 	 	A	 	G	A	A	 
+270	-	 	C	 	A	C	C	 	 	 	C	 	A	C	A	 
+271	-	 	T	 	A	A	A	 	 	 	T	 	A	A	A	 
+272	-	 	C	 	T	C	T	 	 	 	C	 	C	C	T	 
+273	-	 	A	 	C	C	G	 	 	 	A	 	A	C	G	 
+274	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+275	-	 	A	 	T	A	T	 	 	 	A	 	T	A	T	 
+276	-	 	C	 	G	T	T	 	 	 	C	 	G	T	T	 
+277	-	 	T	 	G	A	C	 	 	 	T	 	G	A	C	 
+278	-	 	C	 	C	C	C	 	 	 	C	 	C	T	C	 
+279	-	 	A	 	C	T	A	 	 	 	A	 	C	T	T	 
+280	-	 	G	 	T	C	G	 	 	 	G	 	T	C	G	 
+281	-	 	T	 	G	A	A	 	 	 	T	 	G	A	A	 
+282	-	 	G	 	G	G	G	 	 	 	G	 	G	G	G	 
+283	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+284	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+285	-	 	T	 	C	A	G	 	 	 	C	 	C	A	G	 
+286	-	 	T	 	A	A	A	 	 	 	T	 	A	A	A	 
+287	-	 	A	 	G	A	A	 	 	 	A	 	G	A	A	 
+288	-	 	T	 	T	G	T	 	 	 	T	 	T	G	T	 
+289	-	 	G	 	G	G	G	 	 	 	G	 	G	G	G	 
+290	-	 	A	 	G	G	A	 	 	 	A	 	G	G	A	 
+291	-	 	T	 	T	A	G	 	 	 	A	 	T	G	A	 
+292	-	 	G	 	A	A	C	 	 	 	G	 	G	A	C	 
+293	-	 	G	 	A	A	A	 	 	 	G	 	A	A	A	 
+294	-	 	A	 	A	G	A	 	 	 	G	 	A	G	A	 
+295	-	 	C	 	C	T	G	 	 	 	A	 	C	T	G	 
+296	-	 	G	 	A	G	G	 	 	 	G	 	A	G	G	 
+297	-	 	A	 	G	G	A	 	 	 	G	 	G	G	A	 
+298	-	 	C	 	T	 	C	 	 	 	C	 	T	 	C	 
+299	-	 	T	 	A	 	A	 	 	 	T	 	A	 	A	 
+300	-	 	A	 	 	 	A	 	 	 	G	 	 	 	A	 
+301	-	 	A	 	 	 	A	 	 	 	A	 	 	 	A	 
+302	-	 	T	 	 	 	C	 	 	 	T	 	 	 	C	 
+303	-	 	C	 	 	 	C	 	 	 	C	 	 	 	C	 
+304	-	 	C	 	 	 	C	 	 	 	C	 	 	 	C	 
+305	-	 	A	 	T	 	T	 	 	 	A	 	T	 	T	 
+306	-	 	G	 	A	 	C	 	 	 	G	 	C	 	C	 
+307	-	 	A	 	T	 	T	 	 	 	A	 	T	 	T	 
+308	-	 	A	 	G	 	G	 	 	 	A	 	G	 	G	 
+309	-	 	T	 	T	 	G	 	 	 	C	 	C	 	G	 
+310	-	 	A	 	A	 	A	 	 	 	A	 	A	 	A	 
+311	-	 	G	 	A	 	G	 	 	 	G	 	A	 	G	 
+312	-	 	C	 	C	 	C	 	 	 	C	 	C	 	C	 
+313	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+314	-	 	T	 	C	C	A	 	 	 	T	 	C	C	A	 
+315	-	 	A	 	A	G	A	 	 	 	A	 	C	A	A	 
+316	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+317	-	 	C	 	C	C	C	 	 	 	C	 	C	C	C	 
+318	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+319	-	 	A	 	G	A	A	 	 	 	A	 	G	A	A	 
+320	-	 	 	 	G	A	A	 	 	 	 	 	G	A	A	 
+321	-	 	 	 	 	 	C	 	 	 	 	 	 	 	T	 
+322	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+323	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+324	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+325	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+326	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+327	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+328	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+329	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+330	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+331	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+332	T	-	 	 	G	C	C	C	 	-	 	A	A	C	C	C
+333	G	-	A	 	 	A	A	 	 	-	A	 	 	A	A	 
+334	G	-	 	 	T	C	 	C	 	-	 	A	T	C	 	C
+335	A	-	 	 	 	 	 	 	 	-	 	 	T	 	 	 
+336	A	-	G	T	G	G	C	 	 	-	G	C	G	G	C	 
+337	T	-	A	 	A	A	C	A	 	-	A	 	A	A	C	A
+338	A	-	G	G	G	G	G	T	G	-	G	G	G	G	G	T
+339	G	-	A	 	A	A	A	 	 	-	A	 	A	A	A	 
+340	T	-	A	G	A	C	G	C	C	-	A	G	A	C	G	C
+341	T	-	 	 	G	 	 	A	 	-	 	 	G	 	 	A
+342	A	-	G	G	C	G	G	G	 	-	G	G	C	G	G	G
+343	G	A	 	A	C	 	A	A	A	A	 	A	C	 	A	A
+344	C	 	T	T	T	T	T	 	 	 	T	T	T	A	T	 
+345	T	G	G	G	A	G	G	A	 	G	G	G	A	G	G	A
+346	T	 	C	C	A	C	G	C	 	 	C	C	A	C	G	C
+347	A	T	T	C	 	 	T	 	 	T	T	C	 	 	T	 
+348	A	C	T	C	T	C	 	T	 	C	C	C	T	C	 	T
+349	T	 	 	C	 	C	 	 	 	 	 	C	 	C	 	 
+350	G	T	C	A	T	C	C	A	A	C	C	A	T	C	C	A
+351	T	 	 	 	C	C	A	 	 	 	 	 	C	C	A	 
+352	-	C	G	T	T	A	C	G	 	C	G	T	T	A	C	G
+353	-	T	C	C	T	G	C	T	 	T	C	C	T	A	C	T
+354	-	A	T	C	C	C	T	A	 	A	A	C	C	C	T	A
+355	-	T	T	T	C	T	C	T	 	T	T	T	C	T	C	T
+356	-	C	T	T	T	C	T	A	 	C	T	T	A	C	T	A
+357	-	A	 	G	G	A	G	G	 	G	 	G	G	A	G	G
+358	-	T	 	A	A	A	G	G	 	T	 	A	A	A	G	G
+359	-	C	 	T	T	C	C	T	 	C	 	T	T	C	C	T
+360	-	C	 	C	T	C	C	T	 	C	 	C	T	C	T	T
+361	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+362	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+363	-	 	 	 	T	C	A	 	 	 	 	 	T	C	A	 
+364	-	 	 	 	G	G	A	 	 	 	 	 	G	A	A	 
+365	-	 	 	 	T	A	C	 	 	 	 	 	T	A	C	 
+366	-	 	 	 	A	T	A	 	 	 	 	 	A	T	A	 
+367	-	 	T	 	T	T	T	 	 	 	T	 	T	T	T	 
+368	-	 	G	 	G	G	G	 	 	 	G	 	G	G	G	 
+369	-	 	A	 	A	A	G	 	 	 	A	 	A	A	G	 
+370	-	 	T	 	T	T	T	 	 	 	T	 	T	T	T	 
+371	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+372	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+373	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+374	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+375	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+376	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+377	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+378	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+379	-	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+380	-	 	 	 	A	G	 	 	 	 	 	 	A	G	 	 
+381	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+382	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+383	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+384	-	 	 	 	G	A	 	 	 	 	 	 	G	A	 	 
+385	-	 	 	 	G	C	 	 	 	 	 	 	A	C	 	 
+386	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+387	-	 	 	 	T	A	 	 	 	 	 	 	T	A	 	 
+388	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+389	-	 	 	 	A	C	 	 	 	 	 	 	A	C	 	 
+390	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+391	-	 	 	 	T	G	 	 	 	 	 	 	T	G	 	 
+392	-	 	G	 	G	A	G	A	 	 	G	 	G	A	G	A
+393	-	 	A	 	A	G	G	T	 	 	A	 	A	G	G	T
+394	-	 	G	 	A	G	A	C	 	 	G	 	A	G	A	C
+395	-	 	A	 	A	A	A	A	 	 	A	 	A	A	A	A
+396	-	 	G	 	T	T	T	T	 	 	G	 	T	T	T	T
+397	-	 	A	 	T	 	A	G	 	 	A	 	T	 	A	G
+398	-	 	A	 	G	 	G	C	 	 	A	 	G	 	G	C
+399	-	 	G	 	G	 	G	G	 	 	G	 	G	 	G	G
+400	-	 	A	 	A	A	A	A	 	 	A	 	A	A	A	A
+401	-	 	A	 	G	A	A	A	 	 	A	 	G	A	A	A
+402	-	 	A	 	T	T	T	C	 	 	A	 	T	T	T	C
+403	-	 	T	 	A	G	G	A	 	 	C	 	G	G	G	A
+404	-	 	A	 	A	A	G	A	 	 	A	 	A	A	G	A
+405	-	 	A	 	C	A	C	T	 	 	A	 	C	G	A	T
+406	-	 	A	 	A	C	C	T	 	 	A	 	A	C	C	T
+407	-	 	T	 	C	C	C	C	 	 	T	 	C	C	C	C
+408	-	 	A	 	G	A	A	A	 	 	A	 	G	A	A	A
+409	-	 	C	 	G	A	A	A	 	 	C	 	G	A	A	A
+410	T	-	C	-	A	G	C	C	 	-	C	-	A	G	C	C
+411	A	-	T	-	G	T	 	 	 	-	T	-	G	T	 	 
+412	C	-	A	-	G	G	A	G	 	-	G	-	G	G	A	G
+413	A	-	G	-	G	G	C	 	 	-	G	-	G	G	C	 
+414	A	-	 	-	 	G	 	C	 	-	 	-	 	 	 	C
+415	A	-	 	-	 	T	 	 	 	-	 	-	 	T	 	 
+416	T	-	G	-	G	A	G	C	 	-	G	-	G	A	G	C
+417	T	-	A	-	 	 	 	 	 	-	A	-	 	 	 	 
+418	G	-	 	-	C	 	A	 	 	-	A	-	C	 	A	 
+419	G	-	C	-	C	C	C	T	 	-	C	-	C	C	C	T
+420	A	-	 	-	 	 	 	 	 	-	 	-	 	 	 	 
+421	A	-	-	-	C	C	-	G	 	-	-	-	C	C	-	G
+422	A	-	-	-	 	 	-	 	 	-	-	-	 	 	-	 
+423	C	-	-	-	T	A	-	 	 	-	-	-	T	A	-	 
+424	A	-	-	-	 	 	-	 	 	-	-	-	 	 	-	 
+425	T	-	-	-	 	C	-	C	 	-	-	-	 	C	-	C
+426	A	-	-	-	 	 	-	 	 	-	-	-	 	 	-	 
+427	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+428	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+429	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+430	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+431	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+432	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+433	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+434	-	C	T	 	 	T	G	 	 	C	T	 	 	T	G	 
+435	-	G	C	 	 	T	T	 	 	G	C	 	 	C	T	 
+436	-	T	C	 	 	C	T	 	 	T	C	 	 	C	T	 
+437	-	C	C	 	 	T	C	 	 	C	C	 	 	T	C	 
+438	-	A	A	 	 	A	A	 	 	A	A	 	 	G	A	 
+439	-	G	 	 	 	G	 	 	 	G	 	 	 	G	 	 
+440	-	G	 	 	 	A	 	 	 	G	 	 	 	A	 	 
+441	-	 	 	 	 	G	 	 	 	 	 	 	 	A	 	 
+442	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+443	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+444	-	 	 	 	 	T	 	 	 	 	 	 	 	A	 	 
+445	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+446	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+447	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+448	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+449	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+450	A	C	G	-	T	T	T	G	 	C	G	-	C	T	T	G
+451	T	C	 	-	 	 	 	 	 	C	 	-	 	 	 	 
+452	C	 	G	-	A	T	A	A	 	 	G	-	A	T	A	A
+453	T	C	C	-	C	C	C	C	 	C	C	-	C	C	C	C
+454	C	 	T	-	 	 	 	T	 	 	T	-	 	 	 	T
+455	A	T	G	-	T	T	C	 	 	T	G	-	T	T	C	 
+456	A	C	G	-	 	T	T	G	 	C	G	-	 	T	 	G
+457	T	A	G	-	G	G	A	A	 	A	G	-	G	G	A	A
+458	A	 	 	-	 	 	 	 	 	 	 	-	 	 	 	 
+459	T	A	A	-	G	A	G	A	 	A	A	-	A	A	G	A
+460	G	 	 	-	A	 	 	A	 	 	A	-	A	 	 	A
+461	G	C	-	-	-	-	T	 	 	C	-	-	-	-	T	 
+462	A	C	-	-	-	-	 	 	 	C	-	-	-	-	 	 
+463	-	G	 	 	 	 	T	A	 	G	 	 	 	 	T	A
+464	-	A	 	 	 	 	A	T	 	A	 	 	 	 	A	T
+465	-	 	 	 	 	 	T	G	 	 	 	 	 	 	T	G
+466	-	 	 	 	 	 	A	T	 	 	 	 	 	 	A	T
+467	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+468	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+469	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+470	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+471	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+472	T	-	-	-	-	-	A	 	 	-	-	-	-	-	A	 
+473	T	-	-	-	A	A	A	A	 	-	-	-	A	A	A	A
+474	A	-	-	-	 	 	 	 	 	-	-	-	 	 	 	 
+475	G	-	-	-	 	T	C	C	 	-	-	-	 	T	C	C
+476	C	-	-	-	 	 	T	A	 	-	-	-	 	 	T	A
+477	C	G	G	G	 	 	T	 	 	G	G	G	 	 	T	 
+478	A	 	 	G	 	C	 	 	 	 	 	G	 	C	 	 
+479	C	T	 	 	A	A	T	 	 	T	 	 	A	A	T	 
+480	T	C	C	 	C	C	 	 	 	C	C	 	C	C	 	 
+481	C	G	 	 	A	 	T	 	 	G	 	T	A	 	T	 
+482	A	C	T	C	 	C	C	T	 	C	T	C	 	C	C	T
+483	A	G	 	G	 	 	G	G	 	G	 	G	G	 	G	G
+484	T	C	A	C	A	G	A	 	 	C	A	C	A	G	A	 
+485	T	A	G	C	 	G	A	 	 	A	G	C	 	G	A	 
+486	C	G	A	G	A	A	A	A	 	G	A	G	A	A	A	A
+488	A	G	 	G	 	T	G	C	 	G	 	G	 	T	 	C
+489	A	 	 	 	 	 	G	C	C	 	 	 	 	C	G	C
+490	C	 	 	T	T	T	T	T	T	 	 	T	T	T	T	T
+491	T	 	A	C	C	 	C	 	 	 	 	C	C	 	C	 
+492	G	 	 	A	T	T	 	C	 	T	 	A	T	T	 	C
+493	G	 	 	A	 	 	A	T	 	 	 	 	 	 	A	T
+494	G	A	 	A	A	A	A	A	 	A	A	A	A	A	A	A
+495	A	 	G	 	G	G	 	G	 	 	G	 	G	 	 	G
+496	A	 	G	G	 	 	G	 	 	G	G	G	 	 	G	 
+497	T	G	A	 	A	A	G	A	 	A	 	 	A	A	G	A
+498	C	T	 	 	G	T	T	G	 	T	 	 	G	 	T	G
+499	A	G	C	C	 	T	T	 	 	G	C	C	 	T	T	 
+500	A	T	C	T	C	C	G	C	 	T	 	C	C	C	 	C
+501	A	C	 	-	 	 	 	 	 	C	 	-	 	 	 	 
+502	A	T	T	-	C	T	 	 	 	T	T	-	C	T	 	 
+503	C	T	A	-	A	G	A	G	T	T	A	-	A	G	A	G
+504	C	T	T	-	 	 	 	 	 	T	T	-	 	T	 	 
+505	A	G	 	-	 	C	 	 	 	G	 	-	 	C	 	 
+506	G	C	T	-	T	T	T	T	 	C	C	-	T	T	T	T
+507	A	 	 	-	T	T	G	 	 	 	 	-	T	T	G	 
+508	C	G	G	-	 	G	G	A	T	G	G	-	 	G	G	A
+509	T	G	A	-	A	A	 	C	 	G	G	-	A	A	A	C
+510	G	A	A	-	C	A	A	 	 	 	A	-	C	A	A	 
+511	A	 	-	-	 	 	C	G	 	 	-	-	 	 	C	G
+512	A	-	-	-	-	C	C	G	 	-	-	-	-	C	C	G
+513	A	-	-	-	-	 	T	 	 	-	-	-	-	G	T	 
+514	-	 	 	 	 	A	T	A	 	 	 	 	 	A	T	A
+515	-	 	 	 	 	T	C	 	 	 	 	 	 	T	T	 
+516	-	 	 	 	 	G	G	 	 	 	 	 	 	G	G	 
+517	-	 	 	 	 	G	G	 	 	 	 	 	 	G	G	 
+518	-	 	 	 	 	A	C	 	 	 	 	 	 	A	C	 
+519	-	 	 	 	 	A	C	 	 	 	 	 	 	A	C	 
+520	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+521	-	 	 	 	T	T	C	 	 	 	 	 	T	T	C	 
+522	-	 	 	 	C	T	T	 	 	 	 	 	T	T	T	 
+523	-	 	 	 	T	G	G	 	 	 	 	 	T	G	G	 
+524	-	 	 	 	T	T	T	 	 	 	 	 	T	T	T	 
+525	-	 	 	 	T	T	C	 	 	 	 	 	C	T	C	 
+526	-	 	 	 	T	C	C	 	 	 	 	 	T	C	C	 
+527	-	 	 	 	C	A	A	 	 	 	 	 	C	A	A	 
+528	-	 	 	 	A	A	C	A	 	 	 	 	A	A	C	A
+529	-	 	 	 	T	C	T	C	 	 	 	 	T	C	T	C
+530	C	-	-	-	T	A	T	T	 	-	-	-	T	A	T	T
+531	A	-	-	-	C	 	C	 	 	-	-	-	C	 	C	 
+532	T	-	-	-	A	A	A	 	 	-	-	-	A	A	A	 
+533	G	-	-	-	C	C	 	 	 	-	-	-	C	C	 	 
+534	C	-	G	-	T	A	A	 	 	-	G	-	T	A	A	 
+535	A	-	 	-	G	 	 	 	 	-	 	-	G	 	 	 
+536	A	-	 	-	G	G	 	 	 	-	 	-	G	G	 	 
+537	T	-	 	-	A	G	 	A	 	-	G	-	A	A	 	A
+538	C	-	A	-	G	G	 	 	 	-	A	-	G	G	 	 
+539	A	-	G	-	 	T	 	T	 	-	G	-	 	T	 	T
+540	A	-	 	-	G	 	 	 	 	-	 	-	G	G	 	 
+541	A	-	C	-	G	G	G	 	 	-	T	-	G	G	G	 
+542	G	-	 	-	A	A	T	 	 	-	 	-	A	A	T	 
+543	C	-	G	-	G	T	T	A	 	-	G	-	A	 	T	A
+544	G	-	A	-	A	A	A	 	 	-	A	-	A	A	A	 
+545	T	-	A	-	 	A	A	G	 	-	A	-	 	A	A	G
+546	C	-	A	-	G	A	A	G	 	-	A	-	G	A	A	G
+547	A	-	G	-	G	C	 	G	 	-	 	-	G	C	 	G
+548	T	-	 	 	C	 	 	 	 	-	 	 	C	 	 	 
+549	T	-	G	A	C	A	A	A	 	-	G	A	C	G	A	A
+550	A	-	G	 	 	 	 	G	 	-	G	 	 	 	C	G
+551	C	-	A	A	 	 	G	 	 	-	A	G	 	 	G	 
+552	T	-	 	A	C	 	G	C	 	-	 	A	C	C	C	C
+553	T	-	G	G	A	C	A	C	 	-	G	G	A	C	C	C
+554	A	-	 	G	 	 	G	-	 	-	 	G	 	 	G	-
+555	T	-	G	A	A	A	G	-	 	-	G	A	A	A	G	-
+556	G	-	A	A	 	 	A	-	 	-	A	A	 	 	A	-
+557	A	-	G	G	C	G	G	-	 	-	G	G	C	G	G	-
+558	A	-	 	 	G	T	 	-	 	-	 	 	G	T	 	-
+559	A	-	 	G	G	C	G	C	 	-	 	G	G	C	G	C
+560	A	-	C	G	 	G	T	 	 	-	C	G	 	G	T	 
+561	C	-	T	 	 	 	T	T	 	-	T	 	 	 	T	T
+562	A	-	C	 	T	C	G	T	 	-	G	 	T	C	G	T
+563	A	-	 	 	 	 	 	 	 	-	 	G	 	 	 	G
+564	C	-	T	 	 	G	T	 	 	-	T	 	 	G	 	 
+565	A	-	C	 	 	 	-	 	 	-	C	 	 	 	-	 
+566	C	-	 	 	 	 	-	T	 	-	 	 	 	 	-	T
+567	T	-	 	C	C	 	-	 	 	-	 	 	C	C	-	 
+568	T	-	 	C	C	 	-	 	 	-	 	C	C	 	-	 
+569	-	 	T	T	T	A	 	 	 	 	T	T	T	A	 	 
+570	-	 	A	T	T	T	 	 	 	 	A	T	T	T	 	 
+571	-	 	T	 	G	G	 	 	 	 	T	 	G	G	 	 
+572	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+573	-	 	 	 	C	T	 	 	 	 	 	 	T	T	 	 
+574	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+575	G	-	-	-	A	-	-	 	 	-	-	-	A	-	-	 
+576	G	-	-	-	A	T	-	 	 	-	-	-	A	T	-	 
+577	G	-	-	-	 	 	-	 	 	-	-	-	 	 	-	 
+578	T	-	-	-	A	G	-	 	 	-	-	-	A	G	-	 
+579	A	-	-	-	G	 	-	 	 	-	-	-	G	 	-	 
+580	A	-	-	-	 	C	-	 	 	-	-	-	 	C	-	 
+581	A	 	-	-	G	 	-	 	 	 	-	-	G	 	-	 
+582	T	G	-	-	C	 	-	 	 	G	-	-	C	 	-	 
+583	C	A	-	-	A	T	-	G	 	A	-	-	A	T	-	G
+584	A	 	-	-	G	 	-	T	 	 	-	-	G	 	-	T
+585	G	C	 	-	 	A	-	A	 	C	 	-	 	A	-	A
+586	A	 	 	-	G	 	 	 	 	 	 	-	G	 	 	 
+587	C	 	 	-	 	 	 	 	 	 	 	-	 	 	T	 
+588	A	 	 	-	 	 	 	 	 	 	 	-	 	 	 	 
+589	T	G	A	-	A	G	A	 	 	G	A	-	A	G	A	 
+590	A	 	 	-	G	 	 	-	 	 	 	-	G	 	 	-
+591	T	 	G	-	A	A	C	-	 	 	G	-	A	A	C	-
+592	G	C	A	-	A	A	C	-	 	C	A	-	A	A	C	-
+593	T	 	A	-	 	 	C	-	 	 	A	-	 	 	C	-
+594	T	 	G	-	C	C	 	-	 	 	G	-	C	C	 	-
+595	A	G	 	-	 	 	G	-	 	G	 	-	 	 	G	-
+596	A	 	 	-	 	 	G	-	 	 	 	-	 	 	G	-
+597	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+598	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+599	C	G	-	-	-	G	-	-	 	G	-	-	-	G	-	-
+600	A	G	-	-	-	G	-	-	 	G	-	-	-	G	-	-
+601	T	C	-	-	-	C	-	-	 	C	-	-	-	C	-	-
+602	C	T	-	-	-	A	-	-	 	T	-	-	-	T	-	-
+603	A	C	-	-	-	G	-	-	 	C	-	-	-	G	-	-
+604	G	T	-	-	-	C	-	-	 	T	-	-	-	C	-	-
+605	C	 	A	-	A	A	 	-	 	 	A	-	A	A	 	-
+606	A	 	T	-	 	 	C	-	 	 	T	-	 	 	C	-
+607	A	T	 	-	C	C	 	-	 	T	C	-	C	C	 	-
+608	C	G	A	-	T	T	T	-	 	G	A	-	 	T	T	-
+609	A	G	G	-	 	G	G	-	 	G	G	-	 	G	G	-
+610	C	A	G	-	G	 	 	-	 	A	G	-	G	 	 	-
+611	C	A	A	-	G	A	A	-	 	A	A	-	G	A	A	-
+612	A	T	G	G	C	T	G	-	 	T	G	G	C	T	G	-
+613	A	G	 	G	T	T	 	-	 	G	 	G	T	T	 	-
+614	C	G	G	 	T	G	T	-	 	G	A	T	G	G	T	-
+615	T	C	 	C	 	G	C	-	 	C	 	C	 	G	C	-
+616	T	 	 	 	 	C	 	-	 	 	 	 	 	C	 	-
+617	T	A	 	C	C	C	C	-	 	A	 	G	C	C	C	-
+618	G	A	 	 	A	A	A	-	 	A	 	 	A	A	A	-
+619	T	A	G	A	C	A	G	-	C	A	G	A	C	A	G	-
+620	T	G	C	 	 	C	 	 	 	G	C	C	C	C	 	 
+621	G	A	 	A	A	A	 	 	 	A	 	A	A	A	 	 
+622	C	 	 	T	T	 	 	 	 	 	T	T	T	 	 	 
+623	T	A	C	C	A	C	C	 	 	A	C	C	A	 	C	 
+624	G	A	A	 	A	A	A	 	 	A	A	 	A	A	A	 
+625	G	 	A	A	 	T	A	 	 	 	A	A	 	T	A	 
+626	A	 	G	 	 	 	G	-	 	 	G	 	 	 	 	-
+627	C	 	 	A	 	G	G	-	 	 	 	A	 	G	G	-
+628	A	C	 	C	 	 	 	-	 	C	G	C	 	 	 	-
+629	G	A	A	A	A	A	 	-	 	A	A	A	A	A	 	-
+630	G	A	A	 	 	 	 	-	T	A	A	 	 	 	 	-
+631	-	T	 	 	 	T	 	 	 	T	 	 	 	T	 	 
+632	-	C	 	 	 	C	 	 	 	C	 	 	 	C	 	 
+633	-	T	 	 	 	T	 	 	 	C	 	 	 	T	 	 
+634	-	T	 	 	 	T	 	 	 	T	 	 	 	T	 	 
+635	-	G	 	 	 	T	 	 	 	G	 	 	 	C	 	 
+636	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+637	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+638	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+639	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+640	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+641	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+642	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+643	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+644	-	 	 	 	 	T	 	 	 	 	 	 	 	C	 	 
+645	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+646	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+647	-	 	 	 	 	C	 	 	 	 	 	 	 	T	 	 
+648	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+649	C	T	 	 	A	T	 	-	 	T	 	 	A	T	 	-
+650	A	C	 	-	 	 	 	-	 	C	 	-	 	 	 	-
+651	G	A	A	-	A	A	-	C	 	A	A	-	A	A	-	C
+652	T	C	 	-	 	C	-	 	 	C	 	-	 	C	-	 
+653	G	C	 	-	 	A	-	 	 	C	 	-	 	A	-	 
+654	G	T	 	-	 	 	-	 	 	T	 	-	 	 	-	 
+655	C	 	 	-	 	 	-	A	T	 	A	-	 	 	-	A
+656	T	 	G	-	C	 	C	 	 	 	G	-	C	 	C	 
+657	T	G	A	-	A	A	A	C	 	G	A	-	A	A	A	C
+658	C	A	A	-	G	A	G	 	 	A	A	-	G	A	G	 
+659	A	C	G	-	T	T	G	T	C	C	G	-	T	T	G	T
+660	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+661	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+662	-	 	 	 	 	G	 	 	 	 	 	 	 	A	 	 
+663	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+664	-	T	 	 	 	C	 	 	 	T	 	 	 	C	 	 
+665	-	A	 	 	 	A	 	 	 	A	 	 	 	A	 	 
+666	G	A	A	-	A	 	A	 	 	A	A	-	A	 	A	 
+667	T	G	 	-	G	G	 	G	 	G	 	-	G	G	 	G
+668	G	 	 	-	 	A	 	 	 	 	 	-	 	A	 	 
+669	A	G	C	-	 	 	T	 	 	G	C	-	G	 	T	 
+670	A	 	 	-	G	G	G	 	 	G	 	-	G	G	 	 
+671	A	 	 	-	T	G	 	 	 	 	 	-	T	G	 	 
+672	T	 	C	-	C	C	 	 	 	 	C	-	C	C	 	 
+673	T	 	A	-	 	 	 	C	 	 	 	-	 	 	C	C
+674	A	T	G	-	 	 	 	-	 	T	G	-	 	 	 	-
+675	G	T	C	-	T	A	T	-	 	T	C	-	T	A	T	-
+676	C	A	A	-	G	T	G	 	 	A	T	-	G	T	G	 
+677	G	 	 	-	 	A	 	A	 	 	 	-	 	A	 	A
+678	G	 	 	-	 	 	A	 	 	 	 	-	 	 	A	 
+679	G	A	T	-	A	A	A	A	 	A	T	-	A	A	A	A
+680	C	T	 	-	T	T	G	G	 	T	 	-	T	T	G	G
+681	A	T	T	-	T	T	T	T	 	T	T	-	T	T	T	T
+682	A	T	-	-	C	T	T	G	 	T	-	-	C	T	T	G
+683	T	G	-	-	C	C	G	 	 	G	-	-	C	C	G	 
+684	T	 	-	-	 	 	 	G	 	 	-	-	 	C	 	G
+685	C	G	-	-	T	T	T	A	 	G	-	-	T	T	T	A
+686	C	T	-	-	T	-	T	A	 	T	-	-	T	-	T	A
+687	T	 	-	-	C	-	 	 	 	 	-	-	C	-	 	 
+688	C	-	-	-	G	-	 	 	 	-	-	-	G	-	 	 
+689	T	-	-	-	 	-	C	A	 	-	-	-	 	-	C	A
+690	C	-	-	-	 	-	 	 	 	-	-	-	 	-	 	 
+691	T	-	-	-	A	-	A	 	 	-	-	-	A	-	A	 
+692	T	-	-	-	G	-	A	C	C	-	-	-	G	-	A	C
+693	T	-	-	-	 	-	A	 	 	-	-	-	 	-	A	 
+694	G	-	-	-	C	-	T	C	 	-	-	-	C	-	T	C
+695	C	-	-	-	 	-	-	 	 	-	-	-	 	-	-	 
+696	C	-	-	-	G	A	G	A	 	-	-	-	G	 	G	A
+697	C	-	-	-	A	A	A	 	 	-	-	-	A	A	A	 
+698	T	-	-	-	A	A	A	A	 	-	-	-	A	A	A	A
+699	A	-	-	-	 	G	G	G	G	-	-	-	 	G	G	G
+700	T	-	-	-	G	G	 	C	 	-	-	-	G	G	 	C
+701	T	-	-	-	A	A	G	A	 	-	-	-	A	A	G	A
+702	A	-	-	-	G	T	G	 	 	-	-	-	G	T	G	 
+703	G	-	-	-	 	 	 	 	 	-	-	-	 	 	 	 
+704	T	-	-	-	C	 	G	C	 	-	-	-	C	 	A	C
+705	G	-	-	-	 	A	 	T	 	-	-	-	 	 	 	T
+706	G	-	-	-	A	A	C	C	 	-	-	-	A	A	C	C
+707	A	-	-	-	 	T	 	 	 	-	-	-	 	T	C	 
+708	T	-	-	-	G	G	A	 	 	-	-	-	G	G	A	 
+709	G	-	-	-	A	 	A	 	 	-	-	-	A	 	 	 
+710	G	-	-	-	 	A	A	 	 	-	-	-	 	A	A	 
+711	G	-	-	-	A	A	A	T	 	-	-	-	A	A	A	T
+712	C	 	T	 	 	T	T	 	 	 	 	 	 	T	T	 
+713	T	A	A	A	A	C	A	C	 	A	A	A	A	C	A	C
+714	-	C	C	C	A	A	C	T	 	C	C	C	A	A	C	T
+715	-	G	T	T	T	A	T	A	 	G	T	T	T	A	T	A
+716	-	C	C	C	T	T	G	C	 	C	C	C	T	T	G	C
+717	-	T	A	T	G	G	A	A	 	T	A	G	G	G	A	A
+718	-	C	T	T	 	A	C	T	 	C	T	T	 	G	C	T
+719	-	A	A	G	 	A	A	T	 	A	A	G	 	A	A	T
+720	-	C	T	T	 	C	T	G	 	C	T	T	 	T	T	G
+721	-	C	C	T	 	A	C	T	 	C	G	T	 	A	C	T
+722	-	G	A	G	A	A	A	G	 	G	A	G	A	A	A	G
+723	-	T	T	G	A	A	G	G	 	T	T	G	A	A	G	G
+724	-	G	G	G	G	G	A	A	 	G	G	A	G	G	A	A
+725	-	C	A	A	A	A	G	A	 	C	A	A	A	A	G	A
+726	A	C	T	 	 	G	T	 	 	C	T	 	 	G	T	 
+727	T	C	 	A	A	G	C	C	 	C	C	G	A	G	C	C
+728	A	 	-	-	-	-	 	 	 	 	-	-	-	-	 	 
+729	T	G	-	-	-	-	-	 	 	G	-	-	-	-	-	 
+730	A	T	-	-	-	-	C	C	 	T	-	-	-	-	C	C
+731	C	G	-	-	A	A	A	T	 	G	-	-	G	A	A	T
+732	A	 	-	-	 	 	G	 	 	 	-	-	 	 	 	 
+733	G	 	-	-	T	A	C	 	 	 	-	-	T	A	T	 
+734	T	C	-	-	 	 	 	 	 	C	-	-	 	 	 	 
+735	A	G	-	-	T	 	G	T	 	G	-	-	T	G	G	T
+736	A	 	-	-	G	G	G	C	 	 	-	-	G	G	 	C
+737	A	G	-	-	 	 	C	 	 	G	-	-	 	 	C	 
+738	G	 	-	-	 	 	A	 	 	 	-	-	A	 	A	 
+739	A	 	-	-	 	 	 	 	 	 	-	-	 	 	 	 
+740	C	 	-	-	T	T	T	 	 	 	-	-	T	T	T	 
+741	A	T	-	-	T	 	 	 	 	T	-	-	C	 	 	 
+742	A	G	-	-	 	 	 	 	 	G	-	-	 	 	 	 
+743	C	 	-	-	 	 	 	T	T	 	-	-	 	 	 	T
+744	A	 	-	-	 	 	 	G	 	 	-	-	 	 	 	G
+745	G	 	-	-	 	A	A	 	 	 	-	-	 	A	A	 
+746	-	 	 	 	G	 	A	 	 	 	 	 	G	 	A	 
+747	-	 	 	 	A	 	A	 	 	 	 	 	A	 	A	 
+748	-	 	 	 	A	 	G	 	 	 	 	 	A	 	G	 
+749	-	 	 	 	C	 	A	 	 	 	 	 	C	 	A	 
+750	-	 	 	 	T	 	G	 	 	 	 	 	C	 	G	 
+751	-	 	 	 	A	 	A	 	 	 	 	 	A	 	A	 
+752	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+753	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+754	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+755	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+756	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+757	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+758	-	 	 	 	A	 	 	 	 	 	 	 	G	 	 	 
+759	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+760	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+761	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+762	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+763	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+764	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+765	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+766	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+767	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+768	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+769	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+770	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+771	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+772	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+773	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+774	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+775	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+776	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+777	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+778	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+779	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+780	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+781	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+782	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+783	-	 	 	 	G	C	 	 	 	 	 	 	G	A	 	 
+784	-	 	 	 	A	C	 	 	 	 	 	 	A	C	 	 
+785	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+786	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+787	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+788	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+789	-	 	 	 	C	T	 	 	 	 	 	 	C	C	 	 
+790	-	 	 	 	T	C	 	 	 	 	 	 	T	C	 	 
+791	-	 	 	 	C	A	 	 	 	 	 	 	C	A	 	 
+792	-	 	 	 	C	A	 	 	 	 	 	 	C	A	 	 
+793	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+794	-	 	 	 	G	G	G	 	 	 	 	 	G	G	G	 
+795	-	 	 	 	C	A	A	 	 	 	 	 	C	A	A	 
+796	-	 	 	 	C	A	A	 	 	 	 	 	C	A	A	 
+797	-	 	 	 	T	A	A	 	 	 	 	 	T	A	A	 
+798	-	 	 	 	T	A	G	 	 	 	 	 	T	A	G	 
+799	-	 	 	 	G	A	A	 	 	 	 	 	G	A	A	 
+800	-	 	 	 	A	G	A	 	 	 	 	 	A	G	A	 
+801	-	 	 	 	A	G	G	 	 	 	 	 	A	A	G	 
+802	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+803	-	 	 	 	A	G	G	 	 	 	 	 	A	G	A	 
+804	-	 	 	 	C	A	C	 	 	 	 	 	C	A	C	 
+805	-	 	 	 	T	G	T	 	 	 	 	 	T	G	T	 
+806	-	 	 	 	T	T	C	 	 	 	 	 	T	T	C	 
+807	-	 	 	 	T	A	C	 	 	 	 	 	T	A	C	 
+808	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+809	-	 	 	 	G	G	G	 	 	 	 	 	G	G	G	 
+810	-	 	 	 	A	A	G	 	 	 	 	 	A	A	G	 
+811	-	 	 	 	G	G	A	 	 	 	 	 	G	G	A	 
+812	-	 	 	 	C	A	T	 	 	 	 	 	C	A	T	 
+813	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+814	-	 	 	 	T	A	 	 	 	 	 	 	T	A	 	 
+815	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+816	T	C	-	-	 	C	 	A	 	C	-	-	 	C	 	A
+817	A	G	-	-	G	 	G	 	 	G	-	-	G	 	G	 
+818	T	 	 	-	 	 	 	C	 	 	 	-	 	 	 	C
+819	A	 	G	-	 	G	 	G	 	 	G	-	G	G	 	G
+820	A	G	G	-	G	 	 	-	 	G	G	-	G	 	 	-
+821	G	A	-	-	A	-	-	-	 	A	-	-	A	-	-	-
+822	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+823	A	C	C	-	G	-	 	-	 	C	C	-	G	-	 	-
+824	A	G	 	-	G	-	 	-	 	G	 	-	G	-	 	-
+825	T	C	 	-	A	-	 	-	 	C	 	-	A	-	 	-
+826	C	T	T	-	T	-	T	T	 	T	T	-	T	-	T	T
+827	G	T	C	-	T	-	 	 	 	T	C	-	T	-	 	 
+828	G	T	C	-	C	C	C	T	 	T	C	-	C	C	C	T
+829	T	G	A	-	G	C	 	 	 	G	A	-	G	C	 	 
+830	T	 	A	-	A	A	C	A	 	 	A	-	A	A	C	A
+831	C	 	 	-	G	A	 	 	 	 	T	-	A	A	 	 
+832	C	 	 	-	 	G	 	 	 	 	 	-	 	G	 	 
+833	A	 	T	C	C	 	T	C	 	 	T	C	C	 	T	C
+834	A	 	G	 	G	 	T	 	 	 	G	 	G	 	T	 
+835	G	A	A	A	A	 	 	 	 	A	A	 	A	A	 	 
+836	G	A	A	A	A	A	A	 	 	A	A	A	A	A	A	 
+837	G	T	T	T	C	T	T	A	 	T	T	T	C	T	T	A
+838	G	 	 	C	 	 	 	 	 	 	 	A	 	 	 	 
+839	G	C	A	 	 	 	 	A	 	C	A	 	 	 	 	A
+840	A	C	T	T	C	T	T	T	 	C	T	T	C	T	T	T
+841	T	C	G	G	 	C	G	 	 	C	G	G	 	C	 	 
+842	G	T	C	 	 	A	 	T	 	T	C	 	 	A	 	T
+843	T	A	C	A	C	C	C	C	 	A	C	A	C	C	C	C
+844	G	A	A	A	A	 	 	A	 	A	A	 	A	A	A	A
+845	T	A	C	 	 	C	 	 	 	A	C	A	 	C	 	 
+846	T	 	A	G	 	A	A	C	 	 	A	G	 	A	A	C
+847	T	G	 	G	G	A	C	G	 	G	 	G	G	A	C	G
+848	G	 	A	A	A	A	A	A	 	 	A	A	A	A	A	A
+849	T	G	 	 	G	G	 	 	 	G	C	 	G	G	 	 
+850	C	A	 	 	G	A	G	T	 	A	 	T	G	A	G	T
+851	A	 	 	T	G	 	C	 	 	 	 	C	G	 	T	 
+852	-	T	G	T	C	C	T	T	 	T	G	T	C	C	T	T
+853	-	G	A	G	A	A	A	G	 	G	A	G	A	A	A	G
+854	-	G	G	A	A	A	G	A	 	G	G	A	A	A	G	A
+855	-	G	A	A	G	 	A	G	 	G	A	A	G	 	A	G
+856	-	G	 	 	C	 	 	G	 	G	 	 	C	 	 	G
+857	-	A	 	 	T	 	 	A	 	A	 	 	T	 	 	A
+858	-	C	 	 	T	 	 	G	 	T	 	 	T	 	 	G
+859	-	C	 	 	T	 	 	C	 	C	 	 	T	 	 	C
+860	T	C	-	-	C	-	-	 	 	C	-	-	C	-	-	 
+861	-	 	 	 	C	 	 	 	 	 	 	 	T	 	 	 
+862	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+863	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+864	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+865	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+866	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+867	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+868	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+869	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+870	A	G	 	 	 	T	 	 	 	 	 	G	 	T	 	 
+871	A	 	C	G	 	 	 	 	 	 	C	G	 	 	 	 
+872	G	A	A	A	A	 	 	 	 	A	A	A	A	 	 	 
+873	A	C	 	G	 	G	 	 	G	C	 	 	 	G	 	 
+874	G	A	 	 	 	 	 	 	 	A	 	 	 	 	 	 
+876	A	C	G	 	 	 	 	G	 	C	G	 	 	 	 	G
+877	C	A	 	T	G	G	T	 	 	A	 	T	G	G	 	 
+878	C	T	G	 	T	A	T	A	 	T	T	 	T	A	T	A
+879	A	G	C	C	G	 	G	 	 	G	C	C	G	 	G	 
+880	T	G	 	A	A	A	G	 	 	G	 	G	A	A	G	 
+881	T	A	 	G	A	A	 	 	 	A	 	A	A	A	 	 
+882	C	T	G	 	 	A	 	G	 	 	G	T	T	A	 	G
+883	A	 	T	G	G	 	C	 	 	 	T	G	G	 	C	 
+884	T	G	 	A	C	C	G	G	 	G	G	A	C	C	G	G
+885	A	 	C	G	C	 	T	C	 	 	C	G	C	 	C	C
+886	T	G	G	A	A	A	A	 	 	G	G	G	A	A	A	 
+887	C	 	 	 	A	A	A	 	 	 	T	 	G	A	A	 
+888	A	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+889	-	G	C	C	A	A	A	G	 	G	C	C	A	A	A	G
+890	T	 	C	 	 	C	C	 	 	 	 	 	 	C	C	 
+891	G	T	 	T	T	T	A	 	 	T	 	T	T	T	A	 
+892	C	A	G	A	G	G	A	T	 	A	G	A	G	G	A	T
+893	T	A	A	G	A	A	G	C	 	A	A	A	A	A	G	C
+894	C	A	A	A	A	A	G	A	 	A	A	A	A	A	A	A
+895	C	 	T	A	 	T	T	T	 	 	T	A	 	 	T	T
+896	C	T	G	T	 	A	T	 	 	T	G	T	 	A	T	 
+897	A	 	G	G	 	 	T	 	C	G	G	G	 	 	T	 
+898	C	T	A	A	T	-	 	T	 	T	A	A	T	-	 	T
+899	T	A	 	C	 	-	 	 	 	A	 	C	 	-	 	 
+900	T	C	C	A	C	-	C	 	 	C	C	C	 	-	C	 
+901	G	A	C	A	T	-	C	 	 	A	C	A	T	-	C	 
+902	G	A	C	T	T	-	C	A	 	 	C	T	T	-	C	A
+903	A	G	 	T	G	-	 	 	 	G	 	T	G	-	 	 
+904	A	 	G	G	 	-	G	 	 	 	G	G	 	-	G	 
+905	T	A	-	C	-	-	 	G	 	A	-	C	-	-	 	G
+906	G	 	-	A	-	-	A	 	 	 	-	C	-	-	A	 
+907	C	 	-	T	-	-	G	T	 	 	-	T	-	-	G	T
+908	A	T	-	C	-	-	C	T	 	T	-	C	-	-	C	T
+909	G	C	-	T	-	-	C	T	 	T	-	T	-	-	T	T
+910	A	 	-	G	-	-	G	G	 	 	-	G	-	-	G	G
+911	A	 	-	-	-	-	G	 	 	 	-	-	-	-	G	 
+912	-	A	 	 	 	 	C	G	 	A	 	 	 	 	C	G
+913	-	A	 	 	 	 	G	A	 	A	 	 	 	 	G	A
+914	-	G	 	 	 	 	G	T	 	G	 	 	 	 	G	T
+915	-	A	 	 	 	 	A	A	 	G	 	 	 	 	A	A
+916	-	 	 	 	 	 	A	T	 	 	 	 	 	 	A	T
+917	-	 	 	 	 	 	C	T	 	 	 	 	 	 	C	T
+918	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+919	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+920	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+921	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+922	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+923	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+924	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+925	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+926	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+927	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+928	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+929	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+930	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+931	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+932	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+933	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+934	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+935	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+936	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+937	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+938	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+939	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+940	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+941	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+942	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+943	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+944	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+945	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+946	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+947	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+948	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+949	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+950	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+951	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+952	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+953	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+954	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+955	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+956	-	 	 	 	 	 	A	A	 	 	 	 	 	 	A	A
+957	-	 	 	 	 	 	G	A	 	 	 	 	 	 	A	A
+958	-	 	 	 	 	 	G	G	 	 	 	 	 	 	G	G
+959	-	 	 	 	 	 	C	G	 	 	 	 	 	 	C	G
+960	-	 	 	 	 	 	A	T	 	 	 	 	 	 	A	T
+961	-	 	 	 	 	 	G	G	 	 	 	 	 	 	G	G
+962	-	 	 	T	G	 	T	T	 	 	 	T	A	 	T	T
+963	-	 	 	G	G	 	G	A	 	 	 	A	G	 	G	A
+964	-	 	 	C	A	 	T	A	 	 	 	C	A	 	T	A
+965	-	 	 	C	C	 	T	C	 	 	 	C	C	 	G	C
+966	-	 	 	T	G	 	T	G	 	 	 	T	A	 	T	G
+967	-	 	 	A	A	 	A	G	 	 	 	G	A	 	A	G
+968	-	 	 	C	C	 	T	C	 	 	 	C	C	 	C	C
+969	-	 	 	T	A	 	A	A	 	 	 	T	A	 	A	A
+970	-	 	 	T	C	 	T	G	 	 	 	T	C	 	T	G
+971	-	 	 	C	C	 	T	C	 	 	 	C	C	 	T	C
+972	-	 	 	G	A	 	G	A	 	 	 	A	A	 	G	A
+973	-	 	 	C	C	 	A	T	 	 	 	C	C	 	A	T
+974	-	 	 	G	G	 	A	G	 	 	 	G	G	 	A	G
+975	C	-	-	 	 	-	G	T	 	-	-	 	 	-	G	T
+976	C	-	-	T	 	-	T	 	 	-	-	T	 	-	T	 
+977	T	-	-	A	C	-	G	C	 	-	-	A	C	-	G	C
+978	T	-	-	C	C	-	 	 	 	-	-	C	 	-	 	 
+979	C	-	-	 	 	-	T	 	 	-	-	 	 	-	T	 
+980	T	-	-	 	 	-	G	A	 	-	-	 	 	-	G	A
+981	T	-	-	 	C	-	C	 	 	-	-	A	C	-	C	 
+982	T	-	-	 	A	-	A	G	C	-	-	A	A	-	A	G
+983	T	-	-	C	G	-	C	C	 	-	-	C	G	-	 	C
+984	T	-	-	 	A	-	 	 	 	-	-	 	A	-	 	 
+985	G	-	-	-	T	-	T	 	 	-	-	-	T	-	T	 
+986	A	-	-	-	T	-	 	G	 	-	-	-	T	-	G	G
+987	C	-	-	-	G	-	A	A	 	-	-	-	A	-	A	A
+988	T	-	-	-	C	-	C	G	 	-	-	-	C	-	C	G
+989	C	-	-	-	 	-	 	 	 	-	-	-	 	-	T	 
+990	A	-	-	-	T	-	C	 	 	-	-	-	T	-	C	 
+991	A	-	-	-	G	-	 	 	 	-	-	-	G	-	 	 
+992	G	-	-	-	A	-	A	A	 	-	-	-	A	-	A	A
+993	G	-	-	-	T	-	 	A	 	-	-	-	T	-	 	A
+994	G	-	-	-	 	-	 	A	 	-	-	-	 	-	 	A
+995	G	-	-	-	 	-	 	 	 	-	-	-	 	-	 	 
+996	C	-	-	-	G	-	A	 	 	-	-	-	G	-	A	 
+997	C	-	-	-	 	-	 	T	 	-	-	-	 	-	 	T
+998	T	-	-	-	C	-	G	 	 	-	-	-	C	-	G	 
+999	T	-	-	-	 	-	 	-	 	-	-	-	 	-	 	-
+1000	G	-	-	-	C	-	 	-	 	-	-	-	C	-	 	-
+1001	C	-	-	-	T	-	 	-	 	-	-	-	 	-	 	-
+1002	T	-	-	-	 	-	 	-	 	-	-	-	 	-	 	-
+1003	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+1004	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+1005	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+1006	-	 	 	 	C	 	 	 	 	 	 	 	T	 	 	 
+1007	-	 	 	 	A	 	 	 	 	 	 	 	C	 	 	 
+1008	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+1009	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+1010	-	 	 	 	A	 	G	 	 	 	 	 	A	 	G	 
+1011	-	 	 	 	G	 	G	 	 	 	 	 	G	 	G	 
+1012	-	 	 	 	C	 	G	 	 	 	 	 	C	 	G	 
+1013	A	-	-	-	G	-	 	-	 	-	-	-	G	-	 	-
+1014	A	-	-	-	G	-	G	-	 	-	-	-	G	-	G	-
+1015	A	-	-	-	T	-	C	-	 	-	-	-	T	-	C	-
+1016	T	-	-	-	C	-	A	C	 	-	-	-	C	-	A	C
+1017	G	 	A	 	A	 	 	T	 	 	A	 	A	 	 	T
+1019	C	A	T	 	A	G	T	 	 	A	T	 	A	G	T	 
+1020	A	 	G	 	G	 	G	 	 	 	G	 	 	 	G	 
+1021	A	T	T	T	T	G	T	 	 	T	T	T	T	 	T	 
+1022	A	 	G	G	T	G	 	 	 	 	G	G	T	G	 	 
+1023	C	A	 	A	 	 	 	A	 	A	 	A	 	 	 	A
+1024	A	C	T	C	C	T	 	 	 	C	T	C	C	T	 	 
+1025	T	G	C	C	 	A	C	 	 	A	C	 	 	A	C	 
+1026	T	 	 	C	G	 	 	 	 	 	 	C	G	 	 	 
+1027	C	T	 	T	 	 	 	T	 	T	 	T	 	 	 	T
+1028	C	 	T	 	T	T	 	A	 	 	T	T	T	T	 	A
+1029	A	C	 	G	G	 	 	 	 	C	G	G	G	 	 	 
+1030	A	 	 	 	 	 	G	T	 	 	 	 	 	 	G	T
+1031	T	 	 	G	 	 	G	A	 	 	 	G	 	 	G	A
+1032	G	 	 	 	 	A	A	T	 	 	 	 	 	A	A	T
+1033	G	 	-	-	 	A	 	 	 	 	-	-	 	A	 	 
+1034	A	G	-	-	 	G	G	G	 	G	-	-	 	G	G	G
+1035	A	G	-	-	T	 	 	C	 	G	-	-	T	 	 	C
+1036	C	 	-	-	G	G	G	T	 	 	-	-	G	G	G	T
+1037	C	 	-	-	 	 	A	A	 	 	-	-	 	 	A	A
+1038	G	A	-	-	T	A	A	 	A	A	-	-	T	A	A	 
+1039	T	A	-	-	C	C	G	 	 	A	-	-	C	 	G	 
+1040	T	G	-	-	 	 	 	 	 	A	-	-	 	 	 	 
+1041	A	G	-	-	G	G	G	 	 	G	-	-	G	G	G	 
+1042	A	 	-	-	 	 	 	 	 	 	-	-	 	 	 	 
+1043	A	G	-	-	 	C	G	 	 	 	-	-	 	C	G	 
+1044	G	 	-	-	A	A	A	A	 	 	-	-	A	A	A	A
+1045	A	T	-	-	T	T	 	 	 	T	-	-	T	T	 	 
+1046	C	G	-	-	T	T	A	A	 	A	-	-	T	T	A	A
+1047	A	T	-	-	 	 	T	G	 	G	-	-	 	G	T	G
+1048	G	C	-	-	A	A	 	 	 	C	-	-	A	A	 	 
+1049	G	A	-	-	 	A	A	 	 	A	-	-	 	A	A	A
+1050	A	-	-	-	T	T	T	 	 	-	-	-	C	C	T	 
+1051	G	-	-	-	A	A	 	A	 	-	-	-	A	A	 	A
+1052	C	-	-	-	T	-	A	T	 	-	-	-	T	-	A	T
+1053	C	-	-	-	T	 	T	T	 	-	-	-	T	 	T	T
+1054	C	-	-	-	G	G	G	 	 	-	-	-	G	A	G	 
+1055	T	-	-	-	A	A	 	A	A	-	-	-	A	A	 	A
+1056	T	-	-	-	A	 	 	 	 	-	-	-	A	 	 	 
+1057	A	-	-	-	G	G	G	 	 	-	-	-	G	G	G	 
+1058	T	-	-	-	A	A	A	C	 	-	-	-	A	A	A	C
+1059	A	-	-	-	C	C	C	C	C	-	-	-	C	C	C	C
+1060	G	C	C	-	C	C	C	C	 	C	C	-	C	C	C	C
+1061	A	T	 	-	C	 	 	 	 	T	 	-	C	 	 	 
+1062	-	A	A	 	G	A	A	A	 	C	A	 	G	A	A	A
+1063	-	A	G	 	A	A	A	A	 	A	G	 	A	A	A	A
+1064	-	G	G	 	G	G	G	G	 	G	G	 	G	G	G	G
+1065	-	C	T	 	T	A	T	C	 	T	T	 	T	A	T	C
+1066	-	T	T	 	C	T	T	T	 	T	T	 	C	T	T	T
+1067	-	A	 	 	A	G	 	C	 	A	 	 	A	G	 	C
+1068	-	T	 	 	C	C	 	A	 	T	 	 	T	C	 	A
+1069	-	T	 	 	G	A	 	G	 	T	 	 	G	A	 	G
+1070	-	 	 	 	A	G	 	 	 	 	 	 	A	G	 	 
+1071	-	 	 	 	G	A	 	 	 	 	 	 	G	A	 	 
+1072	-	 	 	 	G	G	 	 	 	 	 	 	G	A	 	 
+1073	-	 	 	 	G	A	 	 	 	 	 	 	G	A	 	 
+1074	-	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+1075	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+1076	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+1077	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+1078	-	C	C	 	 	C	T	C	 	C	C	 	 	C	T	C
+1079	-	A	A	 	 	A	G	A	 	A	A	 	 	A	G	A
+1080	-	A	A	 	 	A	A	A	 	A	A	 	 	A	A	A
+1081	-	C	C	 	 	G	T	A	 	C	C	 	 	A	T	A
+1082	-	T	A	 	 	T	T	T	 	T	T	 	 	T	T	T
+1083	-	 	C	 	 	 	A	C	 	 	C	 	 	 	A	C
+1084	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1085	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1086	A	-	T	-	-	-	T	 	 	-	T	-	-	-	T	 
+1087	C	-	T	-	-	-	 	 	 	-	 	-	-	-	T	 
+1088	C	-	 	-	-	-	G	A	 	-	 	-	-	-	G	A
+1089	T	-	C	-	-	 	C	 	C	-	C	-	-	 	C	 
+1090	T	-	C	-	-	A	 	 	 	-	G	-	-	A	 	 
+1091	A	-	 	-	-	 	G	 	 	-	 	-	-	 	G	 
+1092	A	-	G	-	-	 	C	 	 	-	G	-	-	 	C	 
+1093	T	-	A	-	-	A	 	 	 	-	A	-	-	A	C	 
+1094	G	-	A	-	-	A	A	 	 	-	A	-	-	A	A	 
+1095	-	 	G	 	G	G	G	A	 	 	G	 	G	G	G	A
+1096	-	 	G	 	A	A	A	T	 	 	G	 	A	A	A	T
+1097	-	 	T	 	G	A	A	A	 	 	T	 	G	A	A	A
+1098	-	 	C	 	G	G	A	A	 	 	C	 	G	G	A	A
+1099	-	 	T	 	G	G	C	A	 	 	T	 	G	G	C	A
+1100	-	 	G	 	A	G	A	G	 	 	G	 	G	G	A	G
+1101	-	 	G	 	A	C	T	G	 	 	G	 	A	C	T	G
+1102	-	 	T	 	T	T	A	G	 	 	A	 	T	A	A	G
+1103	-	 	G	 	A	A	G	A	 	 	G	 	A	A	G	A
+1104	-	 	C	 	C	T	T	A	 	 	C	 	C	T	T	A
+1105	A	-	C	-	C	C	 	 	 	-	T	-	C	T	 	 
+1106	G	-	 	-	A	 	A	 	 	-	 	-	A	 	A	 
+1107	C	-	 	-	 	 	G	A	 	-	 	-	 	 	G	A
+1108	T	-	A	-	 	A	A	A	 	-	A	-	 	A	A	A
+1109	G	-	 	-	A	A	A	 	 	-	 	-	A	A	A	 
+1110	T	-	G	-	 	C	G	 	 	-	G	-	 	C	G	 
+1111	C	-	T	-	A	A	A	 	 	-	T	-	A	A	A	 
+1112	C	-	G	-	T	 	G	 	 	-	G	-	T	 	G	 
+1113	T	-	C	-	-	C	C	 	 	-	C	-	-	C	C	 
+1114	A	-	T	-	-	T	 	C	 	-	 	-	-	C	 	C
+1115	T	-	G	-	-	G	G	G	 	-	G	-	-	G	A	G
+1116	T	-	C	-	-	G	C	 	 	-	C	-	-	G	C	 
+1117	G	 	 	-	 	 	A	 	 	 	A	-	 	 	A	 
+1118	G	 	 	-	A	A	 	C	 	 	 	-	A	A	 	C
+1119	T	 	 	-	 	 	 	 	 	 	 	-	 	 	 	 
+1120	G	 	 	-	 	 	 	A	 	 	 	-	 	 	A	A
+1121	A	-	-	-	C	C	T	T	 	-	-	-	C	C	T	T
+1122	A	-	-	-	 	 	C	G	 	-	-	-	 	 	C	G
+1123	G	-	-	-	A	 	A	 	 	-	-	-	A	A	A	 
+1124	C	-	-	-	T	A	G	G	T	-	-	-	T	A	G	G
+1125	T	-	-	-	C	 	C	G	 	-	-	-	C	 	C	G
+1126	C	-	-	-	A	T	A	 	 	-	-	-	A	 	A	 
+1127	C	-	-	-	A	A	G	A	 	-	-	-	A	A	G	A
+1128	C	-	-	-	A	G	A	T	 	-	-	-	A	G	A	T
+1129	T	-	-	-	 	A	C	 	 	-	-	-	 	A	C	 
+1130	C	-	-	-	G	G	 	 	 	-	-	-	G	G	 	 
+1131	T	-	-	-	C	G	C	A	 	-	-	-	C	G	C	A
+1132	C	-	-	-	A	T	A	 	 	-	-	-	A	A	A	 
+1133	C	-	-	-	T	T	T	 	 	-	-	-	T	T	 	 
+1134	A	-	-	-	G	T	T	 	 	-	-	-	G	T	T	 
+1135	T	-	-	-	A	C	A	 	 	-	-	-	A	C	A	 
+1136	A	-	-	-	 	G	G	C	 	-	-	-	 	G	G	C
+1137	C	-	-	-	G	T	 	 	 	-	-	-	G	T	 	 
+1138	A	-	-	-	 	 	 	 	 	-	-	-	 	G	 	 
+1139	A	-	-	-	C	T	T	T	 	-	-	-	C	T	T	T
+1140	C	-	-	-	A	A	 	 	 	-	-	-	A	A	 	 
+1141	T	-	-	-	 	C	 	 	 	-	-	-	 	C	 	 
+1142	-	 	 	 	T	T	C	A	 	 	 	 	T	T	C	A
+1143	-	 	 	 	C	T	T	C	 	 	 	 	T	T	T	C
+1144	-	 	 	 	T	T	C	T	 	 	 	 	T	T	A	T
+1145	-	 	 	 	 	G	 	A	 	 	 	 	 	G	 	A
+1146	-	 	 	 	 	T	 	G	 	 	 	 	 	T	 	G
+1147	-	 	 	 	 	T	 	T	 	 	 	 	 	T	 	T
+1148	-	 	 	 	 	G	 	G	 	 	 	 	 	G	 	G
+1149	-	 	 	 	 	A	 	C	 	 	 	 	 	A	 	C
+1150	-	 	 	 	 	A	 	T	 	 	 	 	 	A	 	T
+1151	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+1152	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+1153	-	 	 	 	 	T	 	 	 	 	 	 	 	A	 	 
+1154	-	 	 	 	T	T	T	 	 	 	 	 	T	T	T	 
+1155	-	 	 	 	T	T	T	 	 	 	 	 	T	T	T	 
+1156	-	 	 	 	G	A	G	 	 	 	 	 	G	A	G	 
+1157	-	 	 	 	G	G	G	 	 	 	 	 	G	G	G	 
+1158	-	 	 	 	C	C	A	 	 	 	 	 	C	C	A	 
+1159	-	 	 	 	T	T	A	 	 	 	 	 	T	T	G	 
+1160	-	 	 	 	G	A	A	 	 	 	 	 	G	A	A	 
+1161	-	 	 	 	G	G	T	 	 	 	 	 	G	G	T	 
+1162	-	 	 	 	A	G	G	 	 	 	 	 	A	G	G	 
+1163	-	 	 	 	A	A	T	 	 	 	 	 	A	A	T	 
+1164	-	 	 	 	A	G	G	 	 	 	 	 	A	G	G	 
+1165	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+1166	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+1167	-	 	 	 	G	 	C	G	 	 	 	 	G	 	C	G
+1168	-	 	 	 	C	 	C	A	 	 	 	 	C	 	C	A
+1169	-	 	 	 	C	 	A	C	 	 	 	 	C	 	A	C
+1170	-	 	 	 	T	 	C	C	 	 	 	 	C	 	C	C
+1171	-	 	 	 	A	 	A	A	 	 	 	 	A	 	A	A
+1172	-	 	 	 	A	 	G	A	 	 	 	 	A	 	G	A
+1173	C	-	-	-	 	-	 	 	 	-	-	-	 	-	 	 
+1174	A	-	-	-	 	-	 	 	 	-	-	-	 	-	 	 
+1175	A	-	-	-	T	-	C	 	 	-	-	-	T	-	C	 
+1176	G	-	-	-	A	-	A	A	 	-	-	-	A	-	A	A
+1177	G	-	-	-	 	-	-	 	A	-	-	-	 	-	-	 
+1178	T	-	-	-	 	-	-	 	 	-	-	-	 	-	-	 
+1179	T	-	-	-	C	-	-	C	 	-	-	-	C	-	-	C
+1180	T	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+1181	G	-	-	-	A	-	-	C	 	-	-	-	A	-	-	C
+1182	A	-	-	-	 	-	-	T	 	-	-	-	 	-	-	T
+1183	G	-	-	-	A	-	-	A	 	-	-	-	A	-	-	A
+1184	T	-	-	-	C	-	-	 	 	-	-	-	C	-	-	 
+1185	C	 	-	-	 	 	 	 	 	 	-	-	 	 	 	 
+1186	A	 	-	 	 	 	 	 	 	 	-	 	 	 	 	 
+1187	G	C	-	A	C	T	 	 	 	C	-	A	C	T	 	 
+1188	T	 	-	A	A	 	A	A	 	 	-	A	A	 	A	A
+1189	T	 	-	 	 	 	 	A	C	 	-	 	 	 	 	A
+1190	G	 	-	 	 	 	T	T	 	 	-	 	 	 	T	T
+1191	C	 	A	T	A	 	G	G	 	 	A	T	A	T	G	G
+1192	T	 	A	C	G	G	G	C	 	C	A	C	A	G	G	C
+1193	T	A	A	A	A	A	A	A	 	A	A	A	A	A	A	A
+1194	G	 	 	C	A	A	 	 	 	 	 	A	A	 	 	 
+1195	G	T	 	 	A	A	 	A	 	T	 	 	A	A	 	A
+1196	T	 	A	A	G	A	A	 	 	 	A	A	G	A	A	 
+1197	C	G	G	G	G	G	G	G	 	G	G	G	G	G	A	G
+1198	A	C	T	 	C	C	T	C	 	C	T	 	C	C	T	C
+1199	G	A	T	C	A	T	A	A	 	A	T	C	A	T	A	A
+1200	C	T	G	T	T	T	A	T	 	T	G	T	T	T	A	T
+1201	A	G	G	G	 	G	G	 	 	G	G	G	 	G	G	 
+1202	A	G	 	G	 	 	G	T	 	G	 	G	 	 	G	T
+1203	G	 	A	T	A	A	A	 	 	 	A	T	A	A	A	 
+1204	T	C	C	 	 	-	 	 	 	C	C	 	 	-	 	 
+1205	G	C	A	C	C	-	 	T	 	C	A	C	C	-	 	T
+1206	C	T	A	A	 	-	G	T	 	T	A	A	 	-	G	T
+1207	T	C	 	 	C	-	 	 	 	C	 	 	C	-	 	 
+1208	T	A	-	G	A	-	G	 	 	A	-	G	A	-	G	 
+1209	G	T	-	C	A	-	 	 	 	T	-	C	A	-	 	 
+1210	C	A	-	T	T	-	A	T	T	A	-	T	T	-	A	T
+1211	C	T	-	 	T	-	 	G	 	T	-	 	T	-	 	G
+1212	A	 	-	 	 	-	 	G	 	 	-	 	 	-	 	G
+1213	T	C	-	 	C	-	 	G	 	C	-	 	C	-	 	G
+1214	G	A	-	 	C	-	C	 	 	A	-	 	C	-	C	 
+1215	A	 	-	C	T	-	C	 	 	 	-	C	T	-	C	 
+1216	T	C	-	C	C	-	 	C	 	C	-	C	C	-	 	C
+1217	G	-	-	-	A	-	-	A	 	-	-	-	C	-	-	A
+1218	G	-	-	-	T	-	-	T	 	-	-	-	T	-	-	T
+1219	C	-	-	-	G	-	-	 	 	-	-	-	G	-	-	 
+1220	A	-	-	-	G	-	-	 	 	-	-	-	G	-	-	 
+1221	T	-	-	-	C	-	-	A	 	-	-	-	C	-	-	A
+1222	C	-	-	-	T	-	-	G	 	-	-	-	T	-	-	G
+1223	A	-	-	-	T	-	-	 	 	-	-	-	T	-	-	 
+1224	G	-	-	-	 	-	-	T	A	-	-	-	 	-	-	T
+1225	T	-	-	-	G	-	-	A	 	-	-	-	G	-	-	A
+1226	T	-	-	-	A	-	-	C	 	-	-	-	A	-	-	C
+1227	G	-	-	-	A	-	-	A	 	-	-	-	A	-	-	A
+1228	G	-	-	-	 	-	-	 	 	-	-	-	 	-	-	 
+1229	C	-	-	-	 	-	-	 	 	-	-	-	 	-	-	 
+1230	T	-	-	-	A	-	-	A	 	-	-	-	A	-	-	A
+1231	A	-	-	-	G	-	-	 	 	-	-	-	 	-	-	 
+1232	A	-	-	-	G	-	-	G	 	-	-	-	G	-	-	G
+1233	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+1234	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+1235	C	-	-	T	 	 	T	A	 	-	-	 	 	 	T	A
+1236	A	-	-	 	T	 	 	 	 	-	-	 	T	 	 	 
+1237	A	-	-	G	 	G	G	G	 	-	-	 	G	 	G	G
+1238	T	-	-	G	G	 	A	 	 	-	-	G	G	 	G	 
+1239	T	-	-	C	C	C	C	 	 	-	-	C	C	C	C	 
+1240	G	-	-	A	A	T	A	C	 	-	-	A	A	T	A	C
+1241	G	-	-	A	 	 	 	A	 	-	-	 	 	 	A	A
+1242	A	-	-	 	 	G	 	 	 	-	-	 	 	G	 	 
+1243	A	-	-	 	G	G	 	G	 	-	-	 	 	 	 	G
+1244	T	-	-	-	C	C	 	C	 	-	-	-	C	C	 	C
+1245	T	-	-	-	 	 	C	C	 	-	-	-	 	 	C	C
+1246	-	 	 	 	A	C	C	G	 	 	 	 	C	C	C	G
+1247	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+1248	-	 	 	 	A	C	 	 	 	 	 	 	A	C	 	 
+1249	-	 	 	 	G	A	 	 	 	 	 	 	G	A	 	 
+1250	-	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+1251	-	 	 	 	A	T	 	 	 	 	 	 	A	T	 	 
+1252	-	 	 	 	C	A	 	 	 	 	 	 	C	T	 	 
+1253	-	 	 	 	A	G	 	 	 	 	 	 	A	G	 	 
+1254	-	 	 	 	T	G	 	 	 	 	 	 	T	G	 	 
+1255	-	 	 	 	T	G	 	 	 	 	 	 	T	A	 	 
+1256	-	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+1257	-	 	 	 	A	G	 	G	 	 	 	 	A	G	 	G
+1258	-	 	 	 	A	C	A	A	 	 	 	 	A	C	A	A
+1259	-	 	 	 	A	A	A	A	 	 	 	 	A	A	A	A
+1260	-	 	 	 	A	A	C	A	 	 	 	 	A	A	C	A
+1261	-	 	 	 	T	T	T	T	 	 	 	 	T	T	T	T
+1262	-	 	 	 	G	G	G	A	 	 	 	 	G	G	G	A
+1263	-	 	 	 	A	A	A	G	 	 	 	 	A	A	A	G
+1264	-	 	 	 	A	A	G	C	 	 	 	 	G	A	G	C
+1265	-	 	 	 	G	A	G	A	 	 	 	 	G	A	G	A
+1266	-	 	 	 	A	A	A	A	 	 	 	 	A	A	A	A
+1267	T	-	-	-	G	G	A	 	 	-	-	-	G	G	A	 
+1268	C	-	-	-	A	A	 	A	 	-	-	-	A	A	 	A
+1269	T	-	-	-	A	A	A	A	 	-	-	-	A	A	A	A
+1270	G	-	-	-	 	 	A	 	 	-	-	-	 	 	A	 
+1271	G	-	-	-	A	 	 	A	 	-	-	-	A	 	 	A
+1272	C	-	-	-	T	 	 	 	 	-	-	-	T	 	 	 
+1273	C	-	-	-	 	 	 	 	 	-	-	-	 	T	T	 
+1274	C	-	-	-	 	A	G	 	 	-	-	-	 	A	G	 
+1275	A	-	-	-	C	 	T	 	 	-	-	-	C	 	T	 
+1276	-	 	 	 	A	A	A	 	 	 	 	 	A	A	G	 
+1277	-	 	 	 	A	C	G	 	 	 	 	 	A	C	G	 
+1278	-	 	 	 	G	T	A	 	 	 	 	 	A	T	A	 
+1279	-	 	 	 	G	G	C	 	 	 	 	 	G	G	T	 
+1280	-	 	 	 	A	G	A	 	 	 	 	 	A	G	A	 
+1281	-	 	 	 	C	C	T	 	 	 	 	 	C	C	T	 
+1282	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+1283	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+1284	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+1285	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+1286	G	A	-	-	A	A	A	A	 	A	-	-	A	A	A	A
+1287	A	G	-	-	 	 	 	 	 	G	-	-	 	 	 	 
+1288	C	G	-	-	G	T	G	G	 	G	-	-	G	T	G	G
+1289	A	 	-	-	 	G	G	T	 	 	-	-	 	G	G	T
+1290	A	T	-	-	 	T	C	G	 	T	-	-	 	T	C	G
+1291	T	G	A	G	C	 	A	A	 	G	G	A	C	 	A	A
+1292	G	 	 	A	A	 	 	 	 	 	 	 	A	 	 	 
+1293	G	 	C	T	T	T	C	 	 	 	T	T	T	T	C	 
+1294	G	A	A	A	 	 	A	 	 	 	 	 	 	 	A	 
+1295	G	A	A	A	A	A	A	A	 	A	A	 	A	A	A	A
+1296	C	 	T	T	A	G	T	T	 	 	T	 	A	G	T	T
+1297	A	 	G	 	G	 	 	C	 	T	G	 	G	 	G	C
+1298	G	 	 	 	A	A	 	A	 	 	 	 	A	A	 	A
+1299	T	 	A	G	G	A	G	A	 	 	A	G	A	A	G	A
+1300	G	 	 	C	A	 	 	 	 	 	A	C	A	 	 	 
+1301	G	A	T	C	A	A	T	-	 	A	C	T	A	A	T	-
+1302	C	 	T	 	 	T	T	-	 	 	T	 	 	T	T	-
+1303	T	C	A	 	A	G	G	-	 	C	G	 	A	G	G	-
+1304	G	A	A	C	A	A	A	-	 	A	A	C	A	A	A	-
+1305	-	 	 	 	 	T	G	 	 	 	 	 	 	T	G	 
+1306	-	 	 	 	 	G	G	 	 	 	 	 	 	G	G	 
+1307	-	 	 	 	 	A	A	 	 	 	 	 	 	A	A	 
+1308	-	 	 	 	 	C	T	 	 	 	 	 	 	C	T	 
+1309	-	 	 	 	 	T	T	 	 	 	 	 	 	T	C	 
+1310	-	 	 	 	 	A	A	 	 	 	 	 	 	A	A	 
+1311	-	 	 	 	 	A	G	 	 	 	 	 	 	A	G	 
+1312	-	 	 	 	 	T	C	 	 	 	 	 	 	T	C	 
+1313	-	 	 	 	 	T	T	 	 	 	 	 	 	T	T	 
+1314	-	 	 	 	 	C	C	 	 	 	 	 	 	C	C	 
+1315	-	 	 	 	 	A	A	 	 	 	 	 	 	A	A	 
+1316	-	 	 	 	 	C	T	 	 	 	 	 	 	C	T	 
+1317	-	 	 	 	 	A	C	 	 	 	 	 	 	A	C	 
+1318	-	 	 	 	 	A	T	 	 	 	 	 	 	A	T	 
+1319	-	 	 	 	 	G	T	 	 	 	 	 	 	G	T	 
+1320	-	 	 	 	 	A	T	 	 	 	 	 	 	A	T	 
+1321	-	 	 	 	 	C	C	 	 	 	 	 	 	C	C	 
+1322	-	 	 	 	 	A	A	 	 	 	 	 	 	A	A	 
+1323	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+1324	-	 	 	 	 	 	T	 	 	 	 	 	 	 	C	 
+1325	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+1326	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+1327	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+1328	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+1329	-	C	 	 	 	C	G	 	 	C	 	 	 	C	G	 
+1330	-	A	 	 	 	A	T	 	 	T	 	 	 	A	T	 
+1331	-	G	 	 	 	G	G	 	 	G	 	 	 	G	G	 
+1332	-	A	 	 	 	A	G	 	 	A	 	 	 	A	G	 
+1333	-	A	 	 	 	G	G	 	 	A	 	 	 	G	G	 
+1334	-	G	 	 	 	A	T	 	 	G	 	 	 	C	T	 
+1335	-	C	 	 	 	T	T	 	 	T	 	 	 	T	T	 
+1336	-	T	 	 	 	T	C	 	 	G	 	 	 	C	C	 
+1337	-	G	 	 	 	T	A	 	 	G	 	 	 	T	A	 
+1338	-	C	 	T	 	C	C	 	 	C	 	T	 	C	C	 
+1339	-	T	 	T	 	T	T	 	 	A	 	T	 	T	T	 
+1340	-	T	T	T	 	T	T	 	 	T	T	T	 	T	T	 
+1341	-	T	C	G	 	T	T	 	 	T	C	G	 	T	T	 
+1342	-	T	A	C	 	C	C	 	 	T	C	C	 	C	C	 
+1343	-	G	G	G	 	A	A	 	 	G	G	A	 	A	A	 
+1344	-	G	 	 	 	C	 	 	 	G	 	 	 	C	 	 
+1345	-	T	 	 	 	A	 	 	 	C	 	 	 	A	 	 
+1346	-	C	 	 	 	A	 	 	 	C	 	 	 	A	 	 
+1347	-	T	 	 	 	T	 	 	 	T	 	 	 	T	 	 
+1348	-	A	 	 	 	C	 	 	 	A	 	 	 	C	 	 
+1349	-	G	 	 	 	A	 	 	 	G	 	 	 	A	 	 
+1350	-	T	 	 	 	C	 	 	 	T	 	 	 	C	 	 
+1351	-	G	 	 	 	T	 	 	 	G	 	 	 	T	 	 
+1352	-	T	 	 	 	G	 	 	 	T	 	 	 	G	 	 
+1353	-	G	 	 	 	G	 	 	 	G	 	 	 	G	 	 
+1354	T	 	-	-	-	G	-	-	 	 	-	-	-	A	-	-
+1355	A	G	-	-	-	G	-	-	G	G	-	-	-	G	-	-
+1356	T	C	-	-	-	A	-	-	 	C	-	-	-	A	-	-
+1357	T	C	-	-	-	C	-	-	 	C	-	-	-	C	-	-
+1358	A	 	-	-	-	 	-	 	 	 	-	-	-	 	-	 
+1359	A	C	-	-	-	 	-	 	 	C	-	-	-	 	-	 
+1360	A	T	-	-	-	C	-	G	 	T	-	-	-	C	-	G
+1361	A	T	 	T	G	 	 	G	G	T	G	T	G	 	 	G
+1362	T	G	A	G	C	C	A	G	 	G	A	C	C	C	A	G
+1363	A	T	T	C	C	T	 	 	 	T	T	 	C	C	 	 
+1364	C	G	G	G	A	A	G	G	 	G	G	G	A	A	G	G
+1365	A	 	 	 	 	 	G	 	 	 	 	 	 	 	 	 
+1366	A	 	T	T	T	G	 	 	 	G	T	 	T	 	 	 
+1367	C	 	 	T	T	T	 	T	 	 	 	T	T	T	 	T
+1368	G	A	A	 	 	 	A	 	 	A	A	 	 	 	A	 
+1369	G	 	A	 	A	 	A	A	 	 	A	 	A	 	A	A
+1370	C	A	A	A	A	A	G	A	 	A	A	A	A	A	G	A
+1371	A	T	C	C	G	 	C	C	 	T	C	C	G	 	C	C
+1372	T	 	G	-	 	 	-	 	 	 	G	-	 	 	-	 
+1373	A	G	T	-	G	G	-	 	 	G	 	-	G	G	-	 
+1374	A	C	G	-	G	 	-	T	 	C	G	-	G	 	-	T
+1375	T	 	G	-	G	A	G	 	 	 	G	-	G	A	G	 
+1376	A	G	 	-	C	 	G	 	 	G	G	-	C	 	G	 
+1377	A	 	 	-	 	 	 	C	 	 	 	-	 	 	 	C
+1378	C	T	T	-	 	T	T	T	 	T	T	-	 	T	T	T
+1379	A	T	C	-	T	C	C	G	 	T	C	-	T	C	C	G
+1380	G	C	A	-	-	A	A	 	 	C	A	-	-	A	A	 
+1381	A	 	 	-	-	 	T	 	 	C	 	-	-	 	T	 
+1382	C	 	-	-	-	A	-	 	 	 	-	-	-	A	-	 
+1383	A	 	-	-	-	 	-	 	 	 	-	-	-	 	-	 
+1384	C	G	-	-	-	T	-	 	 	G	-	-	-	T	-	 
+1385	-	C	 	 	 	C	 	 	 	C	 	 	 	C	 	 
+1386	-	A	 	 	 	C	 	 	 	A	 	 	 	C	 	 
+1387	-	T	 	 	 	T	 	 	 	T	 	 	 	T	 	 
+1388	-	C	 	 	 	C	 	 	 	C	 	 	 	C	 	 
+1389	-	G	 	 	 	G	 	 	 	G	 	 	 	G	 	 
+1390	-	G	 	 	 	A	 	 	 	G	 	 	 	A	 	 
+1391	-	T	 	 	 	A	 	 	 	T	 	 	 	A	 	 
+1392	-	C	 	 	 	T	 	 	 	C	 	 	 	T	 	 
+1393	-	T	 	 	 	G	 	 	 	T	 	 	 	G	 	 
+1394	-	C	 	 	 	T	 	 	 	C	 	 	 	T	 	 
+1395	-	A	 	 	 	T	 	 	 	A	 	 	 	T	 	 
+1396	-	C	 	 	 	C	 	 	 	C	 	 	 	T	 	 
+1397	-	A	 	 	 	 	 	 	 	A	 	 	 	 	 	 
+1398	-	G	 	 	 	 	 	 	 	G	 	 	 	 	 	 
+1399	-	A	 	 	 	 	 	 	 	A	 	 	 	 	 	 
+1400	-	C	 	 	 	C	 	 	 	C	 	 	 	C	 	 
+1401	-	A	 	 	 	T	 	 	 	A	 	 	 	T	 	 
+1402	-	A	 	 	 	G	 	 	 	A	 	 	 	G	 	 
+1403	-	A	 	 	 	G	 	 	 	A	 	 	 	G	 	 
+1404	T	 	 	-	C	C	C	 	 	 	 	-	 	C	C	 
+1405	A	G	G	-	G	G	 	 	 	G	G	-	G	 	 	 
+1406	T	G	A	-	G	A	G	G	 	G	A	-	G	A	G	G
+1407	C	 	 	-	T	T	T	T	 	T	T	-	T	T	T	T
+1408	A	T	C	-	G	G	C	 	 	G	C	-	G	G	C	 
+1409	A	 	G	-	 	 	 	G	 	 	G	-	 	 	 	G
+1410	G	C	A	-	A	T	A	A	 	C	 	-	 	T	A	A
+1411	A	T	 	-	 	T	G	G	 	 	 	-	 	 	G	G
+1412	G	A	A	-	A	A	A	C	 	A	A	-	A	A	A	C
+1413	T	C	 	-	 	C	A	C	 	C	 	-	C	C	A	C
+1414	T	C	 	-	A	A	A	G	 	A	 	-	A	A	A	G
+1415	G	A	T	-	T	T	 	 	 	A	T	-	T	T	 	 
+1416	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+1417	-	 	 	 	G	A	 	 	 	 	 	 	G	A	 	 
+1418	-	 	 	 	C	T	 	 	 	 	 	 	C	C	 	 
+1419	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+1420	-	 	 	 	C	T	 	 	 	 	 	 	C	T	 	 
+1421	G	C	C	-	C	C	A	 	 	C	C	-	C	C	A	 
+1422	A	C	T	-	 	 	 	 	 	C	T	-	 	 	 	 
+1423	G	A	 	-	 	C	 	 	 	A	 	-	 	C	 	 
+1424	-	A	G	 	A	C	A	A	 	A	G	 	A	A	A	A
+1425	-	T	A	 	A	A	A	C	 	T	A	 	G	A	A	C
+1426	-	C	G	C	A	G	G	A	 	C	G	C	A	G	G	A
+1427	A	C	G	 	 	 	 	 	 	C	 	 	 	 	 	 
+1428	A	 	G	G	 	 	 	 	 	 	G	G	 	 	 	 
+1429	A	C	G	G	G	 	G	 	 	C	G	G	G	 	G	 
+1430	C	T	T	 	T	T	T	T	 	T	T	 	T	T	T	T
+1431	A	 	G	G	 	C	G	 	 	 	G	 	 	C	G	 
+1432	A	 	 	G	G	 	C	 	 	 	 	 	G	 	C	 
+1433	T	 	A	 	A	A	 	C	 	 	A	 	A	A	 	C
+1434	A	C	 	C	C	C	 	 	 	C	 	C	C	C	T	 
+1435	T	A	A	A	 	C	A	 	 	A	A	A	 	C	A	 
+1436	A	G	T	T	T	C	C	T	 	G	T	T	T	T	C	T
+1437	T	G	G	G	 	G	G	C	 	G	G	G	 	G	G	C
+1438	T	C	G	G	G	A	G	G	 	C	G	G	G	A	G	G
+1439	G	A	A	A	A	 	 	A	 	A	A	A	A	A	 	A
+1440	A	T	C	 	T	T	C	 	 	T	C	T	G	T	C	 
+1441	G	 	 	A	 	 	A	 	 	 	 	A	 	 	A	 
+1442	A	 	 	 	 	G	 	C	 	 	 	 	 	G	 	C
+1443	A	 	 	G	C	T	C	 	 	G	 	G	C	T	C	 
+1444	C	A	G	A	T	T	 	A	 	A	G	A	T	T	 	A
+1445	A	 	G	 	G	-	T	C	 	 	 	 	G	-	T	C
+1446	C	 	A	 	 	 	 	T	 	 	A	 	 	 	 	T
+1447	A	 	C	 	 	 	C	G	 	 	C	 	 	 	C	G
+1448	A	G	 	T	 	G	 	G	 	G	 	T	 	G	 	G
+1449	G	A	A	A	A	A	A	A	 	A	A	C	A	A	A	A
+1450	A	 	G	G	G	 	 	 	 	 	G	 	G	 	 	 
+1451	G	T	 	T	A	A	C	A	 	T	 	T	A	A	C	A
+1452	T	G	G	A	 	C	A	 	 	G	A	A	 	 	A	 
+1453	C	G	T	 	G	A	 	 	 	G	T	 	G	G	T	 
+1455	-	G	G	G	 	A	G	A	 	G	G	G	 	C	G	A
+1456	-	C	C	A	 	C	A	G	 	C	C	A	 	T	A	G
+1457	-	T	T	A	 	T	A	T	 	T	T	A	 	T	A	T
+1458	-	 	T	A	 	G	A	G	 	 	T	A	 	G	A	G
+1459	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1460	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1461	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1462	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1463	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1464	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1465	G	-	A	 	-	A	A	A	 	-	A	 	-	A	A	A
+1466	A	-	T	C	-	G	T	G	 	-	T	C	-	G	T	G
+1467	A	-	G	G	-	C	 	 	 	-	G	G	-	C	 	 
+1468	T	-	A	A	-	A	A	 	 	-	A	A	-	A	A	 
+1469	G	-	A	A	-	T	 	A	 	-	 	A	-	T	 	A
+1470	T	-	A	C	-	G	A	 	 	-	A	C	-	 	A	 
+1471	G	-	 	T	-	 	 	 	 	-	 	T	-	 	 	 
+1472	C	-	A	T	-	 	T	 	 	-	A	T	-	 	T	 
+1473	A	-	 	C	-	 	 	 	 	-	 	C	-	 	 	 
+1474	T	-	 	A	-	C	C	 	 	-	 	A	-	C	C	 
+1475	G	-	 	 	-	C	A	T	 	-	 	 	-	C	A	T
+1476	T	-	 	 	-	C	 	C	 	-	 	 	-	 	 	C
+1477	G	-	 	 	-	A	 	 	 	-	 	 	-	A	 	 
+1478	T	-	C	 	 	 	A	C	 	-	C	 	 	 	A	C
+1479	-	 	A	A	G	A	A	A	 	 	A	G	A	A	G	A
+1480	-	 	A	A	G	A	G	A	 	 	A	A	G	A	G	A
+1481	-	 	T	T	A	T	G	T	 	 	C	T	C	T	G	T
+1482	-	 	A	C	G	G	G	G	 	 	A	T	G	G	G	G
+1483	-	 	T	T	A	T	T	G	 	 	T	T	A	T	T	G
+1484	-	 	C	 	C	T	 	 	 	 	C	 	T	T	 	 
+1485	-	 	C	 	C	C	 	 	 	 	C	 	C	C	 	 
+1486	-	 	T	 	T	T	 	 	 	 	T	 	T	T	 	 
+1487	-	 	C	 	C	C	 	 	 	 	C	 	G	C	 	 
+1488	-	 	A	 	A	A	 	A	 	 	A	 	A	A	 	A
+1489	-	 	A	 	A	A	A	A	 	 	A	 	A	A	A	A
+1490	-	 	A	 	A	A	T	A	 	 	A	 	A	A	T	A
+1491	-	 	G	 	C	C	G	G	 	 	G	 	C	C	G	G
+1492	A	-	G	-	 	 	 	 	 	-	G	-	 	 	 	 
+1493	A	-	 	-	G	 	 	 	 	-	G	-	G	 	 	 
+1494	A	-	 	-	T	 	G	 	 	-	 	-	T	 	G	 
+1495	T	-	A	-	A	A	A	 	 	-	A	-	A	A	A	 
+1496	G	-	A	-	-	-	A	 	 	-	A	-	-	-	A	 
+1497	G	-	T	-	-	-	T	C	 	-	T	-	-	-	T	C
+1498	T	G	 	-	 	 	 	 	 	G	 	-	 	 	 	 
+1499	T	G	 	-	G	G	C	G	 	G	 	-	G	G	C	G
+1500	C	 	 	-	A	G	A	G	 	 	 	-	A	G	A	G
+1501	T	 	A	-	C	C	C	A	 	C	A	-	C	C	C	A
+1502	T	A	A	-	A	A	A	 	 	A	A	-	A	A	A	 
+1503	G	 	A	-	 	A	A	C	 	 	A	-	 	A	A	C
+1504	C	 	 	-	T	G	T	T	 	 	 	-	T	G	T	T
+1505	T	A	A	-	G	A	G	G	 	A	A	-	G	A	G	G
+1506	T	C	G	-	A	C	G	G	 	C	G	-	A	C	G	G
+1507	T	 	C	-	 	 	 	 	 	 	C	-	 	 	 	 
+1508	A	 	T	-	G	 	T	 	 	 	 	-	G	 	T	 
+1509	C	 	G	-	A	G	G	T	 	 	G	-	A	G	G	T
+1510	T	G	C	-	G	G	G	 	 	A	C	-	G	G	G	 
+1511	G	 	C	-	C	 	 	A	 	 	A	-	C	 	 	A
+1512	T	C	C	-	C	A	A	 	 	C	C	-	C	A	A	 
+1513	A	 	 	-	 	 	G	C	 	T	 	-	 	 	G	C
+1514	A	 	G	-	G	 	 	 	 	 	 	-	G	 	 	 
+1515	T	A	A	-	A	G	A	 	 	A	A	-	A	G	A	 
+1516	G	 	 	-	 	 	 	T	 	 	 	-	 	 	 	T
+1517	-	 	 	 	 	G	 	 	 	 	 	 	 	A	 	 
+1518	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+1519	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+1520	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+1521	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+1522	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+1523	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+1524	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+1525	-	 	 	 	C	T	 	 	 	 	 	 	C	T	 	 
+1526	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+1527	-	 	 	 	C	G	 	 	 	 	 	 	T	G	 	 
+1528	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+1529	-	 	 	 	G	G	 	 	 	 	 	 	G	A	 	 
+1530	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+1531	-	 	 	 	T	G	 	 	 	 	 	 	T	G	 	 
+1532	-	 	 	 	C	T	 	 	 	 	 	 	C	T	 	 
+1533	-	 	 	 	T	A	 	 	 	 	 	 	A	A	 	 
+1534	-	 	 	 	C	A	 	 	 	 	 	 	C	A	 	 
+1535	-	 	 	 	T	A	 	 	 	 	 	 	T	G	 	 
+1536	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+1537	-	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+1538	-	 	 	 	C	A	 	 	 	 	 	 	C	C	 	 
+1539	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+1540	-	 	 	 	A	T	 	 	 	 	 	 	A	T	 	 
+1541	-	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+1542	-	 	 	 	C	A	 	 	 	 	 	 	C	A	 	 
+1543	-	 	 	 	T	A	 	 	 	 	 	 	T	A	 	 
+1544	-	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+1545	-	 	 	 	G	A	 	 	 	 	 	 	G	C	 	 
+1546	-	 	 	 	G	T	 	 	 	 	 	 	A	T	 	 
+1547	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+1548	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+1549	-	 	G	 	C	G	A	 	 	 	A	 	C	G	A	 
+1550	-	 	G	 	A	A	G	 	 	 	G	 	A	A	G	 
+1551	-	 	C	 	A	A	C	 	 	 	C	 	G	A	C	 
+1552	-	 	A	 	A	C	A	 	 	 	A	 	A	C	A	 
+1553	-	 	A	 	A	A	A	 	 	 	A	 	G	A	A	 
+1554	-	 	T	 	T	C	C	 	 	 	T	 	T	C	C	 
+1555	-	 	G	 	G	A	A	 	 	 	G	 	G	A	A	 
+1556	-	 	A	 	A	A	G	 	 	 	A	 	A	A	G	 
+1557	-	 	 	 	A	A	C	 	 	 	 	 	A	A	C	 
+1558	-	 	 	 	T	T	T	 	 	 	 	 	T	T	T	 
+1559	-	 	 	 	T	A	A	 	 	 	 	 	T	A	A	 
+1560	-	 	 	 	C	C	T	 	 	 	 	 	C	C	T	 
+1561	-	 	 	 	A	C	T	 	 	 	 	 	A	C	T	 
+1562	-	 	 	 	A	A	C	 	 	 	 	 	A	A	C	 
+1563	-	 	 	 	T	G	T	 	 	 	 	 	C	G	T	 
+1564	-	 	 	 	A	C	C	 	 	 	 	 	A	C	C	 
+1565	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+1566	-	 	 	 	G	G	G	 	 	 	 	 	G	G	G	 
+1567	-	 	 	 	G	A	G	 	 	 	 	 	G	A	A	 
+1568	-	 	 	 	C	A	A	 	 	 	 	 	C	A	A	 
+1569	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+1570	-	 	 	 	T	T	G	 	 	 	 	 	T	T	A	 
+1571	-	 	 	 	G	G	G	 	 	 	 	 	G	G	G	 
+1572	-	 	 	 	T	C	C	 	 	 	 	 	T	C	C	 
+1573	-	 	 	 	G	T	A	 	 	 	 	 	G	T	A	 
+1574	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+1575	-	 	 	 	A	G	C	 	 	 	 	 	A	G	C	 
+1576	-	 	 	 	 	C	C	 	 	 	 	 	 	C	C	 
+1577	-	 	 	 	 	A	A	 	 	 	 	 	 	A	A	 
+1578	-	 	 	 	 	A	G	 	 	 	 	 	 	A	G	 
+1579	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+1580	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+1581	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+1582	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+1583	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+1584	-	G	 	 	 	G	 	 	 	G	 	 	 	G	 	 
+1585	-	C	 	 	 	A	 	 	 	C	 	 	 	A	 	 
+1586	-	T	 	 	 	C	 	 	 	T	 	 	 	C	 	 
+1587	-	A	 	 	 	C	 	 	 	A	 	 	 	C	 	 
+1588	-	T	 	 	 	T	 	 	 	T	 	 	 	T	 	 
+1589	-	G	 	 	 	G	 	 	 	G	 	 	 	G	 	 
+1590	-	G	 	 	 	A	 	 	 	G	 	 	 	A	 	 
+1591	-	A	 	 	 	A	 	 	 	A	 	 	 	A	 	 
+1592	-	A	 	 	 	G	 	 	 	G	 	 	 	A	 	 
+1593	-	C	 	 	 	T	 	 	 	C	 	 	 	T	 	 
+1594	-	A	 	 	 	A	 	 	 	A	 	 	 	A	 	 
+1595	-	G	 	 	 	C	 	 	 	A	 	 	 	T	 	 
+1596	A	 	-	-	T	T	G	T	 	 	-	-	T	T	 	T
+1597	C	T	-	-	T	T	A	 	 	T	-	-	T	T	A	 
+1598	C	G	-	-	G	 	G	A	 	G	-	-	G	 	G	A
+1599	G	 	-	-	A	A	A	 	 	 	-	-	A	A	A	 
+1600	A	C	-	-	C	 	T	 	 	C	-	-	C	 	T	 
+1602	G	 	 	T	 	 	 	A	 	 	 	T	 	 	 	A
+1603	G	 	 	A	A	A	A	C	 	 	 	 	A	A	A	C
+1604	A	 	 	 	T	 	T	 	 	 	 	 	T	 	T	 
+1605	C	T	T	 	T	T	 	 	 	T	T	 	T	T	T	 
+1607	A	G	 	G	 	 	 	 	 	 	 	G	 	 	 	 
+1608	A	 	 	 	 	 	G	G	 	 	 	 	 	 	G	G
+1609	G	 	 	T	 	C	T	T	 	 	 	C	 	C	C	T
+1610	T	 	 	 	C	A	 	C	 	 	 	 	C	A	 	C
+1611	A	G	 	 	T	 	G	C	G	G	G	G	T	 	G	C
+1612	A	 	 	G	G	 	 	 	 	 	 	G	G	G	 	 
+1613	T	A	G	-	G	G	 	C	 	G	G	-	G	A	 	C
+1614	G	C	A	-	A	A	A	 	 	C	A	-	A	A	A	 
+1615	G	A	 	-	T	A	 	A	 	A	 	-	T	A	 	A
+1616	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1617	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1618	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1619	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1620	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1621	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1622	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1623	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1624	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1625	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1626	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1627	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1628	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1629	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1630	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1631	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1632	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1633	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1634	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1635	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1636	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1637	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1638	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1639	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1640	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1641	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1642	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1643	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1644	-	G	A	 	A	G	T	G	 	G	A	 	A	G	T	G
+1645	-	G	A	 	G	A	A	G	 	G	A	 	G	A	A	G
+1646	-	C	A	 	A	A	A	T	 	C	A	 	A	A	A	T
+1647	-	A	G	 	 	 	G	G	 	A	G	 	 	 	G	G
+1648	-	G	T	 	 	 	C	C	 	G	C	 	 	 	T	C
+1649	-	C	C	 	 	 	G	T	 	C	C	 	 	 	G	T
+1650	-	A	G	 	 	 	G	A	 	A	G	 	 	 	G	A
+1651	-	G	G	 	 	 	G	T	 	G	G	 	 	 	A	T
+1652	-	A	A	 	 	 	A	A	 	A	A	 	 	 	A	A
+1653	-	 	A	 	 	 	G	A	 	 	A	 	 	 	G	A
+1654	-	 	C	 	 	 	A	A	 	 	T	 	 	 	A	A
+1655	-	 	C	 	 	 	G	C	 	 	C	 	 	 	G	C
+1656	G	-	C	-	-	-	A	A	A	-	C	-	-	-	A	A
+1657	C	-	A	-	-	-	 	 	 	-	T	-	-	-	 	 
+1658	A	-	G	-	-	-	G	C	 	-	G	-	-	-	G	C
+1659	G	-	 	-	-	-	A	A	 	-	 	-	-	-	A	A
+1660	G	-	-	-	-	-	 	 	 	-	-	-	-	-	 	 
+1661	C	-	-	-	-	-	 	 	 	-	-	-	-	-	 	 
+1662	C	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+1663	T	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+1664	C	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+1665	A	-	-	-	-	-	-	C	 	-	-	-	-	-	-	C
+1666	T	-	-	-	-	-	-	C	 	-	-	-	-	-	-	C
+1667	A	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+1668	C	-	-	-	-	-	-	T	 	-	-	-	-	-	-	T
+1669	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1670	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1671	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1672	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1673	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1674	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1675	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1676	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1677	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1678	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1679	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1680	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1681	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1682	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1683	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1684	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1685	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1686	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1687	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1688	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1689	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1690	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1691	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1692	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1693	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1694	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1695	-	 	 	 	 	 	A	G	 	 	 	 	 	 	A	G
+1696	-	 	 	 	 	 	G	G	 	 	 	 	 	 	G	G
+1697	A	-	-	-	-	-	T	 	 	-	-	-	-	-	T	 
+1698	A	-	-	-	-	-	C	 	 	-	-	-	-	-	C	 
+1699	G	 	A	A	A	A	A	A	 	 	A	A	A	A	A	A
+1700	A	G	 	G	C	 	 	 	 	G	 	G	C	 	 	 
+1701	T	C	A	A	 	 	 	 	 	C	A	A	 	 	 	 
+1702	C	 	 	 	T	T	T	G	 	 	T	 	T	T	T	G
+1703	T	A	G	C	G	G	G	 	 	A	G	C	G	G	G	 
+1704	T	 	C	 	A	A	C	C	 	 	C	C	A	A	C	C
+1705	C	G	T	T	T	G	T	 	 	G	T	T	T	G	T	 
+1706	A	G	G	G	G	 	G	 	 	G	G	 	G	 	G	 
+1707	A	 	 	 	 	 	 	 	G	 	 	 	 	 	 	 
+1708	A	G	G	T	 	 	G	 	 	G	G	T	 	 	 	 
+1709	A	G	 	 	 	 	G	 	 	G	 	 	 	 	G	 
+1710	T	 	 	C	 	 	C	 	 	 	 	C	 	 	C	 
+1711	A	T	-	T	 	 	 	 	 	T	-	T	 	 	 	 
+1712	-	G	 	A	G	A	A	T	 	G	 	A	G	A	A	T
+1713	-	C	 	 	G	G	T	G	 	C	 	 	G	G	T	G
+1714	-	 	 	 	 	G	A	 	 	 	 	 	 	G	A	 
+1715	-	 	 	 	 	C	A	 	 	 	 	 	 	C	A	 
+1716	-	 	 	 	 	C	T	 	 	 	 	 	 	C	T	 
+1717	-	 	 	 	 	T	T	 	 	 	 	 	 	T	T	 
+1718	-	 	 	 	 	C	G	 	 	 	 	 	 	C	G	 
+1719	-	 	 	 	 	T	T	 	 	 	 	 	 	T	T	 
+1720	-	 	 	 	 	T	G	 	 	 	 	 	 	T	G	 
+1721	-	 	 	 	 	C	G	 	 	 	 	 	 	C	G	 
+1722	-	 	 	 	 	T	C	 	 	 	 	 	 	T	C	 
+1723	-	 	 	 	 	A	C	 	 	 	 	 	 	A	C	 
+1724	-	 	 	 	 	A	A	 	 	 	 	 	 	A	A	 
+1725	-	 	 	 	 	T	T	 	 	 	 	 	 	T	T	 
+1726	-	 	 	 	A	A	G	 	 	 	 	 	A	A	G	 
+1727	-	 	 	 	G	G	G	 	 	 	 	 	G	G	G	 
+1728	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+1729	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+1730	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+1731	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+1732	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+1733	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+1734	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+1735	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+1736	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+1737	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+1738	-	 	T	 	A	A	A	T	 	 	T	 	A	A	A	T
+1739	-	 	G	 	A	T	G	A	 	 	G	 	A	T	G	A
+1740	-	 	A	 	G	G	A	A	 	 	A	 	G	G	A	A
+1741	-	 	A	 	A	G	G	A	 	 	A	 	A	G	G	A
+1742	-	 	G	 	T	C	G	A	 	 	G	 	T	C	G	A
+1743	-	 	A	 	G	A	A	A	 	 	A	 	G	A	A	A
+1744	-	 	C	 	T	C	T	G	 	 	T	 	T	C	T	G
+1745	-	 	C	 	T	A	T	C	 	 	C	 	T	A	T	C
+1746	-	 	T	 	G	G	G	A	 	 	T	 	G	G	G	A
+1747	-	 	C	 	C	C	C	C	 	 	C	 	C	C	C	C
+1748	-	 	A	 	C	A	A	A	 	 	A	 	C	C	A	A
+1749	-	 	T	 	C	T	T	A	 	 	T	 	C	T	T	A
+1750	-	 	T	 	C	C	G	A	 	 	C	 	C	C	G	A
+1751	-	 	T	 	G	A	A	A	 	 	T	 	A	A	A	A
+1752	-	 	T	 	A	C	T	T	 	 	T	 	A	T	T	T
+1753	-	 	C	 	T	T	C	T	 	 	T	 	T	T	A	T
+1754	-	 	C	 	T	G	A	G	 	 	C	 	T	G	A	G
+1755	-	 	T	 	G	A	A	A	 	 	T	 	G	A	A	A
+1756	-	 	G	 	A	G	G	G	 	 	G	 	A	G	G	G
+1757	-	 	G	 	A	T	G	A	 	 	G	 	A	C	G	A
+1758	-	 	C	 	C	C	C	C	 	 	C	 	C	C	C	C
+1759	-	 	A	 	A	C	A	T	 	 	A	 	A	C	A	T
+1760	-	 	 	 	T	T	G	G	 	 	 	 	C	T	G	G
+1761	-	 	 	 	A	G	T	G	 	 	 	 	A	G	T	G
+1762	-	 	 	 	T	G	T	C	 	 	 	 	T	G	T	C
+1763	-	 	 	 	C	G	A	C	 	 	 	 	T	A	A	C
+1764	-	 	 	 	G	A	G	A	 	 	 	 	G	A	G	A
+1765	-	 	 	 	C	T	G	C	 	 	 	 	C	T	A	C
+1766	-	 	 	 	A	G	G	A	 	 	 	 	A	G	G	A
+1767	-	 	 	 	A	A	G	G	 	 	 	 	A	A	G	G
+1768	-	T	C	C	G	T	C	G	 	T	C	C	G	T	T	G
+1769	-	A	G	T	C	G	G	A	 	A	G	T	C	G	G	A
+1770	-	A	G	A	A	A	A	T	 	G	G	A	A	A	A	T
+1771	-	T	T	A	T	T	T	T	 	T	T	A	T	T	T	T
+1772	-	C	C	G	A	G	C	G	 	C	C	G	G	G	C	G
+1773	-	A	A	G	A	G	T	A	 	A	T	G	A	G	T	A
+1774	-	G	G	G	G	G	G	G	 	G	G	G	G	G	G	G
+1775	-	A	C	C	G	C	A	G	 	G	C	C	G	C	A	G
+1776	-	C	A	C	A	A	A	A	 	C	A	T	A	A	A	A
+1777	-	 	 	 	G	 	 	A	 	 	 	 	G	 	 	A
+1778	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1779	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1780	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1781	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1782	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1783	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1784	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	G
+1785	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1786	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1787	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1788	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1789	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1790	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1791	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1792	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1793	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1794	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1795	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1796	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1797	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1798	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1799	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1800	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1801	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1802	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1803	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1804	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1805	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1806	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1807	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1808	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1809	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1810	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1811	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1812	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1813	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1814	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1815	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1816	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1817	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1818	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1819	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1820	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1821	-	 	 	 	G	 	 	G	 	 	 	 	G	 	 	G
+1822	-	 	 	 	A	 	 	G	 	 	 	 	A	 	 	G
+1823	-	 	 	 	A	 	 	T	 	 	 	 	A	 	 	T
+1824	-	 	C	T	C	 	C	T	 	 	C	T	C	 	T	T
+1825	-	 	T	T	T	T	T	T	 	 	T	T	T	T	T	T
+1826	-	 	C	C	A	G	T	C	 	 	C	C	A	G	T	C
+1827	-	 	A	A	T	T	T	A	 	 	A	A	T	T	T	A
+1828	-	 	T	C	T	T	G	T	 	 	T	C	T	T	G	T
+1829	-	 	T	T	T	C	T	T	 	 	T	A	T	C	T	T
+1830	G	-	C	 	T	A	C	 	 	-	C	 	T	A	C	 
+1831	A	-	T	 	 	 	 	 	 	-	T	 	 	 	 	 
+1832	A	-	G	G	C	C	 	 	 	-	G	 	C	C	 	 
+1833	A	-	 	G	 	 	T	G	 	-	 	G	 	 	T	G
+1834	A	-	G	 	G	T	 	G	 	-	G	 	G	T	 	G
+1835	G	-	 	 	C	 	 	 	 	-	A	 	C	 	 	 
+1836	G	-	 	 	A	C	 	 	 	-	 	 	A	C	A	 
+1837	G	-	 	 	 	T	 	 	 	-	 	 	 	T	 	 
+1838	A	-	 	 	 	 	C	 	 	-	 	 	 	 	C	G
+1839	A	-	T	G	 	 	 	T	 	-	T	G	 	 	 	T
+1840	A	-	C	C	G	G	 	G	 	-	C	C	G	G	 	G
+1841	G	-	A	A	T	T	A	 	 	-	A	A	T	T	A	 
+1842	G	-	 	A	 	A	C	A	A	-	 	A	 	A	C	A
+1843	T	-	 	 	 	C	C	C	 	-	 	 	 	C	C	C
+1844	A	-	T	 	C	G	 	 	 	-	G	T	C	 	 	 
+1845	G	-	 	 	C	 	 	 	 	-	 	 	C	 	 	 
+1846	T	-	C	 	C	 	C	G	 	-	C	 	C	 	C	G
+1847	T	-	A	 	A	C	G	G	C	-	 	 	A	 	G	G
+1848	-	 	C	G	C	T	A	 	 	 	C	G	T	T	G	 
+1849	-	 	A	G	T	T	C	 	 	 	A	G	T	T	C	 
+1850	-	 	T	A	G	G	T	 	 	 	T	C	G	G	T	 
+1851	-	 	A	G	C	G	G	 	 	 	A	G	C	G	G	 
+1852	-	 	A	A	A	G	A	 	 	 	A	A	A	G	A	 
+1853	-	 	A	A	G	A	A	 	 	 	G	A	G	A	A	 
+1854	-	 	T	A	G	G	C	 	 	 	T	A	G	G	C	 
+1855	-	 	C	T	 	T	C	 	 	 	C	T	 	T	C	 
+1856	-	 	C	T	 	C	C	 	 	 	C	C	 	C	C	 
+1857	-	 	T	T	 	T	C	 	 	 	T	T	 	T	C	 
+1858	-	 	G	C	 	C	A	 	 	 	G	C	 	C	A	 
+1859	-	 	C	A	G	G	T	 	 	 	C	A	G	G	T	 
+1860	-	 	C	C	C	A	G	 	 	 	C	C	C	A	G	 
+1861	-	 	T	C	T	T	C	 	 	 	T	C	T	T	C	 
+1862	-	 	G	A	A	A	A	 	 	 	G	A	A	A	A	 
+1863	-	 	C	T	C	C	C	 	 	 	C	T	C	C	T	 
+1864	-	 	C	T	T	T	C	 	 	 	C	T	T	T	C	 
+1865	-	 	T	A	G	G	A	 	 	 	T	A	G	G	A	 
+1866	-	 	G	C	A	A	A	 	 	 	G	C	A	A	A	 
+1867	-	 	C	C	A	A	C	 	 	 	C	C	A	A	C	 
+1868	-	 	T	T	T	T	T	 	 	 	T	T	T	T	T	 
+1869	-	 	T	T	A	C	C	 	 	 	T	T	A	C	C	 
+1870	-	 	G	C	C	T	T	 	 	 	G	C	C	T	T	 
+1871	-	 	T	T	A	T	T	 	 	 	T	T	A	T	T	 
+1872	-	 	G	C	T	G	G	 	 	 	G	C	T	G	G	 
+1873	-	 	T	 	 	 	 	 	 	 	T	 	 	 	 	 
+1874	-	 	G	 	 	 	 	 	 	 	G	 	 	 	 	 
+1875	-	 	T	 	 	 	 	 	 	 	T	 	 	 	 	 
+1876	-	 	A	 	 	 	A	 	 	 	A	 	 	 	A	 
+1877	-	 	T	 	 	 	G	 	 	 	T	 	 	 	G	 
+1878	-	 	G	 	 	 	G	 	 	 	G	 	 	 	G	 
+1879	-	 	G	 	 	 	C	 	 	 	G	 	 	 	C	 
+1880	-	 	G	 	 	 	A	 	 	 	A	 	 	 	A	 
+1881	-	 	C	 	 	 	T	 	 	 	C	 	 	 	T	 
+1882	-	 	T	 	 	 	T	 	 	 	T	 	 	 	T	 
+1883	-	 	T	 	 	 	T	 	 	 	T	 	 	 	T	 
+1884	-	 	G	 	 	 	C	 	 	 	G	 	 	 	C	 
+1885	-	 	C	 	 	 	C	 	 	 	C	 	 	 	C	 
+1886	-	 	A	 	 	 	A	 	 	 	A	 	 	 	A	 
+1887	A	-	G	-	-	-	 	 	 	-	G	-	-	-	 	 
+1888	A	-	T	-	-	-	 	T	 	-	T	-	-	-	 	T
+1889	A	-	 	-	-	-	 	G	 	-	 	-	-	-	 	G
+1890	T	-	G	-	-	-	A	G	 	-	G	-	-	-	A	G
+1891	C	T	 	-	-	-	G	T	 	T	 	-	-	-	G	T
+1892	A	 	 	-	-	-	 	 	 	 	C	-	-	-	 	 
+1893	G	 	A	-	A	 	T	 	 	 	A	-	A	 	T	 
+1894	T	G	G	-	A	A	G	A	 	G	G	-	A	A	G	A
+1895	C	 	T	-	T	 	 	T	 	 	T	-	T	 	 	T
+1896	G	A	 	-	 	A	A	 	 	A	 	-	 	A	A	 
+1897	A	G	G	-	 	 	 	G	 	G	G	-	 	 	 	G
+1898	A	 	G	-	 	 	 	 	 	 	 	-	 	 	 	 
+1899	T	 	C	-	G	A	A	 	A	 	 	-	G	A	A	 
+1900	T	G	A	-	G	G	G	G	 	G	A	-	G	G	G	G
+1901	G	 	T	-	 	A	T	 	 	 	T	-	 	A	T	 
+1902	A	T	G	-	 	 	G	T	 	T	G	-	 	G	G	T
+1903	A	 	 	-	G	 	C	 	 	G	 	-	G	 	C	 
+1904	T	C	C	-	 	 	 	C	 	C	C	-	 	 	 	C
+1905	G	A	T	-	 	A	T	 	 	A	T	-	 	A	T	 
+1906	C	T	T	T	T	 	T	G	 	G	T	T	T	 	T	G
+1907	C	G	T	T	A	A	T	T	 	G	T	T	A	A	T	T
+1908	C	 	G	 	 	 	 	T	 	 	G	 	 	 	 	T
+1909	C	A	A	 	A	 	 	A	 	A	A	 	A	 	 	A
+1910	T	A	A	A	 	A	A	 	 	A	A	A	 	A	A	 
+1911	A	T	 	G	 	 	G	C	 	T	 	G	 	 	G	C
+1912	A	G	G	G	 	G	 	 	 	G	G	G	 	 	 	 
+1913	T	A	G	A	A	A	A	C	 	A	A	A	A	A	A	C
+1914	T	G	G	C	 	C	C	C	 	G	G	C	 	C	C	C
+1915	A	 	 	 	-	 	T	 	 	 	 	 	-	 	T	 
+1916	T	A	-	-	-	A	-	 	 	A	-	-	-	A	-	 
+1917	C	-	-	-	-	T	-	 	 	-	-	-	-	 	-	 
+1918	A	-	-	-	-	 	-	 	 	-	-	-	-	 	-	 
+1919	C	-	-	-	-	T	-	A	 	-	-	-	-	T	-	A
+1920	T	-	-	-	-	A	-	A	 	-	-	-	-	A	-	A
+1921	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+1922	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+1923	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+1924	A	-	-	-	-	G	-	 	 	-	-	-	-	G	-	 
+1925	T	-	-	-	-	 	-	 	 	-	-	-	-	 	-	 
+1926	G	-	-	-	-	 	-	 	 	-	-	-	-	 	-	 
+1927	A	-	-	-	-	G	-	 	 	-	-	-	-	G	-	 
+1928	G	-	-	-	-	 	-	 	 	-	-	-	-	 	-	 
+1929	G	-	-	-	-	A	-	C	 	-	-	-	-	A	-	C
+1930	A	-	-	-	-	T	-	 	 	-	-	-	-	T	-	 
+1931	A	-	-	-	-	G	-	G	 	-	-	-	-	G	-	G
+1932	T	-	-	-	-	G	-	G	 	-	-	-	-	G	-	G
+1933	G	-	-	-	-	 	-	 	 	-	-	-	-	A	-	 
+1934	C	-	-	-	-	 	-	G	 	-	-	-	-	 	-	G
+1935	T	-	-	-	-	 	-	 	 	-	-	-	-	 	-	 
+1936	C	-	-	-	-	 	-	 	 	-	-	-	-	 	-	 
+1937	C	-	-	-	-	 	-	A	 	-	-	-	-	 	-	A
+1938	T	-	-	-	-	A	-	G	 	-	-	-	-	A	-	G
+1939	G	-	-	-	-	A	-	 	 	-	-	-	-	A	-	 
+1940	T	-	-	-	-	 	-	A	 	-	-	-	-	 	-	A
+1941	T	-	-	-	-	C	-	 	 	-	-	-	-	C	-	 
+1942	A	-	-	-	-	 	-	 	 	-	-	-	-	C	-	 
+1943	T	-	-	-	-	 	-	 	 	-	-	-	-	 	-	 
+1944	C	-	-	-	-	 	-	G	 	-	-	-	-	 	-	G
+1945	C	-	-	-	-	 	-	 	 	-	-	-	-	T	-	 
+1946	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1947	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1948	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1949	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1950	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1951	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1952	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1953	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1954	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+1955	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1956	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1957	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1958	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1959	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1960	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1961	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1962	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1963	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1964	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1965	-	 	 	 	 	 	 	C	 	 	 	 	 	 	 	C
+1966	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+1967	-	 	 	 	 	 	 	G	 	 	 	 	 	 	 	G
+1968	-	 	 	 	 	G	 	A	 	 	 	 	 	G	 	A
+1969	-	 	A	 	A	A	G	A	 	 	G	 	A	A	G	A
+1970	T	-	G	-	C	C	G	 	 	-	G	-	C	 	G	 
+1971	G	-	 	-	 	 	 	 	 	-	 	-	A	 	 	 
+1972	A	-	G	-	G	 	G	C	 	-	 	-	G	 	G	C
+1973	T	-	 	-	C	 	A	C	 	-	 	-	C	 	A	C
+1974	T	-	A	-	C	 	A	A	 	-	A	-	C	 	A	A
+1975	C	-	 	-	T	T	T	T	 	-	 	-	T	T	T	T
+1976	T	-	 	-	 	 	 	 	 	-	 	-	 	 	 	 
+1977	G	-	-	-	 	 	 	 	A	-	-	-	 	 	 	 
+1978	G	-	-	-	C	C	A	A	 	-	-	-	C	C	A	A
+1979	C	-	-	-	T	T	A	 	T	-	-	-	T	T	A	 
+1980	G	-	-	-	C	C	T	 	 	-	-	-	C	C	C	 
+1981	A	-	-	-	-	T	C	 	 	-	-	-	-	T	C	 
+1982	A	-	-	-	-	C	C	G	 	-	-	-	-	C	C	G
+1983	A	-	-	-	-	 	 	 	 	-	-	-	-	 	 	 
+1984	T	-	-	-	-	 	 	 	 	-	-	-	-	 	 	 
+1985	C	-	-	-	-	A	 	T	 	-	-	-	-	A	 	T
+1986	A	-	-	-	-	G	G	 	 	-	-	-	-	G	G	 
+1987	C	-	-	-	-	T	A	 	 	-	-	-	-	T	A	 
+1988	-	 	 	 	 	G	T	T	 	 	 	 	 	G	C	T
+1989	-	 	 	 	A	A	A	A	 	 	 	 	A	A	A	A
+1990	-	 	 	 	A	A	A	A	 	 	 	 	A	A	A	A
+1991	-	 	 	 	T	T	T	C	 	 	 	 	T	T	T	C
+1992	-	 	 	 	G	G	G	A	 	 	 	 	G	G	G	A
+1993	-	 	 	 	C	C	T	A	 	 	 	 	C	C	T	A
+1994	-	 	 	 	A	A	 	A	 	 	 	 	A	A	 	A
+1995	-	 	 	 	T	C	 	G	 	 	 	 	T	C	 	G
+1996	-	 	 	 	C	C	 	T	 	 	 	 	C	C	 	T
+1997	-	 	 	 	C	A	 	A	 	 	 	 	C	A	 	A
+1998	-	 	 	 	T	A	 	A	 	 	 	 	T	A	 	A
+1999	-	 	 	 	G	A	 	A	 	 	 	 	G	A	 	A
+2000	-	 	 	 	T	C	 	T	 	 	 	 	T	T	 	T
+2001	-	 	 	 	 	C	 	T	 	 	 	 	 	C	 	T
+2002	A	-	-	-	-	 	-	C	 	-	-	-	-	 	-	C
+2003	T	-	-	-	-	 	-	 	 	-	-	-	-	 	-	 
+2004	G	-	-	-	-	 	-	 	 	-	-	-	-	 	-	 
+2005	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2006	-	 	 	 	 	G	G	 	 	 	 	 	 	G	G	 
+2007	-	 	 	 	 	G	A	 	 	 	 	 	 	G	A	 
+2008	-	 	 	 	 	G	T	 	 	 	 	 	 	G	T	 
+2009	-	 	 	 	 	A	G	 	 	 	 	 	 	A	G	 
+2010	-	 	 	 	 	A	G	 	 	 	 	 	 	A	G	 
+2011	T	-	C	 	-	 	G	 	 	-	C	 	-	 	G	 
+2012	G	-	A	A	-	A	A	T	 	-	T	A	-	A	A	T
+2013	T	-	C	C	-	C	A	A	 	-	C	C	-	C	A	A
+2014	G	-	T	T	-	A	T	T	 	-	T	T	-	A	T	T
+2015	T	-	G	 	-	A	G	 	 	-	G	A	-	A	G	 
+2016	G	-	 	A	 	 	A	 	 	-	 	A	 	 	A	 
+2017	C	-	T	T	 	 	T	A	 	-	T	T	 	 	T	A
+2018	A	-	C	G	 	 	C	 	 	-	C	G	 	 	C	 
+2019	G	-	 	A	 	 	 	A	 	-	 	A	 	 	 	A
+2020	G	-	 	 	C	 	 	A	 	-	 	 	C	 	 	A
+2021	G	-	 	 	C	A	A	 	 	-	A	 	C	A	A	 
+2022	A	-	 	 	 	G	 	 	 	-	 	 	 	G	 	 
+2023	T	-	 	 	 	 	 	 	 	-	 	 	 	 	 	 
+2024	A	-	 	G	G	G	 	G	 	-	 	G	G	G	 	G
+2025	A	-	G	-	G	G	-	 	 	-	G	-	G	G	-	 
+2026	C	-	A	-	A	A	-	A	 	-	A	-	A	A	-	A
+2027	T	-	C	-	 	C	-	 	 	-	C	-	 	 	-	 
+2028	-	C	C	 	G	A	C	 	 	C	C	 	G	A	T	 
+2029	-	T	C	 	A	G	T	 	 	C	C	 	A	G	T	 
+2030	-	A	A	 	C	A	G	 	 	A	T	 	C	A	A	 
+2031	-	T	T	 	T	T	C	 	 	T	T	 	T	T	C	 
+2032	-	T	T	 	T	T	C	 	 	T	T	 	T	T	C	 
+2033	-	G	C	 	T	C	C	 	 	G	C	 	T	C	T	 
+2034	G	 	A	-	C	T	 	-	 	 	C	-	C	T	 	-
+2035	G	 	A	-	A	A	A	A	 	 	 	-	A	A	A	A
+2036	C	A	A	-	G	 	 	 	 	A	T	-	A	T	 	 
+2037	A	C	T	-	C	 	 	 	 	C	C	-	C	 	 	 
+2038	T	 	 	-	 	G	 	C	 	 	 	-	 	G	 	C
+2039	G	C	A	-	 	 	 	A	 	C	 	-	 	 	 	A
+2040	G	A	C	-	A	A	A	 	 	A	C	-	A	A	A	 
+2041	C	T	T	-	T	 	 	T	 	T	T	-	T	 	 	T
+2042	T	C	C	-	C	C	C	 	 	C	 	-	 	C	C	 
+2043	C	 	 	T	 	T	 	 	 	 	 	T	 	T	 	 
+2044	G	T	A	C	C	-	C	A	 	T	A	C	C	-	C	A
+2045	A	 	 	 	 	-	 	-	 	 	 	 	 	-	 	-
+2046	A	G	 	 	 	-	 	-	 	G	 	 	 	-	 	-
+2047	T	-	-	-	 	-	-	-	 	-	-	-	 	-	-	-
+2048	C	-	-	-	G	-	-	 	 	-	-	-	G	-	-	 
+2049	G	-	A	A	A	 	 	A	 	-	A	A	A	 	 	A
+2050	A	-	C	 	T	C	C	G	 	-	C	 	T	C	C	G
+2051	C	-	A	A	A	A	A	 	 	-	A	A	A	A	A	 
+2052	C	-	G	T	A	A	 	A	 	-	G	T	A	A	 	A
+2053	G	-	C	 	 	 	 	 	 	-	C	 	 	 	A	 
+2054	T	-	C	C	C	 	G	 	 	-	C	C	C	C	G	 
+2055	G	-	A	A	A	T	A	 	 	-	A	A	A	T	A	A
+2056	G	-	A	 	A	A	 	 	 	-	A	A	A	A	 	 
+2057	G	-	 	T	A	 	A	 	 	-	 	T	A	 	A	 
+2058	T	-	 	 	 	 	 	 	 	-	 	 	 	 	 	 
+2059	-	 	G	G	G	G	G	A	 	 	C	G	G	G	G	A
+2060	-	 	G	G	T	G	T	A	 	 	T	G	C	G	T	A
+2061	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+2062	-	 	 	 	 	 	G	 	 	 	 	 	 	 	A	 
+2063	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+2064	G	-	-	-	-	-	T	A	 	-	-	-	-	-	T	A
+2065	T	-	-	-	-	-	G	G	 	-	-	-	-	-	G	G
+2066	C	-	-	-	-	-	A	A	 	-	-	-	-	-	A	A
+2067	T	C	-	-	-	-	G	G	 	C	-	-	-	-	G	G
+2068	T	 	-	-	-	-	A	 	 	 	-	-	-	-	A	 
+2069	T	C	-	-	-	-	G	 	 	C	-	-	-	-	G	 
+2070	C	 	-	-	A	G	G	 	 	 	-	-	A	G	G	 
+2071	A	 	-	G	G	 	G	 	 	 	-	G	G	 	 	 
+2072	A	G	-	G	G	 	 	 	 	G	-	G	 	 	 	 
+2073	T	 	-	 	A	 	 	C	C	 	-	 	A	 	 	C
+2074	C	G	-	 	 	 	A	 	 	G	-	 	 	 	A	 
+2075	A	C	-	C	C	 	 	-	 	C	-	C	C	 	 	-
+2076	G	T	-	T	A	A	 	-	 	T	-	T	A	A	 	-
+2077	A	G	-	C	 	C	 	-	 	G	-	C	 	C	 	-
+2078	A	G	-	 	 	 	 	 	 	G	-	 	 	 	G	 
+2079	T	 	 	 	G	 	 	C	 	 	 	 	G	 	 	C
+2080	C	 	 	 	A	G	 	 	 	 	 	 	A	G	 	 
+2081	T	 	A	G	A	A	A	 	 	 	A	G	A	A	A	 
+2083	G	A	C	A	 	-	C	 	 	A	C	A	 	-	C	 
+2084	A	 	C	G	 	-	 	 	 	 	C	G	 	-	 	 
+2085	A	 	T	G	 	-	 	 	 	 	T	G	 	-	 	 
+2086	T	G	G	A	G	-	A	A	 	G	C	A	G	-	A	A
+2087	A	 	 	C	 	-	 	 	 	 	 	C	 	-	 	 
+2088	T	 	 	 	C	C	 	A	 	 	 	 	C	C	 	A
+2089	C	G	G	T	G	A	G	A	 	G	 	T	G	A	G	A
+2090	A	 	 	G	G	 	G	G	 	 	 	G	G	 	G	G
+2091	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+2092	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+2093	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+2094	-	 	 	 	A	G	 	 	 	 	 	 	A	G	 	 
+2095	-	 	 	 	C	A	 	 	 	 	 	 	C	A	 	 
+2096	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+2097	-	 	 	 	A	A	 	 	 	 	 	 	A	G	 	 
+2098	-	 	 	 	A	T	 	 	 	 	 	 	A	T	 	 
+2099	-	 	 	 	C	C	 	 	 	 	 	 	T	C	 	 
+2100	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+2101	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+2102	-	 	 	 	G	A	 	 	 	 	 	 	G	A	 	 
+2103	-	 	 	 	T	T	 	 	 	 	 	 	T	C	 	 
+2104	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+2105	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+2106	-	 	 	 	G	A	 	 	 	 	 	 	G	A	 	 
+2107	-	 	 	 	G	A	 	 	 	 	 	 	G	A	 	 
+2108	-	 	 	 	G	A	 	 	 	 	 	 	A	A	 	 
+2109	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+2110	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+2111	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+2112	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+2113	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+2114	-	 	G	A	T	T	G	 	 	 	G	A	T	T	G	 
+2115	-	 	A	A	A	A	A	 	 	 	A	A	A	A	A	 
+2116	-	 	C	T	T	A	G	 	 	 	C	T	T	G	G	 
+2117	-	 	C	G	A	G	T	 	 	 	C	G	A	G	T	 
+2118	A	-	 	G	 	 	 	 	G	-	 	G	 	 	 	 
+2119	A	-	 	 	 	C	G	 	 	-	 	 	 	C	G	 
+2120	T	-	A	A	A	A	A	 	 	-	A	A	A	A	A	 
+2121	A	-	T	T	G	G	T	 	 	-	T	T	G	G	T	 
+2122	G	-	 	 	 	 	 	 	 	-	 	 	 	 	 	 
+2123	G	-	A	 	A	 	A	A	 	-	A	A	A	 	A	A
+2124	A	-	 	T	 	 	 	G	 	-	G	T	 	 	 	G
+2125	T	-	A	A	G	C	 	A	 	-	A	A	G	C	 	A
+2126	A	-	 	 	G	 	 	 	 	-	 	 	 	 	 	 
+2127	C	-	 	 	T	T	 	T	 	-	T	 	T	T	 	T
+2128	A	-	C	 	C	T	T	T	 	-	C	 	C	T	T	T
+2129	T	-	C	C	 	 	C	 	 	-	C	C	 	 	C	 
+2130	A	-	 	G	C	G	C	 	 	-	 	 	C	G	C	 
+2131	T	-	G	G	A	A	A	A	 	-	G	G	A	A	A	A
+2132	G	-	C	T	T	A	 	A	 	-	C	T	T	A	 	A
+2133	C	-	T	T	T	T	 	T	 	-	A	T	T	T	 	T
+2134	A	-	C	C	T	T	 	 	 	-	C	C	T	T	 	 
+2135	G	-	A	 	 	C	C	A	 	-	A	 	 	C	C	A
+2136	T	-	C	-	A	A	G	A	 	-	C	-	A	A	A	A
+2137	G	-	A	-	 	C	 	A	 	-	A	-	 	C	 	A
+2138	G	-	A	-	A	A	A	A	 	-	A	-	 	A	A	A
+2139	G	-	 	-	A	A	 	A	 	-	 	-	A	A	 	A
+2140	G	-	A	-	A	 	A	 	A	-	A	-	A	 	A	 
+2141	T	-	G	-	 	C	G	 	 	-	G	-	 	C	G	 
+2142	T	-	 	-	G	 	A	 	 	-	 	-	G	 	A	 
+2143	T	-	C	-	A	 	G	-	 	-	C	-	A	 	G	-
+2144	T	-	A	-	 	 	 	-	 	-	A	-	 	 	 	-
+2145	-	 	A	 	A	T	G	 	 	 	A	 	A	T	G	 
+2146	-	 	T	 	C	T	G	 	 	 	T	 	C	T	G	 
+2147	-	 	T	 	T	T	T	 	 	 	T	 	T	C	T	 
+2148	-	 	G	 	G	T	A	 	 	 	G	 	G	T	A	 
+2149	-	 	G	 	A	A	G	 	 	 	G	 	A	A	G	 
+2150	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2151	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2152	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2153	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2154	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2155	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2156	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2157	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2158	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2159	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2160	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2161	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2162	C	-	T	-	T	T	T	-	 	-	T	-	T	T	T	-
+2163	G	-	 	-	 	 	 	-	 	-	 	-	 	 	 	-
+2164	G	-	T	-	T	T	-	-	 	-	T	-	T	T	-	-
+2165	A	-	G	-	G	G	-	-	 	-	G	-	G	 	-	-
+2166	G	-	 	-	 	 	-	 	 	-	 	-	 	 	-	 
+2167	A	-	 	-	T	C	-	 	 	-	 	-	T	C	-	 
+2168	C	-	T	-	-	-	-	T	 	-	T	-	-	-	-	T
+2169	A	-	G	-	-	-	-	G	 	-	G	-	-	-	-	G
+2170	A	-	G	-	-	-	-	 	 	-	G	-	-	-	-	 
+2171	-	 	C	 	 	 	 	 	 	 	C	 	 	 	 	 
+2172	-	 	A	 	 	 	 	 	 	 	A	 	 	 	 	 
+2173	-	 	T	 	 	 	 	 	 	 	T	 	 	 	 	 
+2174	-	 	G	 	 	 	 	 	 	 	G	 	 	 	 	 
+2175	-	 	C	 	 	 	 	 	 	 	C	 	 	 	 	 
+2176	-	 	C	 	 	 	 	 	 	 	C	 	 	 	 	 
+2177	-	 	A	 	 	 	 	 	 	 	A	 	 	 	 	 
+2178	-	 	C	 	 	 	 	 	 	 	C	 	 	 	 	 
+2179	-	 	T	 	 	 	 	 	 	 	T	 	 	 	 	 
+2180	-	 	C	 	 	 	 	 	 	 	C	 	 	 	 	 
+2181	-	 	T	 	 	 	 	 	 	 	T	 	 	 	 	 
+2182	-	 	G	 	 	 	 	 	 	 	G	 	 	 	 	 
+2183	-	 	C	 	 	 	 	 	 	 	C	 	 	 	 	 
+2184	T	C	 	A	G	 	A	 	 	 	A	A	A	C	A	 
+2185	C	 	G	G	A	A	G	G	 	 	G	G	A	A	G	G
+2186	C	T	 	T	A	A	T	G	 	T	 	T	A	A	 	G
+2187	A	T	 	C	C	T	 	T	 	T	 	C	C	T	 	T
+2188	C	 	T	T	T	T	T	T	 	 	T	T	T	T	T	T
+2189	G	T	T	C	T	T	T	T	 	T	T	C	T	T	T	T
+2190	C	T	T	T	T	T	G	 	 	T	T	T	T	T	G	 
+2191	C	G	G	G	G	-	A	 	 	G	G	G	G	-	A	 
+2192	C	A	A	A	T	-	 	T	 	A	A	A	T	-	 	T
+2193	T	A	A	A	A	-	C	G	 	A	A	A	G	-	C	G
+2194	A	 	G	 	 	 	G	G	 	 	G	 	 	 	G	G
+2195	A	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+2196	T	 	 	 	 	C	 	C	 	 	 	 	C	C	 	C
+2197	G	T	T	A	A	A	T	A	 	T	C	C	A	A	T	A
+2198	A	T	T	T	T	T	T	T	 	T	T	T	T	T	T	T
+2199	T	G	A	A	G	G	 	 	 	G	A	A	G	G	 	 
+2200	G	C	A	C	 	 	T	T	A	C	A	C	 	 	T	T
+2201	G	A	 	A	A	A	A	 	A	A	 	A	A	A	A	 
+2202	G	 	A	 	 	 	A	 	 	 	A	 	 	 	A	 
+2203	A	G	G	-	T	C	G	 	 	G	G	-	T	C	G	 
+2204	C	 	T	-	T	T	G	 	 	 	T	-	T	T	A	 
+2205	A	C	 	-	C	 	G	T	 	C	G	-	T	G	G	T
+2206	G	T	T	-	T	C	T	T	 	T	T	-	T	C	T	T
+2207	G	A	C	-	C	C	T	A	 	A	C	-	C	C	T	A
+2208	C	-	A	-	-	 	A	 	 	-	A	-	-	 	 	 
+2209	A	-	 	-	-	 	G	 	 	-	 	-	-	 	G	 
+2210	G	-	 	-	-	 	A	A	 	-	 	-	-	 	A	A
+2211	T	-	 	-	-	C	G	 	 	-	C	-	-	C	G	 
+2212	T	-	 	-	-	 	A	G	 	-	 	-	-	 	A	G
+2213	G	-	T	-	-	T	T	C	 	-	T	-	-	T	C	C
+2214	T	-	C	-	-	 	C	C	 	-	C	-	-	 	C	C
+2215	G	-	A	-	-	-	A	 	 	-	A	-	-	-	A	 
+2216	G	-	T	-	-	-	A	A	 	-	T	-	-	-	A	A
+2217	T	-	A	-	-	-	A	A	 	-	C	-	-	-	C	A
+2218	C	-	A	-	-	-	G	 	 	-	A	-	-	-	G	 
+2219	C	-	G	-	-	-	A	T	 	-	G	-	-	-	G	T
+2220	A	-	 	-	-	-	G	G	 	-	 	-	-	-	G	G
+2221	G	-	 	-	-	-	 	T	 	-	 	-	-	-	 	T
+2222	T	-	G	-	-	-	G	 	 	-	G	-	-	-	G	 
+2223	A	-	 	-	-	-	 	G	 	-	G	-	-	-	 	G
+2224	T	-	A	-	-	-	A	G	 	-	A	-	-	-	A	G
+2225	C	-	A	-	-	-	 	T	 	-	 	-	-	-	 	T
+2226	G	-	 	-	-	-	 	-	 	-	A	-	-	-	 	-
+2227	T	-	-	-	-	-	 	 	 	-	-	-	-	-	 	 
+2228	C	-	-	-	-	-	A	 	 	-	-	-	-	-	A	 
+2229	T	-	-	-	-	-	C	 	 	-	-	-	-	-	C	 
+2230	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2231	-	 	A	A	 	G	A	 	 	 	A	A	 	G	A	 
+2232	-	 	A	G	 	G	T	 	 	 	G	G	 	G	T	 
+2233	-	 	A	A	 	A	T	 	 	 	A	A	 	A	T	 
+2234	-	 	G	T	 	G	G	 	 	 	G	T	 	G	G	 
+2235	-	 	T	T	 	T	T	 	 	 	T	T	 	T	T	 
+2236	-	 	G	C	 	G	C	 	 	 	G	C	 	G	C	 
+2237	-	 	A	G	 	T	T	 	 	 	G	G	 	T	T	 
+2238	-	 	T	C	 	C	C	 	 	 	T	C	 	C	C	 
+2239	-	 	T	T	 	T	C	 	 	 	C	T	 	T	C	 
+2240	-	 	C	T	 	G	C	 	 	 	C	T	 	G	C	 
+2241	-	 	C	G	 	G	G	 	 	 	C	G	 	G	G	 
+2242	-	 	A	G	 	A	A	 	 	 	A	G	 	A	A	 
+2243	-	 	A	A	 	G	A	 	 	 	A	A	 	A	A	 
+2244	-	 	G	G	 	T	G	 	 	 	G	G	 	T	G	 
+2245	-	 	A	A	 	A	A	 	 	 	A	A	 	T	A	 
+2246	-	 	G	A	 	A	A	 	 	 	G	A	 	A	G	 
+2247	-	 	G	A	 	A	G	 	 	 	G	G	 	A	G	 
+2248	-	 	A	 	 	T	T	 	 	 	A	 	 	T	T	 
+2249	-	 	A	 	 	G	C	 	 	 	C	 	 	G	C	 
+2250	-	 	A	 	 	A	A	 	 	 	A	 	 	A	A	 
+2251	-	 	G	 	A	A	G	 	 	 	A	 	T	A	G	 
+2252	-	 	C	 	C	T	T	 	 	 	C	 	C	T	T	 
+2253	-	 	T	 	T	C	G	 	 	 	T	 	T	C	G	 
+2254	-	 	T	 	C	A	A	 	 	 	G	 	C	A	A	 
+2255	-	 	T	 	A	G	A	 	 	 	T	 	A	G	A	 
+2256	-	 	C	 	C	C	A	 	 	 	C	 	C	C	A	 
+2257	-	 	C	 	T	T	C	 	 	 	C	 	T	T	C	 
+2258	-	 	A	 	G	G	G	 	 	 	A	 	G	G	A	 
+2259	-	 	C	 	A	A	C	 	 	 	C	 	A	A	C	 
+2260	-	 	A	 	C	C	A	 	 	 	C	 	C	C	A	 
+2261	-	 	A	 	C	A	A	 	 	 	A	 	C	A	A	 
+2262	-	 	 	 	C	T	G	 	 	 	 	 	C	T	G	 
+2263	-	 	 	 	G	G	G	 	 	 	 	 	G	G	G	 
+2264	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+2265	-	 	 	 	G	G	A	 	 	 	 	 	G	G	A	 
+2266	-	 	 	 	 	T	C	 	 	 	 	 	 	C	C	 
+2267	A	C	-	-	 	 	T	 	 	C	-	-	 	 	 	 
+2268	A	C	G	-	C	T	G	T	 	C	G	-	C	T	G	T
+2269	T	A	A	-	 	 	A	 	 	A	A	-	 	 	A	 
+2270	G	 	 	-	 	 	 	 	 	 	 	-	 	 	 	 
+2271	G	A	 	-	 	 	A	 	 	A	 	-	 	 	A	 
+2272	A	 	G	-	 	 	 	 	 	 	 	-	 	 	 	 
+2273	G	 	 	-	 	 	 	-	 	A	 	-	 	 	 	-
+2274	C	 	T	-	 	T	T	-	 	 	T	-	 	T	T	-
+2275	-	G	C	 	 	 	T	 	 	G	T	 	 	 	T	 
+2276	-	 	C	 	 	 	G	 	 	 	C	 	 	 	G	 
+2277	-	 	A	 	 	 	A	 	 	 	A	 	 	 	A	 
+2278	-	 	G	 	 	 	C	 	 	 	A	 	 	 	C	 
+2279	-	 	A	 	 	 	A	 	 	 	A	 	 	 	A	 
+2280	-	 	T	 	 	 	A	 	 	 	T	 	 	 	A	 
+2281	-	 	T	 	 	 	T	 	 	 	T	 	 	 	T	 
+2282	-	 	G	 	 	 	A	 	 	 	G	 	 	 	A	 
+2283	-	 	C	 	 	 	A	 	 	 	C	 	 	 	A	 
+2284	-	 	T	 	 	 	C	 	 	 	T	 	 	 	C	 
+2285	-	 	T	 	 	 	T	 	 	 	T	 	 	 	T	 
+2286	-	 	C	 	 	 	T	 	 	 	C	 	 	 	T	 
+2287	-	 	A	 	 	 	A	 	 	 	A	 	 	 	A	 
+2288	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2289	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2290	-	 	 	C	 	 	C	 	 	 	 	C	 	 	C	 
+2291	-	 	 	T	 	 	G	 	 	 	 	A	 	 	A	 
+2292	-	 	 	G	 	 	T	 	 	 	 	G	 	 	T	 
+2293	-	 	 	T	 	 	C	 	 	 	 	T	 	 	C	 
+2294	A	 	 	G	C	 	 	-	 	 	 	 	C	 	 	-
+2295	A	 	 	 	 	 	T	-	 	 	 	 	 	 	T	-
+2296	A	T	T	T	C	C	C	-	 	T	T	T	C	C	C	-
+2297	T	G	G	G	A	A	A	-	 	G	G	G	A	A	A	-
+2298	G	 	A	A	C	 	A	-	 	 	A	A	C	 	A	-
+2299	G	 	 	 	A	T	T	A	 	 	 	 	A	T	T	A
+2300	A	 	 	 	 	G	G	 	 	 	 	 	 	G	G	 
+2301	G	 	A	A	A	A	A	A	 	 	A	A	A	A	A	A
+2302	T	 	 	 	 	 	 	 	 	 	C	 	 	 	 	 
+2303	A	G	G	G	G	 	G	G	 	G	 	G	G	 	G	G
+2304	A	C	T	G	G	 	T	 	 	C	T	G	G	 	T	 
+2305	A	 	G	G	G	 	G	 	 	 	G	G	G	 	G	 
+2306	A	G	G	 	 	G	G	 	 	G	G	 	 	G	G	 
+2307	G	A	A	 	A	A	 	 	 	A	A	 	A	A	 	 
+2308	G	T	A	A	A	A	A	A	 	T	A	A	A	A	A	A
+2309	G	 	A	C	A	-	 	A	A	 	A	C	A	-	 	A
+2310	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2311	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2312	T	-	C	-	-	-	C	C	 	-	C	-	-	-	C	C
+2313	T	-	C	-	-	-	A	 	 	-	A	-	-	-	A	 
+2314	T	-	A	-	-	-	A	 	 	-	A	-	-	-	A	 
+2315	T	-	 	-	-	-	 	 	 	-	 	-	-	-	 	 
+2316	-	 	G	 	 	 	G	G	 	 	G	 	 	 	G	G
+2317	-	 	G	 	 	 	G	G	 	 	G	 	 	 	G	G
+2318	-	 	A	 	 	 	C	A	 	 	A	 	 	 	T	A
+2319	-	 	C	 	 	 	C	T	 	 	C	 	 	 	C	C
+2320	-	 	T	 	 	 	C	T	 	 	T	 	 	 	C	T
+2321	-	 	 	 	 	 	T	A	 	 	 	 	 	 	T	A
+2322	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+2323	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2324	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+2325	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2326	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+2327	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2328	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+2329	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2330	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+2331	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+2332	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2333	-	 	 	 	A	 	A	 	 	 	 	 	G	 	G	 
+2334	-	 	 	C	T	 	G	 	 	 	 	C	T	 	G	 
+2335	-	 	C	T	A	 	T	 	 	 	C	T	A	 	T	 
+2336	-	 	C	T	C	 	C	 	 	 	C	C	C	 	C	 
+2337	-	 	A	C	T	 	A	 	 	 	A	C	T	 	A	 
+2338	-	 	A	A	G	 	A	 	 	 	G	A	G	 	A	 
+2339	-	 	C	C	T	 	C	 	 	 	T	C	T	 	C	 
+2340	-	 	A	T	G	 	A	 	 	 	A	T	G	 	A	 
+2341	-	 	C	A	T	 	C	 	 	 	C	C	T	 	C	 
+2342	-	 	C	C	T	 	T	 	 	 	T	C	T	 	T	 
+2343	-	 	C	C	C	 	T	 	 	 	C	C	C	 	T	 
+2344	-	 	T	T	T	 	A	 	 	 	T	T	T	 	A	 
+2345	-	 	G	C	T	C	T	 	 	 	T	C	T	C	T	 
+2346	-	 	G	C	G	A	C	 	 	 	G	C	G	A	C	 
+2347	-	 	A	A	A	A	A	 	 	 	A	A	A	A	A	 
+2348	-	 	A	G	A	C	A	 	 	 	A	A	A	C	A	 
+2349	-	 	C	A	A	A	T	 	 	 	C	A	A	A	T	 
+2350	-	 	T	G	T	T	G	 	 	 	T	G	T	T	G	 
+2351	-	 	A	C	A	G	G	 	 	 	G	C	A	G	G	 
+2352	-	 	A	A	G	A	A	 	 	 	A	A	G	A	A	 
+2353	-	 	G	G	G	T	T	 	 	 	G	G	G	T	T	 
+2354	-	 	A	A	A	A	A	 	 	 	A	A	A	A	C	 
+2355	-	 	A	A	G	A	A	 	 	 	A	A	G	A	A	 
+2356	-	 	G	A	A	A	T	 	 	 	G	A	A	A	T	 
+2357	-	 	C	T	C	C	C	 	 	 	C	C	C	C	C	 
+2358	-	 	A	G	A	A	A	 	 	 	A	G	A	A	A	 
+2359	-	 	G	A	T	A	G	 	 	 	G	G	T	A	G	 
+2360	-	 	A	A	G	T	G	 	 	 	A	A	G	T	A	 
+2361	-	 	T	A	C	G	A	 	 	 	T	A	C	G	A	 
+2362	-	 	A	A	T	A	A	 	 	 	A	A	T	A	A	 
+2363	-	 	C	G	C	C	C	 	 	 	C	A	C	C	C	 
+2364	-	 	T	T	T	C	T	 	 	 	T	T	C	C	T	 
+2365	-	 	G	G	T	T	G	 	 	 	G	G	T	T	G	 
+2366	-	 	G	G	G	T	G	 	 	 	G	G	A	T	G	 
+2367	-	 	G	 	A	G	G	 	 	 	G	 	A	G	G	 
+2368	-	 	C	 	G	G	A	 	 	 	C	 	G	G	A	 
+2369	-	 	C	 	G	A	A	 	 	 	T	 	G	A	A	 
+2370	-	 	A	 	A	C	A	 	 	 	A	 	A	C	A	 
+2371	-	 	T	 	C	C	T	 	 	 	T	 	C	C	C	 
+2372	-	 	 	 	T	T	T	 	 	 	 	 	T	A	T	 
+2373	-	 	 	 	G	G	G	 	 	 	 	 	G	G	G	 
+2374	-	 	 	 	C	C	T	 	 	 	 	 	C	C	T	 
+2375	-	 	 	 	G	A	G	 	 	 	 	 	A	A	G	 
+2376	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2377	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2378	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2379	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2380	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2381	-	C	 	 	 	 	T	C	 	C	 	 	 	 	T	C
+2382	-	A	 	 	 	 	C	C	 	A	 	 	 	 	C	C
+2383	-	G	A	C	A	A	A	A	 	G	A	C	A	A	A	A
+2384	-	C	A	G	T	C	A	C	 	C	A	G	T	C	A	C
+2385	C	G	G	A	A	G	T	G	 	G	G	A	A	A	T	G
+2386	A	 	G	G	G	G	G	 	 	 	G	G	G	G	G	 
+2387	T	 	A	A	G	C	G	 	 	 	A	A	G	C	G	 
+2388	T	 	C	G	 	C	 	 	 	 	C	A	C	 	 	 
+2391	A	 	G	 	 	G	C	 	 	 	G	 	 	G	C	 
+2392	A	G	G	T	G	 	 	 	 	G	 	T	G	 	 	 
+2393	T	 	A	 	 	 	A	 	 	 	A	 	 	 	A	 
+2394	A	G	G	G	G	G	G	G	 	G	G	G	G	G	G	G
+2395	-	A	 	 	 	G	 	 	 	A	 	 	 	G	 	 
+2396	-	T	 	 	 	C	 	 	 	T	 	 	 	C	 	 
+2397	-	C	 	 	 	T	 	 	 	C	 	 	 	T	 	 
+2398	-	C	 	 	 	C	 	 	 	C	 	 	 	C	 	 
+2399	-	T	 	 	 	T	 	 	 	T	 	 	 	T	 	 
+2400	-	C	 	 	 	T	 	 	 	C	 	 	 	T	 	 
+2401	-	T	 	 	 	C	 	 	 	T	 	 	 	C	 	 
+2402	-	C	 	 	 	A	 	 	 	C	 	 	 	A	 	 
+2403	-	G	 	 	 	A	 	 	 	G	 	 	 	G	 	 
+2404	-	T	 	 	 	T	 	 	 	T	 	 	 	C	 	 
+2405	-	C	 	 	 	T	 	 	 	T	 	 	 	T	 	 
+2406	-	A	 	 	 	G	 	 	 	G	 	 	 	G	 	 
+2407	-	T	 	 	 	T	 	 	 	T	 	 	 	T	 	 
+2408	-	T	 	 	 	 	 	 	 	T	 	 	 	 	 	 
+2409	-	G	 	 	 	 	 	 	 	G	 	 	 	 	 	 
+2410	-	C	 	 	 	 	 	 	 	C	 	 	 	 	 	 
+2411	-	A	 	 	 	 	 	 	 	C	 	 	 	 	 	 
+2412	-	G	 	 	 	 	 	 	 	G	 	 	 	 	 	 
+2413	-	C	 	 	 	 	 	 	 	C	 	 	 	 	 	 
+2414	-	A	 	 	 	 	 	 	 	A	 	 	 	 	 	 
+2415	-	A	 	 	 	 	 	 	 	A	 	 	 	 	 	 
+2416	-	A	 	 	 	 	 	 	 	G	 	 	 	 	 	 
+2417	-	T	 	 	 	 	 	 	 	T	 	 	 	 	 	 
+2418	-	A	 	 	 	 	 	 	 	A	 	 	 	 	 	 
+2419	-	T	 	 	 	T	 	 	 	T	 	 	 	T	 	 
+2420	-	C	 	 	 	C	 	 	 	C	 	 	 	C	 	 
+2421	-	A	T	G	 	A	A	 	 	A	T	A	 	A	A	 
+2422	-	T	G	G	T	T	T	 	 	T	G	G	T	T	T	 
+2423	C	T	G	A	 	 	 	T	 	T	G	T	 	 	 	T
+2424	G	 	A	C	 	A	C	 	 	 	A	C	A	A	C	 
+2425	G	 	 	A	A	A	C	A	 	 	 	A	A	A	C	A
+2426	C	G	G	G	G	A	A	A	 	G	G	G	G	A	A	A
+2427	A	 	 	 	G	G	C	G	 	 	 	 	G	G	C	G
+2428	A	T	 	 	C	 	 	 	 	T	 	 	C	 	 	 
+2429	T	C	A	A	C	C	A	A	 	C	A	G	C	C	A	A
+2430	G	T	T	T	C	T	T	T	 	T	C	T	C	T	T	C
+2431	G	T	A	T	A	A	 	T	 	T	A	T	A	A	 	T
+2432	T	G	C	 	 	C	 	 	 	G	C	 	 	C	 	 
+2433	G	C	C	 	 	A	T	A	 	C	C	 	 	A	T	A
+2434	T	A	A	A	 	G	A	 	 	A	A	A	 	G	A	 
+2435	T	C	A	G	 	A	 	A	 	C	A	A	 	A	 	A
+2436	T	C	 	G	C	 	A	 	 	 	 	G	C	 	A	 
+2437	G	T	C	A	C	A	C	 	 	T	C	A	C	A	C	 
+2438	G	 	A	A	T	C	A	A	 	 	A	A	T	C	A	A
+2439	A	 	 	 	 	 	 	 	 	 	 	 	G	 	 	 
+2440	T	 	C	 	 	C	C	A	 	 	C	 	 	C	 	A
+2442	G	T	A	A	T	T	A	 	 	T	 	A	T	T	A	 
+2443	G	T	-	 	 	A	A	 	 	T	-	 	 	A	A	 
+2444	G	 	-	 	T	T	A	T	 	 	-	A	T	T	A	T
+2445	A	T	-	T	G	 	T	 	 	T	-	T	G	C	T	 
+2446	G	 	-	 	A	 	 	A	 	 	-	 	A	 	 	A
+2447	A	G	-	G	G	G	G	G	 	G	-	G	G	G	G	G
+2448	A	 	-	-	 	T	 	 	 	 	-	-	 	T	 	 
+2449	C	T	-	-	A	G	A	-	 	T	-	-	A	G	A	-
+2450	T	 	-	-	C	C	 	-	 	 	-	-	C	C	 	-
+2451	A	 	-	-	C	C	T	-	 	C	-	-	C	C	T	-
+2452	A	C	-	-	 	 	T	-	 	T	-	-	 	 	T	-
+2453	-	 	 	 	 	T	 	 	 	 	 	 	 	C	 	 
+2454	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2455	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2456	-	 	 	 	 	G	 	 	 	 	 	 	 	A	 	 
+2457	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2458	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2459	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2460	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2461	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2462	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2463	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2464	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2465	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2466	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2467	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2468	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2469	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2470	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2471	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2472	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2473	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2474	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2475	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2476	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2477	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2478	A	-	-	-	-	 	-	-	 	-	-	-	-	 	-	-
+2479	A	-	-	-	-	G	-	-	 	-	-	-	-	G	-	-
+2480	G	-	-	-	-	A	-	-	 	-	-	-	-	 	-	-
+2481	C	T	-	-	-	A	G	-	 	T	-	-	-	A	G	-
+2482	A	G	-	-	-	G	 	 	 	G	-	-	-	G	 	 
+2483	T	A	-	-	-	A	A	G	 	A	-	-	-	A	A	G
+2484	T	 	-	-	-	 	C	C	 	 	-	-	-	 	C	C
+2485	A	C	-	-	-	C	C	C	 	C	-	-	-	C	C	C
+2486	G	 	-	-	-	A	A	A	 	 	-	-	-	A	A	A
+2487	T	 	-	-	-	 	 	G	 	 	-	-	-	 	 	G
+2488	T	C	-	-	-	 	 	 	 	C	-	-	-	 	 	 
+2489	C	T	-	-	-	T	T	T	 	T	-	-	-	 	T	T
+2490	A	T	-	-	-	G	C	 	 	T	-	-	-	G	C	 
+2491	A	T	-	-	-	 	 	 	 	T	-	-	-	 	 	 
+2492	G	T	-	-	-	 	 	A	 	T	-	-	-	 	 	A
+2493	A	T	-	-	-	-	T	 	 	T	-	-	-	-	T	 
+2494	A	T	-	-	-	-	C	 	 	T	-	-	-	-	C	 
+2495	A	T	-	-	-	-	T	 	 	T	-	-	-	-	T	 
+2496	C	-	-	-	-	-	 	 	 	-	-	-	-	-	 	 
+2497	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2498	-	 	 	 	 	 	T	 	 	 	 	 	 	 	G	 
+2499	G	-	-	-	-	-	 	A	 	-	-	-	-	-	 	A
+2500	G	-	-	-	-	-	T	A	 	-	-	-	-	-	T	A
+2501	T	-	-	-	-	-	C	 	 	-	-	-	-	-	C	 
+2502	T	-	-	-	-	-	C	G	 	-	-	-	-	-	C	G
+2503	T	C	-	-	-	 	C	C	 	C	-	-	-	C	C	C
+2504	T	A	-	-	-	 	 	C	 	A	-	-	-	 	 	C
+2505	G	A	A	-	A	A	A	A	 	A	A	-	A	A	A	A
+2506	A	 	 	-	T	 	 	 	 	 	G	-	T	 	 	 
+2507	G	T	 	-	 	A	 	 	 	T	 	-	 	A	 	 
+2508	A	G	G	-	G	G	G	G	 	G	G	-	G	G	G	G
+2509	T	 	C	-	A	A	C	A	 	C	C	-	A	A	C	A
+2510	G	A	A	-	A	A	A	A	 	A	A	-	A	A	A	A
+2511	A	T	T	-	C	G	 	 	 	T	T	-	C	G	G	 
+2512	T	 	C	-	C	C	C	 	 	 	C	-	C	C	C	 
+2513	T	 	C	-	 	 	C	 	 	 	 	-	 	 	C	 
+2514	T	A	G	-	C	G	A	G	 	A	G	-	C	G	A	G
+2515	G	T	C	-	C	T	 	 	 	T	C	-	C	T	 	 
+2516	G	C	A	-	A	 	A	-	 	C	A	-	A	 	A	-
+2517	G	 	 	-	A	 	A	-	 	 	 	-	A	 	 	-
+2518	A	-	G	-	G	G	G	-	 	-	G	-	G	G	G	-
+2519	T	-	C	-	A	A	C	-	 	-	C	-	A	A	C	-
+2520	C	-	 	-	T	T	 	-	 	-	 	-	T	T	 	-
+2521	C	-	A	-	 	 	G	-	 	-	A	-	 	 	A	-
+2522	A	-	G	-	 	 	G	 	G	-	 	-	 	 	 	 
+2523	A	-	 	-	 	 	T	 	 	-	 	-	 	 	T	 
+2524	A	-	T	-	G	 	 	 	 	-	T	-	G	 	 	 
+2525	T	-	C	-	-	C	C	C	C	-	C	-	-	C	C	C
+2526	G	-	A	-	-	C	A	 	 	-	A	-	-	C	A	 
+2527	G	-	 	-	-	C	 	 	 	-	 	-	-	C	 	 
+2528	A	-	T	-	-	 	T	C	 	-	T	-	-	G	T	C
+2529	T	-	-	-	-	-	G	 	 	-	-	-	-	-	G	 
+2530	G	-	-	-	-	-	 	 	 	-	-	-	-	-	 	 
+2531	G	-	-	-	-	A	A	C	 	-	-	-	-	A	A	C
+2532	A	-	-	-	-	T	T	T	 	-	-	-	-	T	T	T
+2533	C	-	-	-	-	 	T	T	 	-	-	-	-	 	T	T
+2534	T	-	-	-	-	A	C	 	 	-	-	-	-	A	 	 
+2535	G	-	-	-	-	A	 	 	 	-	-	-	-	A	 	 
+2536	G	-	-	-	-	A	T	A	 	-	-	-	-	A	T	A
+2537	G	-	-	-	-	 	A	A	 	-	-	-	-	 	 	A
+2538	-	 	 	 	 	G	A	T	 	 	 	 	 	G	A	T
+2539	-	 	 	 	 	T	G	T	 	 	 	 	 	C	G	T
+2540	-	 	 	 	 	A	G	 	 	 	 	 	 	A	A	 
+2541	-	 	 	 	 	G	A	 	 	 	 	 	 	G	A	 
+2542	-	 	 	 	 	G	C	 	 	 	 	 	 	G	C	 
+2543	-	 	 	 	 	G	A	 	 	 	 	 	 	A	A	 
+2544	-	 	 	T	 	C	C	 	 	 	 	C	 	C	C	 
+2545	-	 	 	T	 	T	T	 	 	 	 	T	 	T	T	 
+2546	-	 	 	A	 	A	G	 	 	 	 	G	 	G	A	 
+2547	-	 	 	A	 	T	T	 	 	 	 	A	 	T	T	 
+2548	-	T	 	T	 	T	T	T	 	T	 	T	 	T	T	T
+2549	-	C	 	T	 	A	C	T	 	C	 	T	 	G	C	T
+2550	-	G	 	G	 	G	C	A	 	G	 	G	 	G	C	A
+2551	-	C	 	 	 	T	 	C	 	C	 	 	 	T	 	C
+2552	-	T	 	A	A	A	A	C	 	T	 	A	A	A	A	C
+2553	-	T	 	A	T	T	G	A	 	T	 	A	T	T	A	A
+2554	-	T	 	G	G	C	C	C	 	T	 	G	G	C	C	C
+2555	A	 	-	 	 	 	 	 	 	 	-	 	 	 	 	 
+2556	C	A	-	A	A	G	A	A	 	A	-	A	A	G	A	A
+2557	A	 	-	 	 	 	 	 	 	 	-	G	 	 	 	 
+2558	G	T	-	T	T	T	T	T	 	T	-	T	T	T	T	T
+2559	A	 	-	G	G	G	G	G	 	 	-	G	G	G	G	G
+2560	C	 	-	 	G	G	 	 	 	 	-	 	G	G	 	 
+2561	A	G	-	G	G	 	G	G	 	G	-	G	G	 	G	G
+2562	G	 	-	 	 	 	 	A	A	 	-	A	 	 	 	A
+2563	T	 	-	-	C	G	G	 	 	 	-	-	C	G	G	 
+2564	A	T	-	-	 	 	 	 	 	T	-	-	 	 	 	 
+2565	A	T	-	-	T	C	T	 	 	T	-	-	T	C	T	 
+2566	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+2567	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2568	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+2569	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+2570	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2571	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2572	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+2573	-	G	G	 	G	C	G	 	 	G	G	 	G	C	G	 
+2574	-	A	T	 	G	A	G	 	 	A	T	 	G	A	G	 
+2575	-	A	G	 	A	A	A	 	 	A	G	 	A	A	A	 
+2576	-	A	C	 	A	A	C	 	 	A	C	 	A	A	C	 
+2577	-	A	A	 	A	C	A	 	 	A	A	 	A	C	A	 
+2578	-	G	G	 	T	T	T	 	 	G	G	 	T	T	T	 
+2579	-	A	C	 	G	T	T	 	 	A	C	 	G	T	T	 
+2580	-	G	C	 	A	A	T	 	 	G	C	 	A	A	T	 
+2581	-	G	T	 	G	T	G	 	 	G	T	 	G	T	G	 
+2582	-	G	A	 	G	A	A	 	 	G	A	 	G	A	A	 
+2583	-	C	C	 	C	C	C	 	 	C	C	 	C	C	C	 
+2584	-	C	A	 	G	A	A	 	 	C	A	 	G	A	A	 
+2585	-	T	T	 	C	A	C	 	 	T	T	 	C	A	C	 
+2586	-	T	T	 	T	T	T	 	 	T	T	 	T	T	T	 
+2587	-	C	C	 	G	A	G	 	 	C	C	 	G	A	G	 
+2588	-	T	T	 	C	T	T	 	 	T	T	 	C	T	T	 
+2589	-	A	C	 	C	A	C	 	 	A	C	 	C	C	C	 
+2590	-	C	A	 	T	C	C	 	 	C	T	 	T	C	C	 
+2591	-	G	G	 	 	G	A	 	 	G	G	 	 	G	A	 
+2592	-	G	T	 	 	 	A	 	 	G	T	 	 	 	G	 
+2593	-	A	G	 	 	 	A	 	 	A	A	 	 	 	A	 
+2594	-	A	C	 	 	 	T	 	 	A	C	 	 	 	T	 
+2595	-	G	A	 	 	 	A	 	 	G	A	 	 	 	A	 
+2596	-	 	G	 	 	 	A	 	 	 	G	 	 	 	A	 
+2597	-	 	C	 	 	 	T	 	 	 	A	 	 	 	T	 
+2598	-	 	G	 	 	G	A	 	 	 	G	 	 	G	A	 
+2599	-	 	A	 	 	A	A	 	 	 	A	 	 	A	A	 
+2600	-	 	A	 	 	A	A	 	 	 	A	 	 	A	A	 
+2601	-	 	A	 	T	T	A	 	 	 	A	 	T	T	A	 
+2602	-	 	T	 	C	C	C	 	 	 	C	 	C	C	C	 
+2603	-	 	C	 	T	T	T	 	 	 	C	 	T	T	T	 
+2604	-	 	T	 	T	T	T	 	 	 	T	 	T	C	T	 
+2605	-	 	C	 	C	C	C	 	 	 	C	 	C	C	C	 
+2606	-	 	C	 	A	A	T	 	 	 	C	 	A	A	T	 
+2607	-	 	C	 	G	C	C	 	 	 	C	 	A	C	C	 
+2608	-	 	T	 	T	A	C	 	 	 	A	 	T	A	C	 
+2609	-	 	T	 	C	T	C	 	 	 	T	 	C	T	C	 
+2610	-	 	T	 	T	T	C	 	 	 	T	 	T	T	C	 
+2611	-	 	T	 	C	C	T	 	 	 	T	 	C	C	T	 
+2612	-	 	 	 	T	C	T	 	 	 	 	 	T	C	T	 
+2613	-	 	 	 	T	T	T	 	 	 	 	 	T	T	T	 
+2614	-	 	 	 	 	G	G	 	 	 	 	 	 	G	G	 
+2615	-	 	 	 	 	A	C	 	 	 	 	 	 	A	C	 
+2616	-	 	 	 	 	A	T	 	 	 	 	 	 	A	A	 
+2617	-	 	 	 	 	G	G	 	 	 	 	 	 	G	G	 
+2618	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2619	-	 	 	 	 	C	C	 	 	 	 	 	 	C	C	 
+2620	-	 	 	 	 	T	T	 	 	 	 	 	 	T	T	 
+2621	-	 	 	 	 	G	G	 	 	 	 	 	 	G	G	 
+2622	-	 	 	 	 	C	C	 	 	 	 	 	 	C	C	 
+2623	-	 	 	 	 	T	T	 	 	 	 	 	 	T	T	 
+2624	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+2625	C	-	-	-	-	-	 	 	 	-	-	-	-	-	 	 
+2626	T	-	-	-	-	-	A	A	 	-	-	-	-	-	A	A
+2627	T	-	-	-	-	-	C	C	 	-	-	-	-	-	C	C
+2628	C	-	-	-	-	-	 	G	 	-	-	-	-	-	 	G
+2629	T	-	-	-	-	-	A	 	 	-	-	-	-	-	A	 
+2630	C	-	-	-	-	-	G	G	 	-	-	-	-	-	G	G
+2631	A	-	-	-	-	-	 	C	 	-	-	-	-	-	 	C
+2632	A	-	-	-	-	-	 	 	 	-	-	-	-	-	 	 
+2633	T	-	-	-	-	 	C	 	 	-	-	-	-	 	C	 
+2634	G	-	-	-	-	A	A	 	A	-	-	-	-	 	A	 
+2635	A	-	-	-	-	 	G	G	 	-	-	-	-	 	G	G
+2636	A	-	-	-	-	 	 	 	 	-	-	-	-	 	 	 
+2637	G	-	-	-	-	A	 	A	 	-	-	-	-	A	 	A
+2638	C	-	-	-	-	T	T	A	 	-	-	-	-	T	T	A
+2639	A	-	-	-	-	G	 	G	 	-	-	-	-	G	 	G
+2640	A	-	-	-	-	G	G	T	 	-	-	-	-	G	G	T
+2641	G	-	-	-	-	 	 	 	 	-	-	-	-	 	 	 
+2642	A	-	-	-	-	 	 	T	 	-	-	-	-	 	 	T
+2643	T	-	-	-	-	-	 	C	 	-	-	-	-	-	 	C
+2644	A	-	-	-	-	-	G	 	 	-	-	-	-	-	G	 
+2645	T	-	-	-	-	-	C	A	 	-	-	-	-	-	C	A
+2646	C	-	-	-	-	-	A	A	 	-	-	-	-	-	A	A
+2647	G	-	-	-	-	-	A	A	A	-	-	-	-	-	 	A
+2648	T	-	-	-	-	-	 	A	 	-	-	-	-	-	 	A
+2649	A	-	-	-	-	-	T	T	 	-	-	-	-	-	T	T
+2650	G	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+2651	C	-	-	-	-	-	-	G	G	-	-	-	-	-	-	G
+2652	A	-	-	-	-	-	-	G	 	-	-	-	-	-	-	G
+2653	A	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+2654	T	-	-	-	-	-	 	C	C	-	-	-	-	-	C	C
+2655	A	-	-	-	-	-	T	T	 	-	-	-	-	-	T	T
+2656	A	-	-	-	-	G	C	T	 	-	-	-	-	G	C	T
+2657	C	-	-	-	-	 	 	A	A	-	-	-	-	 	 	A
+2658	T	-	-	-	C	 	 	 	 	-	-	-	C	 	 	 
+2659	G	 	-	C	A	A	C	 	 	 	-	C	A	A	C	 
+2660	A	 	-	 	G	 	 	 	 	 	-	 	G	 	 	 
+2661	T	G	-	C	C	 	 	C	G	G	-	 	C	 	C	C
+2662	T	 	-	A	A	G	 	 	 	 	-	A	A	G	 	 
+2663	G	 	-	 	 	 	 	A	 	 	-	 	 	 	 	A
+2664	G	C	-	A	A	A	A	C	 	C	-	A	A	A	A	C
+2665	T	C	-	 	 	 	C	C	 	C	-	 	 	 	C	C
+2666	C	T	-	T	T	G	T	 	 	T	-	T	T	G	T	 
+2667	A	G	-	G	G	 	G	 	 	G	-	G	G	 	G	 
+2668	G	A	-	A	A	T	T	A	 	A	-	A	A	A	T	A
+2669	G	 	-	A	 	 	 	A	 	 	-	A	 	 	 	A
+2670	A	T	-	 	 	 	 	 	 	T	-	 	 	 	 	 
+2671	T	C	-	G	G	 	A	 	 	C	-	A	G	 	A	 
+2672	A	C	-	C	C	T	T	 	 	T	-	T	C	T	T	 
+2673	-	A	 	G	A	A	G	C	 	A	 	T	A	A	G	C
+2674	-	T	 	A	T	T	T	T	 	T	 	A	T	T	T	T
+2675	T	G	-	C	G	C	G	C	 	G	-	C	G	C	G	C
+2676	A	 	-	 	 	G	 	 	 	 	-	 	 	 	 	 
+2677	G	 	-	 	T	 	 	 	 	 	-	 	T	 	 	 
+2678	C	G	-	A	T	G	A	A	 	G	-	A	T	G	A	A
+2679	G	 	-	 	 	 	 	 	 	 	-	 	 	 	 	 
+2680	G	A	-	A	A	A	 	 	 	A	-	A	A	A	 	 
+2681	G	A	-	A	 	A	A	A	 	A	-	A	 	A	A	A
+2682	A	G	-	T	G	G	T	 	 	G	-	T	G	G	T	 
+2683	G	-	-	-	C	A	C	 	 	-	-	-	C	A	C	 
+2684	T	-	-	-	C	C	A	C	 	-	-	-	C	C	A	C
+2685	T	-	-	-	-	 	G	A	 	-	-	-	-	 	G	A
+2686	T	-	-	-	-	-	G	A	 	-	-	-	-	-	G	A
+2687	T	-	-	-	-	-	G	A	 	-	-	-	-	-	A	A
+2688	G	-	-	-	-	-	T	A	 	-	-	-	-	-	A	A
+2689	T	-	-	-	-	-	 	 	 	-	-	-	-	-	 	 
+2690	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+2691	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2692	-	 	 	 	 	 	G	 	 	 	 	 	 	 	G	 
+2693	-	 	 	 	 	 	G	 	 	 	 	 	 	 	A	 
+2694	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2695	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2696	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2697	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+2698	-	 	 	 	 	T	T	 	 	 	 	 	 	T	T	 
+2699	-	 	 	 	 	T	G	 	 	 	 	 	 	T	T	 
+2700	-	 	 	 	 	G	G	 	 	 	 	 	 	G	G	 
+2701	-	 	 	 	 	T	T	 	 	 	 	 	 	T	T	 
+2702	-	 	 	 	 	A	A	 	 	 	 	 	 	A	A	 
+2703	-	 	 	 	 	A	A	 	 	 	 	 	 	A	A	 
+2704	-	 	 	 	 	T	G	 	 	 	 	 	 	T	G	 
+2705	-	 	 	 	 	C	A	 	 	 	 	 	 	C	A	 
+2706	-	 	 	 	 	C	G	 	 	 	 	 	 	C	G	 
+2707	-	 	 	 	 	C	G	 	 	 	 	 	 	C	G	 
+2708	-	 	 	 	 	C	C	 	 	 	 	 	 	C	C	 
+2709	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2710	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2711	-	 	 	 	G	A	A	 	 	 	 	 	G	A	A	 
+2712	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+2713	-	 	 	 	G	T	T	 	 	 	 	 	G	T	T	 
+2714	-	 	 	 	T	C	T	 	 	 	 	 	T	C	T	 
+2715	-	 	 	 	C	C	C	 	 	 	 	 	C	C	C	 
+2716	-	 	 	 	T	C	T	 	 	 	 	 	T	C	T	 
+2717	-	 	 	 	T	T	C	 	 	 	 	 	T	T	C	 
+2718	-	 	 	 	C	T	C	 	 	 	 	 	C	T	C	 
+2719	-	 	 	 	T	T	A	 	 	 	 	 	T	T	A	 
+2720	-	 	 	 	G	G	G	 	 	 	 	 	G	G	G	 
+2721	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2722	-	 	 	 	 	 	A	 	 	 	 	 	 	 	G	 
+2723	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2724	T	-	-	-	 	 	 	 	 	-	-	-	 	 	 	 
+2725	C	-	-	-	 	 	 	A	 	-	-	-	 	 	 	A
+2726	A	 	-	 	 	 	 	 	 	 	-	 	 	 	 	 
+2727	G	A	-	 	A	 	A	A	 	A	-	 	A	 	A	A
+2728	C	T	-	T	A	T	T	 	 	T	-	T	A	 	T	 
+2729	A	 	-	T	G	C	T	 	 	 	-	T	G	C	T	 
+2730	T	 	-	 	A	A	A	-	 	 	-	 	A	A	A	-
+2731	C	 	-	 	G	T	 	-	 	 	-	T	G	T	 	-
+2732	C	A	G	G	A	A	A	-	 	G	G	G	A	A	A	-
+2733	A	 	 	 	 	 	 	-	 	 	 	 	 	 	 	-
+2734	G	C	A	A	A	A	T	-	 	C	A	A	A	A	C	-
+2735	A	 	 	C	G	G	 	-	 	 	 	C	G	G	 	-
+2736	A	G	G	 	 	 	 	-	 	G	G	 	 	 	 	-
+2737	-	G	A	A	C	G	G	 	 	G	A	A	C	G	G	 
+2738	-	A	G	A	A	A	G	 	 	A	G	A	A	A	G	 
+2739	-	A	C	T	T	T	C	 	 	A	C	T	T	T	C	 
+2740	-	C	A	A	G	T	A	 	 	C	A	A	G	T	A	 
+2741	-	A	A	A	A	G	A	 	 	A	A	A	A	G	A	 
+2742	-	G	C	C	C	 	C	 	 	G	C	C	C	 	C	 
+2743	-	C	C	A	C	 	C	 	 	C	C	A	C	 	C	 
+2744	-	A	 	 	A	 	A	 	 	A	 	 	A	 	A	 
+2745	-	G	 	 	A	 	A	 	 	G	 	 	A	 	A	 
+2746	-	A	 	 	G	 	A	 	 	A	 	 	A	 	A	 
+2747	-	G	 	 	G	 	C	 	 	G	 	 	G	 	A	 
+2748	-	T	 	 	A	 	G	 	 	T	 	 	A	 	G	 
+2749	-	 	 	 	 	 	A	 	 	 	 	 	 	 	G	 
+2750	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+2751	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2752	-	 	 	 	 	 	T	 	 	 	 	 	 	 	T	 
+2753	-	 	 	 	 	 	A	 	 	 	 	 	 	 	A	 
+2754	-	 	 	 	 	 	C	 	 	 	 	 	 	 	C	 
+2755	-	 	 	 	A	 	A	 	 	 	 	 	A	 	A	 
+2756	-	 	 	 	T	 	G	 	 	 	 	 	T	 	G	 
+2757	-	 	 	 	T	A	T	 	 	 	 	 	T	A	T	 
+2758	-	 	 	 	C	T	T	 	 	 	 	 	C	G	T	 
+2759	-	 	 	 	T	T	C	 	 	 	 	 	T	T	C	 
+2760	-	 	 	 	T	C	T	 	 	 	 	 	T	C	T	 
+2761	-	 	 	 	T	T	T	 	 	 	 	 	T	T	C	 
+2762	-	 	 	 	G	G	G	 	 	 	 	 	G	G	G	 
+2763	-	 	 	 	A	T	G	 	 	 	 	 	A	T	G	 
+2764	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+2765	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+2766	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+2767	-	 	 	 	C	C	G	 	 	 	 	 	C	C	G	 
+2768	-	 	G	T	A	A	G	 	 	 	A	T	A	A	G	 
+2769	-	 	T	T	A	A	A	 	 	 	T	T	A	A	A	 
+2770	-	 	T	T	A	T	T	 	 	 	T	T	A	T	T	 
+2771	-	 	A	A	T	G	G	 	 	 	A	A	T	G	G	 
+2772	-	 	T	T	C	C	C	 	 	 	T	T	C	C	C	 
+2773	-	 	G	G	G	T	A	 	 	 	G	G	A	T	A	 
+2774	-	 	G	C	G	G	G	 	 	 	G	C	G	G	G	 
+2775	-	 	C	A	A	T	G	 	 	 	C	A	A	T	G	 
+2776	-	 	A	A	A	G	T	 	 	 	A	A	A	G	T	 
+2777	-	 	G	G	A	G	G	 	 	 	G	G	A	G	G	 
+2778	-	 	C	C	C	T	C	 	 	 	C	C	C	T	C	 
+2779	-	 	A	C	A	A	A	 	 	 	A	C	A	A	A	 
+2780	-	 	T	T	T	A	T	 	 	 	T	T	T	A	T	 
+2781	-	 	T	T	G	T	T	 	 	 	T	T	G	T	T	 
+2782	-	 	C	 	G	G	G	 	 	 	C	 	G	G	G	 
+2783	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+2784	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+2785	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+2786	-	 	 	 	A	G	 	 	 	 	 	 	A	G	 	 
+2787	-	 	 	 	T	C	 	 	 	 	 	 	T	C	 	 
+2788	-	 	 	 	C	C	 	 	 	 	 	 	T	C	 	 
+2789	-	 	 	 	G	C	 	 	 	 	 	 	G	C	 	 
+2790	-	 	 	 	G	A	 	 	 	 	 	 	G	A	 	 
+2791	-	 	 	 	A	T	 	 	 	 	 	 	A	T	 	 
+2792	-	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+2793	-	 	 	 	A	G	 	 	 	 	 	 	A	G	 	 
+2794	-	 	 	 	G	T	 	 	 	 	 	 	G	T	 	 
+2795	-	 	 	 	T	C	 	 	 	 	 	 	T	C	 	 
+2796	-	 	 	 	C	C	 	 	 	 	 	 	C	C	 	 
+2797	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+2798	C	G	A	-	 	G	A	-	 	G	A	-	 	G	A	-
+2799	T	C	G	-	C	C	C	G	 	C	C	-	C	C	C	G
+2800	A	T	C	-	C	C	T	 	 	T	 	-	C	C	T	 
+2801	A	G	G	-	 	 	G	G	 	G	G	-	 	 	G	G
+2802	C	T	G	-	G	A	A	A	 	T	G	-	A	A	A	A
+2803	A	G	G	-	G	 	 	 	 	G	 	-	 	 	 	 
+2804	G	 	A	-	 	A	 	 	 	 	A	-	 	A	 	 
+2805	G	A	A	-	 	 	A	A	 	A	A	-	 	 	A	A
+2806	A	T	C	-	 	C	T	 	G	T	C	-	 	C	T	 
+2807	C	G	A	-	G	A	 	A	 	G	A	-	G	A	 	A
+2808	T	 	A	-	 	 	C	 	 	 	C	-	 	 	C	 
+2809	G	T	T	-	 	 	A	A	 	T	T	-	 	 	A	A
+2810	G	 	 	-	 	 	 	 	 	 	 	-	 	 	 	 
+2811	A	 	 	-	 	 	 	 	 	 	 	-	 	 	 	 
+2812	T	C	A	-	G	A	 	 	 	C	A	-	G	A	 	 
+2813	T	G	G	-	G	 	G	G	 	G	G	-	G	 	G	G
+2814	G	A	 	-	A	A	A	 	 	A	 	-	A	A	A	 
+2815	T	 	A	-	A	 	A	G	 	 	C	-	A	 	A	G
+2816	A	G	C	-	G	G	G	G	 	G	 	-	G	G	G	G
+2817	T	G	G	-	G	A	G	 	 	G	G	-	G	A	G	 
+2818	A	T	G	-	C	T	C	 	 	T	 	-	C	T	C	 
+2819	A	C	 	-	T	G	 	 	 	C	 	-	T	G	 	 
+2820	G	A	C	-	C	C	C	-	 	A	C	-	C	C	C	-
+2821	A	T	 	-	T	C	 	-	 	T	 	-	C	C	 	-
+2822	C	T	T	-	A	G	T	-	 	T	T	-	A	G	G	-
+2823	C	T	 	-	T	T	 	-	 	T	 	-	T	T	 	-
+2824	T	 	C	-	 	 	 	-	 	 	A	-	 	 	 	-
+2825	T	G	G	-	G	G	G	-	 	G	G	-	G	G	G	-
+2826	G	T	A	-	 	C	 	-	 	T	A	-	 	C	 	-
+2827	C	 	 	-	G	A	G	-	 	 	 	-	G	A	A	-
+2828	T	A	A	-	A	A	G	-	 	A	A	-	A	A	G	-
+2829	-	A	 	 	 	C	 	 	 	A	 	 	 	C	 	 
+2830	-	C	 	 	 	T	 	 	 	C	 	 	 	T	 	 
+2831	-	A	 	 	 	A	 	 	 	A	 	 	 	A	 	 
+2832	-	T	 	 	 	C	 	 	 	T	 	 	 	C	 	 
+2833	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2834	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2835	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2836	-	 	 	 	 	T	 	 	 	 	 	 	 	C	 	 
+2837	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2838	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2839	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2840	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2841	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2842	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2843	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2844	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2845	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2846	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2847	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2848	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2849	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2850	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2851	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2852	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2853	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2854	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2855	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2856	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2857	-	 	 	 	 	T	 	 	 	 	 	 	 	C	 	 
+2858	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2859	-	 	 	 	 	G	 	 	 	 	 	 	 	G	 	 
+2860	-	 	 	 	 	T	 	 	 	 	 	 	 	C	 	 
+2861	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2862	-	 	 	 	 	C	 	 	 	 	 	 	 	C	 	 
+2863	-	 	 	 	 	T	 	 	 	 	 	 	 	C	 	 
+2864	-	 	 	 	 	A	 	 	 	 	 	 	 	A	 	 
+2865	-	 	 	 	 	T	 	 	 	 	 	 	 	T	 	 
+2866	T	-	 	-	-	 	 	-	 	-	 	-	-	 	 	-
+2867	C	-	G	-	-	 	G	-	 	-	G	-	-	 	G	-
+2868	T	-	C	A	-	 	G	-	 	-	A	A	-	 	G	-
+2869	G	-	 	C	-	C	A	-	 	-	 	C	-	C	A	-
+2870	G	-	A	A	-	A	 	A	 	-	 	A	-	A	 	A
+2871	G	-	A	A	-	A	T	 	 	-	A	A	-	A	T	 
+2872	T	-	C	C	-	C	C	C	 	-	C	C	-	C	C	C
+2873	T	-	A	 	-	A	 	 	 	-	 	 	-	A	 	 
+2874	G	-	 	A	-	C	 	 	 	-	 	A	-	C	 	 
+2875	A	-	 	C	-	 	C	G	 	-	 	C	-	 	C	G
+2876	A	-	 	T	-	 	T	 	 	-	 	T	-	 	T	 
+2877	C	-	G	G	-	G	G	A	 	-	A	G	-	G	G	A
+2878	T	-	 	C	-	C	 	 	 	-	 	C	-	C	 	 
+2879	A	-	T	T	-	C	C	C	 	-	C	T	-	C	C	C
+2880	A	-	 	T	-	 	C	 	 	-	 	T	-	 	C	 
+2881	T	-	 	G	-	A	 	A	 	-	 	G	-	A	 	A
+2882	C	-	A	A	-	A	G	 	 	-	A	A	-	A	G	 
+2883	A	-	 	 	-	G	 	 	 	-	 	 	-	G	 	 
+2884	G	-	 	 	-	 	 	A	 	-	 	 	-	 	 	A
+2885	A	-	 	T	-	G	 	G	 	-	 	T	-	G	 	G
+2886	G	-	-	-	-	 	 	 	 	-	-	-	-	 	 	 
+2887	G	-	-	-	-	A	 	A	 	-	-	-	-	A	 	A
+2888	G	-	-	-	-	A	A	T	 	-	-	-	-	A	A	T
+2889	C	-	-	-	-	T	T	T	 	-	-	-	-	T	T	T
+2890	G	-	-	-	-	T	T	T	 	-	-	-	-	T	T	T
+2891	A	-	-	-	-	C	T	 	 	-	-	-	-	C	C	 
+2892	C	-	-	-	-	T	 	 	 	-	-	-	-	T	 	 
+2893	C	-	-	-	-	T	T	 	 	-	-	-	-	T	T	 
+2894	C	-	-	-	-	G	 	-	 	-	-	-	-	G	 	-
+2895	A	-	 	-	-	 	 	-	 	-	 	-	-	 	 	-
+2896	-	 	T	 	 	G	T	 	 	 	T	 	 	G	T	 
+2897	-	 	G	 	 	G	T	 	 	 	G	 	 	G	T	 
+2898	-	 	A	 	 	A	T	 	 	 	A	 	 	A	T	 
+2899	-	 	T	 	 	T	T	 	 	 	T	 	 	T	T	 
+2900	-	 	G	 	 	G	G	 	 	 	G	 	 	G	G	 
+2901	-	 	G	 	 	A	G	 	 	 	G	 	 	A	G	 
+2902	-	 	A	 	 	A	G	 	 	 	A	 	 	A	G	 
+2903	-	 	A	 	 	C	C	 	 	 	A	 	 	C	C	 
+2904	-	 	A	 	 	A	A	 	 	 	A	 	 	A	A	 
+2905	-	 	G	 	 	G	A	 	 	 	G	 	 	G	A	 
+2906	-	 	T	 	 	A	A	 	 	 	T	 	 	A	A	 
+2907	-	 	G	 	 	T	G	 	 	 	G	 	 	T	G	 
+2908	-	 	C	 	 	 	 	 	 	 	C	 	 	 	 	 
+2909	-	 	A	 	 	 	 	 	 	 	C	 	 	 	 	 
+2910	-	A	A	A	 	G	A	 	 	A	A	G	 	G	A	 
+2911	-	G	A	G	 	T	A	 	 	G	G	G	 	T	A	 
+2912	-	A	G	A	 	A	G	 	 	A	A	A	 	A	G	 
+2913	-	G	C	A	 	C	A	 	 	G	C	G	 	C	A	 
+2914	-	C	C	C	 	C	C	 	 	C	C	C	 	C	C	 
+2915	A	T	 	 	 	 	 	-	 	T	 	 	 	 	 	-
+2916	A	 	G	 	 	G	 	-	 	G	G	 	 	G	 	-
+2917	G	 	A	 	 	A	 	-	 	 	A	 	 	A	 	-
+2918	A	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+2920	A	T	 	 	T	T	 	 	 	T	 	 	T	T	 	 
+2921	A	 	T	T	G	G	T	T	 	 	T	T	G	G	T	T
+2922	T	A	 	A	C	C	A	 	 	A	G	A	C	C	A	 
+2923	A	-	T	 	 	T	T	T	 	-	T	 	 	T	T	T
+2924	A	-	G	G	G	G	G	T	 	-	G	G	G	G	G	T
+2925	C	-	T	A	G	 	G	G	 	-	T	A	G	 	G	G
+2926	A	-	C	G	 	 	C	G	 	-	C	 	 	 	C	G
+2927	C	-	-	-	 	A	 	 	 	-	-	-	 	A	 	 
+2928	A	-	-	-	C	T	-	G	 	-	-	-	C	T	-	G
+2929	A	-	-	-	T	C	-	 	 	-	-	-	T	C	-	 
+2930	T	-	-	-	 	 	-	 	 	-	-	-	 	 	-	 
+2931	C	-	-	-	A	A	-	 	 	-	-	-	A	A	-	 
+2932	-	 	 	 	C	T	 	 	 	 	 	 	C	T	 	 
+2933	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+2934	-	 	 	 	G	C	 	 	 	 	 	 	G	C	 	 
+2935	-	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+2936	-	 	 	 	C	A	 	 	 	 	 	 	C	A	 	 
+2937	-	 	 	 	A	G	 	 	 	 	 	 	A	G	 	 
+2938	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+2939	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+2940	-	 	 	 	A	A	 	 	 	 	 	 	A	A	 	 
+2941	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+2942	-	 	 	 	C	T	 	 	 	 	 	 	C	T	 	 
+2943	-	 	 	 	T	T	 	 	 	 	 	 	T	C	 	 
+2944	-	 	 	 	G	T	 	 	 	 	 	 	G	T	 	 
+2945	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+2946	-	 	 	 	A	C	 	 	 	 	 	 	A	C	 	 
+2947	-	 	 	 	T	C	 	 	 	 	 	 	T	C	 	 
+2948	-	 	 	 	T	C	 	 	 	 	 	 	T	C	 	 
+2949	-	 	 	 	C	T	C	 	 	 	 	 	C	T	C	 
+2950	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+2951	-	 	 	 	A	G	G	 	 	 	 	 	A	G	G	 
+2952	-	 	 	 	C	C	C	 	 	 	 	 	C	C	C	 
+2953	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+2954	-	 	 	 	G	G	T	 	 	 	 	 	G	G	T	 
+2955	-	 	 	 	T	T	T	 	 	 	 	 	T	T	T	 
+2956	-	 	 	 	C	T	A	 	 	 	 	 	C	T	A	 
+2957	-	 	 	 	T	C	A	 	 	 	 	 	T	C	A	 
+2958	-	 	 	 	A	A	G	 	 	 	 	 	A	A	G	 
+2959	-	 	 	 	T	T	C	 	 	 	 	 	T	T	C	 
+2960	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+2961	-	 	 	 	T	T	T	 	 	 	 	 	T	C	T	 
+2962	-	 	 	 	G	A	C	 	 	 	 	 	G	A	C	 
+2963	-	 	 	 	C	G	A	 	 	 	 	 	C	G	A	 
+2964	-	 	 	 	G	G	A	 	 	 	 	 	A	G	A	 
+2965	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+2966	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+2967	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+2968	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+2969	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+2970	-	 	 	 	A	A	T	 	 	 	 	 	A	A	T	 
+2971	-	 	 	 	C	G	G	 	 	 	 	 	C	G	G	 
+2972	-	 	 	 	A	A	A	 	 	 	 	 	A	A	A	 
+2973	-	 	 	 	A	C	A	 	 	 	 	 	A	C	A	 
+2974	-	 	 	 	C	C	C	 	 	 	 	 	C	C	C	 
+2975	-	 	 	 	T	G	T	 	 	 	 	 	T	G	T	 
+2976	-	 	 	 	T	G	G	 	 	 	 	 	T	G	G	 
+2977	-	 	 	 	G	T	A	 	 	 	 	 	G	T	A	 
+2978	-	 	 	 	A	T	G	 	 	 	 	 	A	T	G	 
+2979	-	 	 	 	G	G	C	 	 	 	 	 	G	G	C	 
+2980	-	 	 	 	G	G	A	 	 	 	 	 	G	G	A	 
+2981	-	 	 	 	G	A	A	 	 	 	 	 	G	A	A	 
+2982	-	 	 	 	G	A	T	 	 	 	 	 	G	A	T	 
+2983	T	-	C	C	 	 	C	 	 	-	 	C	 	 	C	 
+2984	G	-	T	T	T	T	T	A	 	-	T	T	T	T	T	A
+2985	G	-	T	T	T	T	T	T	 	-	T	T	T	T	T	T
+2986	A	-	C	T	T	C	G	T	 	-	C	T	T	C	G	T
+2987	C	-	 	 	 	T	 	 	 	-	 	 	 	 	 	 
+2988	T	-	A	-	G	A	A	A	 	-	A	-	A	A	A	A
+2989	A	-	G	-	G	G	 	 	 	-	G	-	G	G	 	 
+2990	G	-	 	-	C	C	A	C	 	-	 	-	C	C	A	C
+2991	T	-	G	-	 	A	A	 	C	-	G	-	 	A	A	 
+2992	G	-	 	-	 	T	 	 	 	-	 	-	 	T	 	 
+2993	G	-	C	-	A	 	 	T	 	-	C	-	A	 	 	T
+2994	G	-	 	-	A	 	A	C	 	-	 	-	A	 	 	C
+2995	A	-	G	-	T	T	G	G	 	-	G	-	T	T	G	G
+2996	G	-	 	-	C	 	A	C	 	-	 	-	C	 	A	C
+2997	C	-	G	-	G	G	G	 	 	-	G	-	A	G	G	 
+2998	A	-	 	-	 	 	 	 	 	-	 	-	 	 	 	 
+2999	G	-	 	-	 	 	A	 	 	-	 	-	 	 	A	 
+3000	C	-	-	-	A	G	-	T	 	-	-	-	A	G	-	T
+3001	A	-	-	-	 	C	-	T	 	-	-	-	 	C	-	T
+3002	T	-	-	-	A	C	-	C	 	-	-	-	A	C	-	C
+3003	A	-	-	-	 	 	-	 	 	-	-	-	 	 	-	 
+3004	T	-	-	-	 	 	-	 	 	-	-	-	 	 	-	 
+3005	C	-	-	-	T	-	-	-	 	-	-	-	T	-	-	-
+3006	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+3007	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+3008	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+3009	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+3010	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+3011	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+3012	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+3013	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+3014	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+3015	-	 	T	 	T	 	A	 	 	 	T	 	T	 	G	 
+3016	-	 	C	 	G	 	G	 	 	 	C	 	G	 	G	 
+3017	-	 	T	 	T	 	C	 	 	 	T	 	T	 	C	 
+3018	-	 	T	 	T	 	T	 	 	 	T	 	T	 	T	 
+3019	-	 	C	 	C	 	A	 	 	 	C	 	C	 	A	 
+3020	-	 	G	 	A	 	A	 	 	 	G	 	A	 	A	 
+3021	-	 	A	 	G	G	T	 	 	 	A	 	G	G	T	 
+3022	-	 	G	 	G	G	G	 	 	 	G	 	G	G	G	 
+3023	-	 	C	 	C	T	T	 	 	 	C	 	C	T	T	 
+3024	-	 	T	 	A	G	G	 	 	 	T	 	A	G	G	 
+3025	-	 	C	 	C	T	C	 	 	 	C	 	C	T	C	 
+3026	-	 	T	 	T	C	T	 	 	 	T	 	T	C	T	 
+3027	-	 	C	 	T	T	A	 	 	 	C	 	T	T	A	 
+3028	-	 	G	 	A	A	A	 	 	 	G	 	A	A	A	 
+3029	-	 	G	 	G	G	T	 	 	 	G	 	G	G	T	 
+3030	-	 	A	 	G	G	T	 	 	 	A	 	G	G	T	 
+3031	-	 	C	 	G	G	G	 	 	 	C	 	G	G	G	 
+3032	-	 	G	 	A	C	G	 	 	 	G	 	A	C	G	 
+3033	-	 	A	 	C	C	G	 	 	 	A	 	C	C	G	 
+3034	-	 	A	 	A	C	C	 	 	 	A	 	A	C	C	 
+3035	-	 	A	 	A	G	A	 	 	 	A	 	A	G	A	 
+3036	-	 	A	 	C	G	A	 	 	 	A	 	C	A	A	 
+3037	-	 	G	 	C	A	G	 	 	 	G	 	C	A	G	 
+3038	-	 	G	 	T	T	G	 	 	 	G	 	T	T	G	 
+3039	-	 	C	 	G	T	G	 	 	 	C	 	G	T	A	 
+3040	-	 	A	 	G	G	G	 	 	 	A	 	G	G	G	 
+3041	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+3042	-	 	C	 	A	T	C	 	 	 	C	 	A	T	C	 
+3043	-	 	G	 	C	G	G	 	 	 	G	 	C	G	G	 
+3044	-	 	A	 	 	 	 	 	 	 	A	 	 	 	 	 
+3045	-	 	A	 	C	C	 	 	 	 	A	 	C	C	 	 
+3046	-	 	C	 	T	C	 	 	 	 	C	 	T	C	 	 
+3047	-	 	C	 	G	A	 	 	 	 	C	 	G	C	 	 
+3048	-	 	C	 	G	G	 	 	 	 	C	 	G	G	 	 
+3049	-	 	G	 	A	G	 	 	 	 	G	 	G	A	 	 
+3050	-	 	A	 	A	G	 	 	 	 	A	 	A	A	 	 
+3051	-	 	T	 	C	T	 	 	 	 	T	 	C	T	 	 
+3052	-	 	C	 	 	C	 	 	 	 	C	 	 	T	 	 
+3053	-	 	G	 	 	G	 	 	 	 	G	 	 	G	 	 
+3054	-	 	T	 	 	A	 	 	 	 	T	 	 	A	 	 
+3055	-	 	G	 	C	C	 	 	 	 	G	 	C	C	 	 
+3056	-	 	C	 	T	T	 	 	 	 	C	 	T	T	 	 
+3057	-	 	C	 	T	T	 	 	 	 	C	 	T	T	 	 
+3058	C	-	T	T	 	 	-	-	 	-	T	T	 	 	-	-
+3059	T	-	 	C	G	G	-	-	 	-	 	C	G	G	-	-
+3060	T	-	C	G	A	A	-	-	 	-	C	G	A	A	-	-
+3061	T	-	C	 	 	G	-	-	 	-	C	 	 	G	-	-
+3062	T	-	 	 	C	 	-	-	 	-	 	 	C	 	-	-
+3063	G	-	T	T	T	C	-	-	 	-	T	T	T	C	-	-
+3064	T	-	 	C	 	 	 	 	 	-	 	C	 	 	 	 
+3065	G	-	 	A	 	 	A	 	 	-	 	A	 	 	 	 
+3066	G	-	A	 	 	 	 	 	 	-	A	 	 	 	 	 
+3067	T	-	C	C	G	A	 	 	 	-	C	C	G	A	 	 
+3068	G	-	A	T	 	C	 	A	 	-	A	T	 	C	 	A
+3069	T	-	 	 	G	G	 	C	 	-	 	 	G	G	 	C
+3070	A	-	G	 	G	G	T	T	 	-	G	 	G	G	T	T
+3071	A	-	 	T	C	 	 	G	 	-	 	T	C	 	G	G
+3072	A	-	G	T	T	T	G	G	 	-	G	T	T	T	G	G
+3073	T	-	 	 	A	C	 	 	C	-	 	 	A	 	 	 
+3074	A	-	 	 	T	 	 	 	 	-	 	 	T	 	 	 
+3075	G	-	A	A	A	A	A	 	 	-	A	A	A	A	A	 
+3076	T	-	 	 	 	G	 	 	 	-	 	 	 	G	 	 
+3077	G	-	 	 	 	A	 	C	 	-	 	 	 	A	 	C
+3078	A	-	 	 	 	 	 	T	 	-	 	 	 	 	 	T
+3079	C	-	A	T	A	A	A	 	 	-	A	T	A	A	A	 
+3080	A	-	G	 	G	G	 	C	 	-	G	 	G	G	 	C
+3081	C	-	G	A	 	A	 	 	 	-	G	A	 	A	 	 
+3082	T	-	G	A	A	A	G	 	 	-	A	A	A	A	G	 
+3083	G	-	-	A	A	-	A	 	 	-	-	A	A	-	 	 
+3084	T	-	-	A	 	-	A	G	 	-	-	A	 	-	A	G
+3085	G	-	-	A	C	-	A	 	 	-	-	A	T	-	A	 
+3086	G	-	-	-	 	-	A	 	 	-	-	-	 	-	A	 
+3087	-	 	 	 	A	 	C	 	 	 	 	 	A	 	C	 
+3088	-	 	 	 	G	 	G	 	 	 	 	 	G	 	G	 
+3089	-	 	 	 	G	 	G	 	 	 	 	 	G	 	G	 
+3090	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+3091	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+3092	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+3093	-	 	 	 	G	 	 	 	 	 	 	 	G	 	 	 
+3094	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+3095	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+3096	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+3097	-	 	 	 	G	 	G	 	 	 	 	 	G	 	G	 
+3098	-	 	 	 	A	 	A	 	 	 	 	 	A	 	A	 
+3099	-	 	 	 	T	 	C	 	 	 	 	 	T	 	C	 
+3100	-	 	 	 	T	 	T	 	 	 	 	 	T	 	T	 
+3101	-	 	 	 	A	 	C	 	 	 	 	 	A	 	C	 
+3102	-	 	 	 	A	 	T	 	 	 	 	 	A	 	T	 
+3103	-	 	 	 	T	 	A	 	 	 	 	 	T	 	A	 
+3104	-	 	 	 	G	 	G	 	 	 	 	 	G	 	G	 
+3105	-	 	 	C	A	 	C	 	 	 	 	C	A	 	C	 
+3106	-	 	 	A	T	 	A	 	 	 	 	A	T	 	A	 
+3107	-	 	 	C	C	 	T	 	 	 	 	C	C	 	T	 
+3108	-	 	T	C	C	 	A	 	 	 	T	C	C	 	A	 
+3109	-	 	C	C	C	 	C	 	 	 	C	C	C	 	C	 
+3110	-	 	T	T	T	 	T	 	 	 	T	T	T	 	T	 
+3111	-	 	T	T	G	 	T	 	 	 	T	T	G	 	T	 
+3112	-	 	A	G	G	G	A	 	 	 	A	G	G	G	A	 
+3113	-	 	T	T	G	A	C	 	 	 	T	T	G	A	C	 
+3114	-	 	T	T	T	G	T	 	 	 	T	T	T	G	T	 
+3115	-	 	T	T	T	T	G	 	 	 	T	T	T	T	G	 
+3116	-	 	C	C	T	T	A	 	 	 	C	C	T	T	A	 
+3117	-	 	T	T	T	C	C	 	 	 	T	T	T	T	C	 
+3118	-	 	T	A	G	T	A	 	 	 	T	A	G	G	A	 
+3119	-	 	C	C	C	C	G	 	 	 	C	C	C	C	G	 
+3120	-	 	G	 	T	T	C	 	 	 	G	 	T	T	C	 
+3121	-	 	G	 	T	G	C	 	 	 	G	 	T	G	C	 
+3122	-	 	A	 	A	A	A	 	 	 	A	 	A	A	A	 
+3123	-	 	G	 	A	G	G	 	 	 	G	 	A	G	G	 
+3124	-	 	A	 	T	A	A	 	 	 	A	 	T	A	A	 
+3125	-	 	C	 	G	T	C	 	 	 	C	 	G	T	C	 
+3126	-	 	A	 	C	C	A	 	 	 	A	 	C	C	A	 
+3127	-	 	A	 	A	A	G	 	 	 	A	 	A	A	G	 
+3128	-	 	T	 	T	T	C	 	 	 	T	 	T	T	C	 
+3129	-	 	G	 	C	G	G	 	 	 	G	 	C	G	G	 
+3130	-	 	 	 	T	A	A	 	 	 	 	 	T	A	A	 
+3131	-	 	 	 	T	A	 	 	 	 	 	 	T	A	 	 
+3132	-	 	 	 	G	G	 	 	 	 	 	 	G	G	 	 
+3133	-	 	 	 	G	A	 	 	 	 	 	 	G	A	 	 
+3134	-	 	 	 	T	T	 	 	 	 	 	 	T	T	 	 
+3135	-	 	 	 	T	 	 	 	 	 	 	 	T	 	 	 
+3136	-	 	 	 	C	 	 	 	 	 	 	 	C	 	 	 
+3137	-	 	 	 	A	 	 	 	 	 	 	 	A	 	 	 
+3138	G	-	-	-	A	-	-	 	 	-	-	-	A	-	-	 
+3139	T	-	-	-	C	C	-	C	 	-	-	-	C	C	-	C
+3140	T	-	-	-	 	 	-	A	 	-	-	-	 	 	-	A
+3141	G	-	-	-	C	 	-	A	 	-	-	-	C	 	-	A
+3142	G	-	-	-	C	T	-	T	 	-	-	-	C	T	-	T
+3143	T	-	-	-	 	 	-	C	 	-	-	-	 	 	-	C
+3144	C	-	-	-	T	 	-	A	 	-	-	-	T	 	-	A
+3145	T	-	-	-	C	C	-	G	 	-	-	-	C	C	-	G
+3146	T	-	-	-	C	A	-	 	 	-	-	-	C	A	-	 
+3147	G	-	-	-	T	C	-	T	 	-	-	-	T	C	-	T
+3148	G	-	-	-	C	C	-	T	 	-	-	-	C	C	-	T
+3149	C	-	-	-	A	A	 	 	 	-	-	-	A	A	 	 
+3150	C	-	 	-	 	T	 	T	 	-	 	-	 	T	 	T
+3151	A	-	 	-	 	T	 	G	 	-	 	-	 	T	 	G
+3152	G	-	 	-	C	 	A	 	 	-	 	-	C	 	A	 
+3153	A	-	 	-	 	 	 	 	 	-	 	-	 	 	 	 
+3154	C	-	G	-	T	A	A	T	 	-	G	-	T	A	A	T
+3155	G	-	 	-	 	 	 	 	 	-	 	-	 	 	 	 
+3156	G	-	A	-	C	A	A	T	 	-	A	-	C	A	A	T
+3157	T	-	G	-	A	A	A	G	 	-	G	-	A	G	A	G
+3158	G	-	T	-	C	C	T	C	 	-	T	-	C	C	T	C
+3159	C	-	-	-	T	T	T	T	 	-	-	-	T	T	T	T
+3160	T	-	-	-	G	C	C	C	 	-	-	-	G	C	C	C
+3161	G	-	-	-	A	A	 	T	 	-	-	-	A	A	 	T
+3162	A	-	-	-	 	G	G	 	 	-	-	-	 	G	G	 
+3163	G	-	A	-	 	A	A	A	 	-	A	-	A	A	A	A
+3164	T	-	 	-	 	C	 	 	 	-	 	-	 	C	 	 
+3165	T	-	G	-	A	G	G	G	 	-	G	-	A	G	G	G
+3166	G	-	A	-	 	 	 	 	 	-	A	-	 	 	 	 
+3167	C	-	 	-	-	 	 	G	 	-	 	-	-	 	 	G
+3168	C	-	A	-	-	A	 	T	 	-	A	-	-	A	 	T
+3169	A	-	G	-	-	 	 	C	 	-	 	-	-	 	 	C
+3170	T	-	 	-	-	A	 	 	 	-	 	-	-	A	 	 
+3171	T	-	 	-	-	A	C	C	 	-	 	-	-	A	C	C
+3172	C	-	A	-	-	A	A	T	T	-	A	-	-	A	A	T
+3173	A	-	 	-	-	T	 	 	 	-	 	-	-	T	 	 
+3174	C	-	-	-	-	A	T	 	 	-	-	-	-	A	T	 
+3175	C	-	-	-	-	G	T	A	 	-	-	-	-	G	T	A
+3176	A	-	-	-	-	-	 	G	 	-	-	-	-	-	 	G
+3177	T	-	-	-	-	-	G	 	 	-	-	-	-	-	G	 
+3178	T	-	-	-	-	-	-	G	 	-	-	-	-	-	-	G
+3179	G	-	-	-	-	-	-	T	 	-	-	-	-	-	-	T
+3180	A	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+3181	C	-	-	-	-	-	-	G	 	-	-	-	-	-	-	G
+3182	A	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+3183	A	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+3184	G	-	-	-	-	-	-	T	 	-	-	-	-	-	-	T
+3185	T	-	-	-	-	-	-	A	 	-	-	-	-	-	-	A
+3186	A	-	-	-	-	-	-	T	 	-	-	-	-	-	-	T
+3187	G	-	-	-	-	-	-	 	 	-	-	-	-	-	-	 
+3188	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+3189	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+3190	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+3191	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+3192	-	 	 	 	 	 	 	T	 	 	 	 	 	 	 	T
+3193	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+3194	-	 	 	 	 	 	 	A	 	 	 	 	 	 	 	A
+TotalMuts	0	1376	1698	1443	2031	2098	1986	1183	60	1383	1695	1440	2032	2091	1979	1184

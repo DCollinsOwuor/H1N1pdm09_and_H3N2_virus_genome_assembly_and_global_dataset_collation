@@ -1,0 +1,129 @@
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: KNH-1987_R2.fastq
+Trimming mode: paired-end
+Trim Galore version: 0.6.4_dev
+Cutadapt version: 1.18
+Number of cores used for trimming: 1
+Quality Phred score cutoff: 30
+Quality encoding type selected: ASCII+33
+Using Nextera adapter for trimming (count: 486). Second best hit was Illumina (count: 0)
+Adapter sequence: 'CTGTCTCTTATA' (Nextera Transposase sequence; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 75 bp
+
+
+This is cutadapt 1.18 with Python 3.7.4
+Command line parameters: -j 1 -e 0.1 -q 30 -O 1 -a CTGTCTCTTATA KNH-1987_R2.fastq
+Processing reads on 1 core in single-end mode ...
+Finished in 3.31 s (12 us/read; 5.17 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 285,094
+Reads with adapters:                   111,069 (39.0%)
+Reads written (passing filters):       285,094 (100.0%)
+
+Total basepairs processed:    57,229,048 bp
+Quality-trimmed:              14,462,093 bp (25.3%)
+Total written (filtered):     42,615,618 bp (74.5%)
+
+=== Adapter 1 ===
+
+Sequence: CTGTCTCTTATA; Type: regular 3'; Length: 12; Trimmed: 111069 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-12 bp: 1
+
+Bases preceding removed adapters:
+  A: 30.2%
+  C: 23.5%
+  G: 19.4%
+  T: 26.2%
+  none/other: 0.6%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	89324	71273.5	0	89324
+2	14388	17818.4	0	14388
+3	5345	4454.6	0	5345
+4	1146	1113.6	0	1146
+5	302	278.4	0	302
+6	120	69.6	0	120
+7	132	17.4	0	132
+8	25	4.4	0	25
+9	14	1.1	0	7 7
+10	42	0.3	1	5 37
+11	13	0.1	1	9 4
+12	15	0.0	1	10 5
+13	9	0.0	1	4 5
+14	5	0.0	1	5
+15	4	0.0	1	1 3
+16	12	0.0	1	6 6
+17	3	0.0	1	0 3
+18	3	0.0	1	0 3
+19	1	0.0	1	0 1
+20	5	0.0	1	0 5
+21	4	0.0	1	2 2
+22	1	0.0	1	0 1
+23	1	0.0	1	1
+24	3	0.0	1	0 3
+25	1	0.0	1	1
+26	1	0.0	1	1
+27	3	0.0	1	1 2
+28	2	0.0	1	0 2
+29	1	0.0	1	0 1
+30	3	0.0	1	1 2
+31	2	0.0	1	1 1
+32	12	0.0	1	2 10
+33	9	0.0	1	2 7
+34	6	0.0	1	3 3
+35	3	0.0	1	1 2
+36	3	0.0	1	1 2
+37	2	0.0	1	2
+38	2	0.0	1	1 1
+39	3	0.0	1	1 2
+40	6	0.0	1	3 3
+41	7	0.0	1	1 6
+42	15	0.0	1	6 9
+43	4	0.0	1	3 1
+44	19	0.0	1	7 12
+45	4	0.0	1	0 4
+46	6	0.0	1	4 2
+47	5	0.0	1	1 4
+48	2	0.0	1	1 1
+49	1	0.0	1	1
+50	2	0.0	1	0 2
+53	1	0.0	1	0 1
+54	2	0.0	1	1 1
+55	1	0.0	1	0 1
+58	3	0.0	1	1 2
+59	2	0.0	1	0 2
+61	1	0.0	1	0 1
+68	1	0.0	1	0 1
+69	2	0.0	1	0 2
+71	1	0.0	1	0 1
+73	1	0.0	1	0 1
+76	2	0.0	1	0 2
+82	1	0.0	1	0 1
+88	1	0.0	1	1
+101	1	0.0	1	0 1
+114	1	0.0	1	0 1
+120	1	0.0	1	0 1
+125	1	0.0	1	1
+171	1	0.0	1	0 1
+192	1	0.0	1	1
+201	1	0.0	1	0 1
+203	1	0.0	1	0 1
+228	1	0.0	1	0 1
+
+
+RUN STATISTICS FOR INPUT FILE: KNH-1987_R2.fastq
+=============================================
+285094 sequences processed in total
+
+Total number of sequences analysed for the sequence pair length validation: 285094
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (75 bp): 53678 (18.83%)
