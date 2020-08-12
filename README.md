@@ -81,21 +81,21 @@ Reference-based assembly of 10 Kenyan paired end read data to evaluate utility o
         (i) H1N1pdm09
 
       a. 1_Continent_genomes
-        1_Africa
-        2_Asia
-        3_Europe
-        4_North_America
-        5_South_America
-        6_Oceania
+        	1_Africa
+        	2_Asia
+        	3_Europe
+        	4_North_America
+        	5_South_America
+        	6_Oceania
 
       b. 2_H1N1pdm09_global_WGS_2010-2013
-	1_Africa
-	2_Asia
-	3_Europe
-	4_North_America
-	5_South_America
-	6_Oceania
-	H1N1pdm09_WGS_2010-2013.fasta
+		1_Africa
+		2_Asia
+		3_Europe
+		4_North_America
+		5_South_America
+		6_Oceania
+		H1N1pdm09_WGS_2010-2013.fasta
 
       c. 3_H1N1pdm09_global_WGS_2009-2018
 
@@ -110,12 +110,12 @@ Reference-based assembly of 10 Kenyan paired end read data to evaluate utility o
       (ii) H3N2
 
       a. 1_Continent_genomes
-        1_Africa
-        2_Asia
-        3_Europe
-        4_North_America
-        5_South_America
-        6_Oceania
+        	1_Africa
+        	2_Asia
+        	3_Europe
+       	 	4_North_America
+        	5_South_America
+        	6_Oceania
 
       b. 2_H3N2_global_WGS_2010-2013
 
