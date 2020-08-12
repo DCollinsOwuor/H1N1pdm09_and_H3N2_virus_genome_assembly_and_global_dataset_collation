@@ -2,7 +2,7 @@
 
 *Subset data into 2010-13*
 
-- Make list with 2010-13 genomes only and save as 2010-13_list.txt 
+Make list with 2010-13 genomes only and save as 2010-13_list.txt 
 
   mkdir 2010-13
 
