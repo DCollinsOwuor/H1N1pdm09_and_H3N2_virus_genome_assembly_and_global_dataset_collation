@@ -2,7 +2,7 @@
 
 # This script will count single and paired reads; trim reads and adapters; count trimmed paired reads; assemble the genomes using a reference; call SNPs and generate consensus sequences
 
-# D. Collins Owuor 2019
+# D. Collins Owuor 2020
 
 for i in *_R1.fastq;
 
