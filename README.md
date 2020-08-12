@@ -66,21 +66,21 @@ Reference-based assembly of 10 Kenyan paired end read data to evaluate utility o
 
   3.	3_H1N1pdm09_virus_IRMA_assembly
 
-  	 1_H1N1pdm09_PB2.fasta
-  	 2_H1N1pdm09_PB1.fasta
-	 3_H1N1pdm09_PA.fasta
-	 4_H1N1pdm09_HA.fasta
-	 5_H1N1pdm09_NP.fasta
-	 6_H1N1pdm09_NA.fasta
-	 7_H1N1pdm09_M.fasta
-	 8_H1N1pdm09_NS.fasta
+  	 	1_H1N1pdm09_PB2.fasta
+  	 	2_H1N1pdm09_PB1.fasta
+	 	3_H1N1pdm09_PA.fasta
+	 	4_H1N1pdm09_HA.fasta
+	 	5_H1N1pdm09_NP.fasta
+	 	6_H1N1pdm09_NA.fasta
+	 	7_H1N1pdm09_M.fasta
+	 	8_H1N1pdm09_NS.fasta
 
 
   4.	4_Global_H1N1pdm09_and_H3N2_virus_datasets
 
         (i) H1N1pdm09
 
-      a. 1_Continent_genomes
+      	a. 1_Continent_genomes
         	1_Africa
         	2_Asia
         	3_Europe
@@ -88,7 +88,7 @@ Reference-based assembly of 10 Kenyan paired end read data to evaluate utility o
         	5_South_America
         	6_Oceania
 
-      b. 2_H1N1pdm09_global_WGS_2010-2013
+      	b. 2_H1N1pdm09_global_WGS_2010-2013
 		1_Africa
 		2_Asia
 		3_Europe
@@ -97,19 +97,19 @@ Reference-based assembly of 10 Kenyan paired end read data to evaluate utility o
 		6_Oceania
 		H1N1pdm09_WGS_2010-2013.fasta
 
-      c. 3_H1N1pdm09_global_WGS_2009-2018
+      	c. 3_H1N1pdm09_global_WGS_2009-2018
 
-	- Random sub-sampling of sequences from global continent sequences
+		- Random sub-sampling of sequences from global continent sequences
 
-	- Scripts: random_sub_sample_19Jan2020.py; fasta.py; and fasta.pyc
+		- Scripts: random_sub_sample_19Jan2020.py; fasta.py; and fasta.pyc
 
-	- output: random sub-sampling output
+		- output: random sub-sampling output
 
-	- README.md file  
+		- README.md file  
 
       (ii) H3N2
 
-      a. 1_Continent_genomes
+      	a. 1_Continent_genomes
         	1_Africa
         	2_Asia
         	3_Europe
@@ -117,6 +117,6 @@ Reference-based assembly of 10 Kenyan paired end read data to evaluate utility o
         	5_South_America
         	6_Oceania
 
-      b. 2_H3N2_global_WGS_2010-2013
+      	b. 2_H3N2_global_WGS_2010-2013
 
       c. 3_H3N2_global_WGS_2014-2016
