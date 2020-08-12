@@ -66,14 +66,14 @@ Reference-based assembly of 10 Kenyan paired end read data to evaluate utility o
 
   3.	3_H1N1pdm09_virus_IRMA_assembly
 
-  	 	1_H1N1pdm09_PB2.fasta
-  	 	2_H1N1pdm09_PB1.fasta
-	 	3_H1N1pdm09_PA.fasta
-	 	4_H1N1pdm09_HA.fasta
-	 	5_H1N1pdm09_NP.fasta
-	 	6_H1N1pdm09_NA.fasta
-	 	7_H1N1pdm09_M.fasta
-	 	8_H1N1pdm09_NS.fasta
+  	 1_H1N1pdm09_PB2.fasta
+  	 2_H1N1pdm09_PB1.fasta
+	 3_H1N1pdm09_PA.fasta
+	 4_H1N1pdm09_HA.fasta
+	 5_H1N1pdm09_NP.fasta
+	 6_H1N1pdm09_NA.fasta
+	 7_H1N1pdm09_M.fasta
+	 8_H1N1pdm09_NS.fasta
 
 
   4.	4_Global_H1N1pdm09_and_H3N2_virus_datasets
