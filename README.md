@@ -50,7 +50,7 @@ Reference-based assembly of 10 Kenyan paired-end read data to evaluate utility o
 
 	f.	mapping_statistics.txt; Summary of mapping statistics
 
-	g.	H1N1pdm09 virus paired end reads
+	g.	H1N1pdm09 virus paired-end reads showing sequnce accession name
 
 		 KNH-1870_R1.fastq and KNH-1870_R2.fastq - A/Kenya/CDC-KNH/001/2009
 		 KNH-1892_R1.fastq and KNH-1892_R2.fastq - A/Kenya/CDC-KNH/002/2009
