@@ -8,7 +8,7 @@ Date Published: 30 April 2020
 
 ### Introduction
 
-This work describes **H1N1pdm09 and H3N2 viruses whole-genome sequence (WGS)** data collection from Kenya. The aim of the repository is to give a summary of the dataset from Kenya and analyses of the data.
+This work describes **H1N1pdm09 and H3N2 viruses whole-genome sequencing (WGS)** data collection from Kenya. The aim of the repository is to give a summary of the dataset from Kenya and analyses of the data.
 
 ### General instructions
 
