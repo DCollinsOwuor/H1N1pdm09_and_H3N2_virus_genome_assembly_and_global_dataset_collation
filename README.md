@@ -20,14 +20,14 @@ The Kenya WGS dataset are available from the Global Initiative on Sharing All In
 
 1.	1_H1N1pdm09_and_H3N2_virus_Kenya_genomes
 
-A list of of 383 influenza H1N1pdm09 virus (2009-2018) and 58 H3N2 virus (2015-2016) WGS data from Kenya showing: sample names, GISAID accession numbers, collection locations, virus clades, number of sequencing reads, number of influenza reads, PCR Ct values and collection dates.
+A list of of 383 influenza H1N1pdm09 virus (2009-2018) and 58 H3N2 virus (2015-2016) WGS data from Kenya showing: sample names, GISAID accession numbers, collection locations, virus clades, number of sequencing reads, number of influenza virus reads, PCR Ct values and collection dates.
 
 	  (i)	H1N1pdm09_Kenya_2009-2018_genome_details.txt
 	  (ii)	H3N2_Kilifi_Kenya_2015-2016_genome_details.txt
 
 2.	2_H1N1pdm09_virus_reference-based_assembly
 
-Reference-based assembly of 10 Kenyan paired end read data to evaluate utility of the BWA assembler for genome assembly. The **assembly.sh** script was used to: count number of raw reads, trim raw reads, map trimmed reads to reference, sort, merge, and index the reads and perform a final alignment.
+Reference-based assembly of 10 Kenyan paired-end read data to evaluate utility of the BWA assembler for genome assembly. The **assembly.sh** script was used to: count number of raw reads, trim raw reads, map trimmed reads to reference, sort, merge, and index the reads and perform a final alignment.
 
 	a. Assembly output files - small output files only:
 
