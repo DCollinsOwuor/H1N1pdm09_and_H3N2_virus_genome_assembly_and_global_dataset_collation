@@ -1,4 +1,4 @@
-## Influenza H1N1pdm09 and H3N2 virus genomes from Kenya and global datasets, 2009-2018
+### Influenza H1N1pdm09 and H3N2 virus genomes from Kenya and global datasets, 2009-2018
 
 Author:         David Collins Owuor
 
