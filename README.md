@@ -6,15 +6,15 @@ Institution:   KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya
 
 Date Published: 30 April 2020
 
-### Introduction
+## Introduction
 
-This work describes **H1N1pdm09 and H3N2 viruses whole-genome sequencing (WGS)** data collection from Kenya. The aim of the repository is to give a summary of the dataset from Kenya and analyses of the data.
+This repository consists of a summarised dataset of influenza A **H1N1pdm09 virus and H3N2 virus whole-genome sequencing (WGS)** data from Kenya and contemporaneous global WGS datasets.
 
-### General instructions
+## General instructions
 
 These instructions will allow replication of the results shown in this work.
 
-### Datasets
+## Datasets
 
 The Kenya WGS dataset are available from the Global Initiative on Sharing All Influenza Data (GISAID) database (https://platform.gisaid.org/epi3/cfrontend).
 
