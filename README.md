@@ -18,12 +18,16 @@ These instructions will allow replication of the results shown in this work.
 
 The Kenya WGS dataset are available from the Global Initiative on Sharing All Influenza Data (GISAID) database (https://platform.gisaid.org/epi3/cfrontend).
 
+
+
 1.	1_H1N1pdm09_and_H3N2_virus_Kenya_genomes
 
 A list of of 383 influenza H1N1pdm09 virus (2009-2018) and 58 H3N2 virus (2015-2016) WGS data from Kenya showing: sample names, GISAID accession numbers, collection locations, virus clades, number of sequencing reads, number of influenza virus reads, PCR Ct values and collection dates.
 
 * H1N1pdm09_Kenya_2009-2018_genome_details.txt
 * H3N2_Kilifi_Kenya_2015-2016_genome_details.txt
+
+
 
 2.	2_H1N1pdm09_virus_reference-based_assembly
 
@@ -64,7 +68,9 @@ g.	H1N1pdm09 virus paired-end reads showing sequence accession names
 * KNH-2011_R1.fastq and KNH-2011_R2.fastq - A/Kenya/CDC-KNH/014/2009
 
 
- 3.	3_H1N1pdm09_virus_IRMA_assembly
+
+
+3.	3_H1N1pdm09_virus_IRMA_assembly
 
 * 1_H1N1pdm09_PB2.fasta
 * 2_H1N1pdm09_PB1.fasta
@@ -74,6 +80,8 @@ g.	H1N1pdm09 virus paired-end reads showing sequence accession names
 * 6_H1N1pdm09_NA.fasta
 * 7_H1N1pdm09_M.fasta
 * 8_H1N1pdm09_NS.fasta
+
+
 
 
 4.	4_Global_H1N1pdm09_and_H3N2_virus_datasets
@@ -88,7 +96,6 @@ a. 1_Continent_genomes
 * 5_South_America
 * 6_Oceania
 
-
 b. 2_H1N1pdm09_global_WGS_2010-2013
 * 1_Africa
 * 2_Asia
@@ -97,7 +104,6 @@ b. 2_H1N1pdm09_global_WGS_2010-2013
 * 5_South_America
 * 6_Oceania
 * H1N1pdm09_WGS_2010-2013.fasta
-
 
 c. 3_H1N1pdm09_global_WGS_2009-2018
 * Random sub-sampling of sequences from global continent sequences
