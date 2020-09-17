@@ -1,7 +1,7 @@
-# Random subsampling of a certain number of sequences from a combined fasta file.
+# Random subsampling of sequences from a combined continent fasta file from GISAID.
 
 
-*Random sub-sampling of 2009-18 sequences*
+*Random subsampling of 2009-18 sequences*
 
 
 The following files should be in the same directory for subsampling: (i) fasta.py (ii) random_sub_sample_19Jan2020.py and (iii) fasta.pyc
