@@ -1,5 +1,4 @@
-
-##Random subsampling of a certain number of sequences from a combined fasta file.
+# Random subsampling of a certain number of sequences from a combined fasta file.
 
 
 *Random sub-sampling of 2009-18 sequences*
