@@ -1,7 +1,12 @@
 #!/bin/bash
 
-# This script will count single and paired reads; trim reads and adapters; count trimmed paired reads; assemble the genomes using a reference; call SNPs and generate consensus sequences.
-# Requires Trim Galore, BWA, SAMtools, BCFtools, and MAFFT installed.
+# This script will count single and paired reads; trim reads and adapters; count trimmed
+# paired reads; assemble the genomes using a reference; call SNPs and generate consensus
+# sequences.
+
+# Requires Trim Galore, BWA, SAMtools, BCFtools, and MAFFT installed. The versions used
+# for this assembly are shown. 
+
 # D. Collins Owuor 2020
 
 for i in *_R1.fastq;
