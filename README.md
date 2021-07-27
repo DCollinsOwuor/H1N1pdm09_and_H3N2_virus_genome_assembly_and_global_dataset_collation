@@ -23,7 +23,7 @@ Data (GISAID) database (https://platform.gisaid.org/epi3/cfrontend).
 
 
 
-1.	1_H1N1pdm09_and_H3N2_virus_Kenya_genomes.
+1.	1_H1N1pdm09_and_H3N2_viruses_Kenya_genomes.
 
 * H1N1pdm09_Kenya_2009-2018_genome_details.txt
 
@@ -71,7 +71,9 @@ f.	mapping_statistics.txt; Summary of mapping statistics.
 
 
 
-3.	3_H1N1pdm09_virus_IRMA_assembly (compressed).
+3.	3_H1N1pdm09_virus_IRMA_assembly.
+
+Compressed fasta files from IRMA assembly.
 
 * 1_H1N1pdm09_PB2.fasta.zip
 * 2_H1N1pdm09_PB1.fasta.zip
