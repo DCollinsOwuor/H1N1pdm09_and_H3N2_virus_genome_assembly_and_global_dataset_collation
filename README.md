@@ -14,7 +14,8 @@ datasets.
 
 ## General instructions
 
-These instructions will allow replication of the results shown in this work.
+These instructions will allow replication of the results in my PhD thesis available at
+http://oro.open.ac.uk/75472/; Chapter 2 - Materials and Methods.
 
 ## Datasets
 
