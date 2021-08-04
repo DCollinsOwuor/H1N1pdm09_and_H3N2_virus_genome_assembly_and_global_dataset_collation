@@ -8,10 +8,8 @@ Date Published: 30 April 2020
 
 ## Datasets
 
-The Kenyan NGS dataset are available from the Global Initiative on Sharing All Influenza
-Data (GISAID) database (https://platform.gisaid.org/epi3/cfrontend).
-
-1.	1_H1N1pdm09_and_H3N2_viruses_Kenya_genomes.
+This folder contains the Kenyan NGS dataset that are available at the Global Initiative on
+Sharing All Influenza Data (GISAID) database (https://platform.gisaid.org/epi3/cfrontend).
 
 * H1N1pdm09_Kenya_2009-2018_genome_details.txt
 
