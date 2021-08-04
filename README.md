@@ -24,14 +24,14 @@ Data (GISAID) database (https://platform.gisaid.org/epi3/cfrontend).
 
 1.	1_H1N1pdm09_and_H3N2_viruses_Kenya_genomes.
 
-* H1N1pdm09_Kenya_2009-2018_genome_details.txt
+* H1N1pdm09_Kenya_2009-2018_genome_details.tsv
 
 A list of 383 influenza H1N1pdm09 virus (2009-2018) NGS data from Kenya showing: strain - 
 virus strain identity; accession - GISAID accession number; site - location of isolation; 
 reads - number of sequencing reads; flu - number of influenza virus reads; Ct - PCR Ct value; 
 and date - collection dates.
 
-* H3N2_Kilifi_2015-2016_genome_details.txt
+* H3N2_Kilifi_2015-2016_genome_details.tsv
 
 A list of 58 H3N2 virus (2015-2016) NGS data from Kenya showing: strain - virus strain
 identity; accession - GISAID accession number; site - location of isolation; 
@@ -86,6 +86,6 @@ A list of global influenza H1N1pdm09 virus and H3N2 virus data showing: strain -
 virus strain identity; accession - GISAID accession number; country - country of isolation; 
 and continent - continent of isolation.
 
-* H1N1pdm09_global_WGS_genome_details_2009-2018.tsv
+* H1N1pdm09_global_WGS_genome_details_2009-2018.txt
 
-* H3N2_global_WGS_genome_details_2010-2016.tsv
+* H3N2_global_WGS_genome_details_2010-2016.txt
