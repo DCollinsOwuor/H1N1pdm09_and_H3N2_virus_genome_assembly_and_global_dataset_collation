@@ -30,7 +30,7 @@ Data (GISAID) database (https://platform.gisaid.org/epi3/cfrontend).
 
 A list of 383 influenza H1N1pdm09 virus (2009-2018) NGS data from Kenya showing: strain - 
 virus strain identity; accession - GISAID accession number; site - location of isolation; 
-reads - number of sequencing reads; number of influenza virus reads; Ct - PCR Ct value; 
+reads - number of sequencing reads; flu - number of influenza virus reads; Ct - PCR Ct value; 
 and date - collection dates.
 
 * H3N2_Kilifi_2015-2016_genome_details.txt
