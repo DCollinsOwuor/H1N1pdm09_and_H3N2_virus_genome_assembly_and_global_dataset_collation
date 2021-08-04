@@ -13,6 +13,6 @@ A list of global influenza H1N1pdm09 virus and H3N2 virus data showing: strain -
 virus strain identity; accession - GISAID accession number; country - country of isolation; 
 and continent - continent of isolation.
 
-* H1N1pdm09_global_WGS_genome_details_2009-2018.txt - H1N1pdm09 virus global dataset.
+* H1N1pdm09_global_WGS_genome_details_2009-2018.tsv - H1N1pdm09 virus global dataset.
 
-* H3N2_global_WGS_genome_details_2010-2016.txt - H3N2 virus global dataset.
+* H3N2_global_WGS_genome_details_2010-2016.tsv - H3N2 virus global dataset.
