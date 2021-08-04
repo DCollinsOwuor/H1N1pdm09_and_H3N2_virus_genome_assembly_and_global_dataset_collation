@@ -22,8 +22,6 @@ http://oro.open.ac.uk/75472/; Chapter 2 - Materials and Methods.
 The Kenyan NGS dataset are available from the Global Initiative on Sharing All Influenza
 Data (GISAID) database (https://platform.gisaid.org/epi3/cfrontend).
 
-
-
 1.	1_H1N1pdm09_and_H3N2_viruses_Kenya_genomes.
 
 * H1N1pdm09_Kenya_2009-2018_genome_details.txt
@@ -40,7 +38,6 @@ identity; accession - GISAID accession number; site - location of isolation;
 reads - number of sequencing reads; number of influenza virus reads; Ct - PCR Ct value;
 date - collection dates; and strain_accession - strain ID showing collection site for
 analysis.
-
 
 2.	2_H1N1pdm09_virus_reference-based_assembly.
 
@@ -70,8 +67,6 @@ e.	AlignMuts.jar; Show differences between reference and consensus sequences.
 
 f.	mapping_statistics.txt; Summary of mapping statistics.
 
-
-
 3.	3_H1N1pdm09_virus_IRMA_assembly.
 
 Compressed fasta files from IRMA assembly.
@@ -84,7 +79,6 @@ Compressed fasta files from IRMA assembly.
 * 6_H1N1pdm09_NA.fasta.zip
 * 7_H1N1pdm09_M.fasta.zip
 * 8_H1N1pdm09_NS.fasta.zip
-
 
 4.	4_Global_H1N1pdm09_and_H3N2_virus_datasets.
 
